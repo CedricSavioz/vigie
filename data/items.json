@@ -1,0 +1,1253 @@
+{
+  "updated_at": "2026-07-08T19:41:48.280044+00:00",
+  "items": [
+    {
+      "guid": "{C44EC83E-2786-4ABD-B7BA-2BFD73793729}",
+      "source": "FINMA",
+      "titre": "La FINMA publie une nouvelle ordonnance sur les liquidités des banques et des maisons de titres",
+      "lien": "https://www.finma.ch/fr/news/2026/07/20260707-mm-liqv-finma/",
+      "categorie": "Communiqué de presse",
+      "description": "L’Autorité fédérale de surveillance des marchés financiers (FINMA) transpose sa circulaire sur le risque de liquidité des banques et des maisons de titres en une nouvelle ordonnance. Elle satisfait ainsi à l’exigence du niveau normatif adéquat au sens de l’art. 7 al. 1 de la loi sur la surveillance des marchés financiers.",
+      "date": "2026-07-07T08:00:00+00:00",
+      "analyse": {
+        "resume": "La FINMA transpose sa circulaire sur le risque de liquidité des banques et maisons de titres en une ordonnance, pour satisfaire à l'exigence du niveau normatif adéquat (art. 7 al. 1 LFINMA). Le fond du dispositif liquidité reste a priori inchangé, mais la base légale et les renvois évoluent.",
+        "domaines": [
+          "Banques",
+          "Liquidités"
+        ],
+        "niveau_impact": "moyen",
+        "etablissements_concernes": "Banques et maisons de titres",
+        "actions_risk_manager": [
+          "Réaliser une gap analysis entre l'ancienne circulaire et la nouvelle ordonnance pour confirmer la reprise à droit constant",
+          "Mettre à jour le référentiel réglementaire interne et les renvois dans les directives (trésorerie, ALM, reporting LCR/NSFR)",
+          "Informer le comité des risques et la fonction trésorerie du changement de base légale"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{3E2299EF-0E81-44B5-BAF2-1BA4C41767AF}",
+      "source": "FINMA",
+      "titre": "La FINMA salue l’institution d’un groupe de travail dévolu à «l’optimisation de la réglementation des marchés financiers»",
+      "lien": "https://www.finma.ch/fr/news/2026/07/20260701-mm-regopt/",
+      "categorie": "Communiqué de presse",
+      "description": "L’Autorité fédérale de surveillance des marchés financiers FINMA salue l’institution d’un groupe de travail dévolu à l’optimisation de la réglementation des marchés financiers en Suisse. Cette nouvelle a été communiquée aujourd’hui par le Département fédéral des finances (DFF). La FINMA apportera son expérience et son expertise à ce groupe.",
+      "date": "2026-07-01T04:46:41+00:00",
+      "analyse": {
+        "resume": "La FINMA salue la création par le DFF d'un groupe de travail sur l'optimisation de la réglementation des marchés financiers, auquel elle apportera son expertise. Aucune obligation nouvelle : signal politique d'une possible simplification réglementaire à moyen terme.",
+        "domaines": [
+          "Gouvernance",
+          "Marchés"
+        ],
+        "niveau_impact": "informatif",
+        "etablissements_concernes": "Ensemble de la place financière (à moyen terme)",
+        "actions_risk_manager": [
+          "Inscrire les travaux du groupe dans la veille réglementaire périodique",
+          "Identifier les processus internes lourds qui pourraient bénéficier d'une future simplification"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{401DC633-A88A-46E0-953C-3A8831D51C48}",
+      "source": "FINMA",
+      "titre": "La FINMA clôt la procédure à l’encontre de Swiss Fund Management AG (en liquidation) et de BZ Berater Zentrum AG et fait respecter les règles de comportement dans le secteur des services financiers",
+      "lien": "https://www.finma.ch/fr/news/2026/06/20260629-mm-durchsetzung-verhaltensregeln/",
+      "categorie": "Communiqué de presse",
+      "description": "L’Autorité fédérale de surveillance des marchés financiers FINMA a clos une procédure d’ enforcement à l’encontre de deux établissements et d’une personne physique pour violations graves des règles de comportement applicables à la fourniture de services financiers au sens de la LSFin. Afin de rétablir l’ordre légal et de protéger les investisseurs, la FINMA a ordonné différentes mesures. Elle a retiré à Swiss Fund Management AG en liquidation l’autorisation de gérer des fonds. La demande de BZ Berater Zentrum AG visant à obtenir une autorisation en tant que gestionnaire de fortune indépendant a été rejetée. En outre, la FINMA confisque des gains indûment acquis se chiffrant en millions et prononce à l’encontre d’une personne responsable une interdiction d’exercer d’une durée de plusieurs années.",
+      "date": "2026-06-29T08:00:00+00:00",
+      "analyse": {
+        "resume": "La FINMA clôt une procédure d'enforcement pour violations graves des règles de comportement LSFin : retrait d'autorisation pour Swiss Fund Management AG, rejet de la demande d'autorisation de BZ Berater Zentrum AG, confiscation de gains de plusieurs millions et interdiction d'exercer contre un responsable. Signal fort : la FINMA sanctionne désormais durement les manquements LSFin.",
+        "domaines": [
+          "Enforcement",
+          "LSFin / LEFin",
+          "Gestion d'actifs"
+        ],
+        "niveau_impact": "moyen",
+        "etablissements_concernes": "Gestionnaires de fortune, direction de fonds, prestataires de services financiers LSFin",
+        "actions_risk_manager": [
+          "Revoir les contrôles de 2e ligne sur les règles de comportement LSFin (information, adéquation, documentation client)",
+          "Vérifier la robustesse du dispositif de gestion des conflits d'intérêts et de la surveillance des collaborateurs clés",
+          "Présenter le cas au management comme scénario de risque (retrait d'autorisation, confiscation, interdiction d'exercer)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{9FA5342C-F3D8-4941-9C5F-07496155630C}",
+      "source": "FINMA",
+      "titre": "Intermédiation d’assurance: la surveillance déploie ses effets, mais il reste nécessaire d’agir contre les abus",
+      "lien": "https://www.finma.ch/fr/news/2026/06/20260617-mm-vermittlersymposium/",
+      "categorie": "Communiqué de presse",
+      "description": "Les versions révisées de la loi sur la surveillance des assurances et de l’ordonnance sur la surveillance sont entrées en vigueur le 1 er janvier 2024. Elles ont introduit d’importants changements pour le marché des intermédiaires. Deux ans et demi plus tard, la FINMA dresse le bilan lors d’un symposium organisé à Berne devant les professionnels du secteur. Elle constate des progrès encourageants en matière de protection des clients, mais souligne aussi que de nombreuses personnes exercent encore leur activité sans droit. Quelque 12 000 intermédiaires d’assurance non liés sont autorisés par la FINMA.",
+      "date": "2026-06-17T11:53:00+00:00",
+      "analyse": {
+        "resume": "Deux ans et demi après l'entrée en vigueur de la LSA et de l'OS révisées, la FINMA dresse un bilan contrasté de la surveillance des intermédiaires d'assurance : progrès en matière de protection des clients, mais des abus persistent, notamment des personnes exerçant sans enregistrement.",
+        "domaines": [
+          "Assurances",
+          "Gouvernance"
+        ],
+        "niveau_impact": "moyen",
+        "etablissements_concernes": "Assureurs et intermédiaires d'assurance (liés et non liés)",
+        "actions_risk_manager": [
+          "Vérifier que tous les intermédiaires utilisés sont dûment enregistrés et formés (obligations LSA/OS)",
+          "Renforcer les contrôles sur la distribution : rémunérations, transparence précontractuelle, qualité du conseil",
+          "Suivre les annonces d'enforcement dans l'intermédiation pour calibrer la cartographie des risques de distribution"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{65BA0B71-57DB-41CE-AB35-C66B08A38E0B}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées",
+      "lien": "https://www.finma.ch/fr/news/2026/06/20260617-sr-946-231-09/",
+      "categorie": "Sanction financière",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche (DEFR) a modifié l'annexe de l'ordonnance du 10 avril 2024 instituant des mesures à l'encontre de personnes et entités soutenant le Hamas ou le Djihad islamique palestinien (RS 946.231.09).",
+      "date": "2026-06-17T06:34:34+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l'économie, de la formation et de la recherche (DEFR) a modifié l'annexe de l'ordonnance du 10 avril 2024 instituant des mesures à l'encontre de personnes et entités soutenant le Hamas ou le Djihad islamique palestinien (RS 946.231.09). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{3AE2CE03-E752-4CE6-BE71-B1B394194016}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : Syrie",
+      "lien": "https://www.finma.ch/fr/news/2026/06/20260617-sr-946-231-172-7/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l'annexe 7 de l'Ordonnance du 8 juin 2012 instituant des mesures à l’encontre de la Syrie (RS 946.231.172.7).",
+      "date": "2026-06-17T04:13:19+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l'annexe 7 de l'Ordonnance du 8 juin 2012 instituant des mesures à l’encontre de la Syrie (RS 946.231.172.7). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{BC67EAAD-5FB1-4030-AB9F-95402151B46B}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : Russie",
+      "lien": "https://www.finma.ch/fr/news/2026/06/20261606-sr-946-231-176-72/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l’économie, de la formation et de la recherche DEFR a publié des modifications de l'annexe 8 de l'ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine (RS 946.231.176.72).",
+      "date": "2026-06-16T09:58:51+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l’économie, de la formation et de la recherche DEFR a publié des modifications de l'annexe 8 de l'ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine (RS 946.231.176.72). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{DD1B8744-474C-42F2-AAA5-1168640A3D68}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : Soudan",
+      "lien": "https://www.finma.ch/fr/news/2026/06/20260605-sr-946-231-18/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a modifié l'annexe 2 de l'ordonnance du 25 mai 2005 instituant des mesures à l’encontre du Soudan (RS 946.231.18).",
+      "date": "2026-06-05T13:27:43+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a modifié l'annexe 2 de l'ordonnance du 25 mai 2005 instituant des mesures à l’encontre du Soudan (RS 946.231.18). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{1097736C-F7E2-4195-9FEE-3AF9AF86CED4}",
+      "source": "FINMA",
+      "titre": "La FINMA publie une communication sur la surveillance complémentaire concernant l’analyse des risques de blanchiment d’argent",
+      "lien": "https://www.finma.ch/fr/news/2026/06/20260604-mm-am-04-26/",
+      "categorie": "Communiqué de presse",
+      "description": "L’Autorité fédérale de surveillance des marchés financiers FINMA a à nouveau examiné de nombreuses analyses des risques de blanchiment d’argent et complète sa communication sur la surveillance 05/2023 en ajoutant de nouvelles observations et expériences, tant pour les banques que pour les établissements selon la LEFin. Elle a constaté des progrès, mais a aussi relevé qu’il existait encore un potentiel d’amélioration.",
+      "date": "2026-06-04T08:59:00+00:00",
+      "analyse": {
+        "resume": "La FINMA complète sa communication sur la surveillance 05/2023 avec de nouvelles observations issues de l'examen de nombreuses analyses des risques de blanchiment, pour les banques comme pour les établissements LEFin. Elle constate des progrès mais un potentiel d'amélioration persistant : l'analyse des risques LBA reste un point d'attention prioritaire de la surveillance.",
+        "domaines": [
+          "LBA / Blanchiment",
+          "Banques",
+          "Gestion d'actifs"
+        ],
+        "niveau_impact": "eleve",
+        "etablissements_concernes": "Banques et établissements LEFin (gestionnaires de fortune, trustees)",
+        "actions_risk_manager": [
+          "Confronter l'analyse des risques LBA de l'établissement aux nouvelles observations de la FINMA (gap analysis)",
+          "Vérifier que l'analyse couvre tolérance au risque, critères quantitatifs et qualitatifs, et qu'elle est réellement utilisée pour piloter le dispositif",
+          "Faire valider les écarts et le plan de remédiation par le comité des risques, et prévoir une revue par l'audit interne"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{D641B423-B0FC-413D-8F88-26939317991D}",
+      "source": "FINMA",
+      "titre": "La FINMA clôture la procédure engagée à l’encontre de Wendelspiess Partners AG et prononce des interdictions d’exercer de plusieurs années",
+      "lien": "https://www.finma.ch/fr/news/2026/06/20260306-mm-wendelspiess/",
+      "categorie": "Communiqué de presse",
+      "description": "L’Autorité fédérale de surveillance des marchés financiers FINMA clôt une procédure d’ enforcement à l’encontre de Wendelspiess Partners AG (en liquidation) et de deux personnes physiques pour violations graves des règles de comportement applicables à la fourniture de services financiers. Elle prononce à l’encontre de deux responsables des interdictions d’exercer d’une durée de plusieurs années.",
+      "date": "2026-06-03T10:58:00+00:00",
+      "analyse": {
+        "resume": "La FINMA clôt la procédure d'enforcement contre Wendelspiess Partners AG (en liquidation) pour violations graves des règles de comportement dans la fourniture de services financiers et prononce des interdictions d'exercer de plusieurs années contre deux responsables.",
+        "domaines": [
+          "Enforcement",
+          "LSFin / LEFin"
+        ],
+        "niveau_impact": "moyen",
+        "etablissements_concernes": "Prestataires de services financiers, en particulier gestionnaires de fortune",
+        "actions_risk_manager": [
+          "Rappeler aux organes dirigeants leur responsabilité personnelle (interdiction d'exercer) en cas de défaillance du dispositif",
+          "Auditer la conformité des processus de conseil et de gestion aux règles de comportement LSFin"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{357FA25F-5699-4758-B8CA-B2D832AA42E5}",
+      "source": "FINMA",
+      "titre": "La FINMA publie une communication sur la surveillance relative aux risques liés à l’utilisation de produits dans le cadre de la gestion de fortune individuelle",
+      "lien": "https://www.finma.ch/fr/news/2026/06/20260603-mm-am-03-2026-risiken-produkte-vv/",
+      "categorie": "Communiqué de presse",
+      "description": "Dans une nouvelle communication sur la surveillance, l’Autorité fédérale de surveillance des marchés financiers FINMA présente les modèles de risques qu’elle observe toujours plus fréquemment dans les cas signalés en lien avec l’utilisation de produits dans la gestion de fortune individuelle. La communication sur la surveillance rappelle les règles que les établissements doivent respecter lorsqu’ils utilisent des produits dans la gestion de fortune individuelle.",
+      "date": "2026-06-03T06:59:00+00:00",
+      "analyse": {
+        "resume": "Nouvelle communication sur la surveillance : la FINMA décrit les schémas de risques observés de plus en plus fréquemment dans l'utilisation de produits (notamment maison) au sein de la gestion de fortune individuelle, et rappelle les règles applicables : gestion des conflits d'intérêts, adéquation, information du client.",
+        "domaines": [
+          "Gestion d'actifs",
+          "LSFin / LEFin",
+          "Risques opérationnels"
+        ],
+        "niveau_impact": "eleve",
+        "etablissements_concernes": "Banques privées, gestionnaires de fortune, établissements utilisant des produits propres dans les mandats",
+        "actions_risk_manager": [
+          "Recenser l'utilisation de produits (surtout propres) dans les mandats de gestion et vérifier la conformité aux règles rappelées",
+          "Tester les contrôles sur les conflits d'intérêts : rémunérations, rétrocessions, double rôle producteur/distributeur",
+          "Mettre à jour la cartographie des risques et le plan de contrôle 2e ligne sur la gestion de fortune individuelle"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{0BC53810-16E6-4647-8144-F6BD49A07287}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : Myanmar",
+      "lien": "https://www.finma.ch/fr/news/2026/06/20260602-sr-946-231-157-5/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l’annexe 1 de l'ordonnance du 17 octobre 2018 instituant des mesures à l'encontre du Myanmar (RS 946.231.157.5)",
+      "date": "2026-06-02T14:52:21+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l’annexe 1 de l'ordonnance du 17 octobre 2018 instituant des mesures à l'encontre du Myanmar (RS 946.231.157.5). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{DCB059AE-64E2-4F8C-AFC2-AB565E273B55}",
+      "source": "FINMA",
+      "titre": "Annonce des sanctions actualisée : EIIL (Daech) et Al-Qaïda",
+      "lien": "https://www.finma.ch/fr/news/2026/05/20260522-sr-946-231-08/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al-Qaïda (RS 946.231.08).",
+      "date": "2026-05-22T13:14:38+00:00",
+      "analyse": {
+        "resume": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al-Qaïda (RS 946.231.08). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{A80C7DB5-DC22-4F21-8D28-A54EFDA99D0A}",
+      "source": "FINMA",
+      "titre": "Simon Brönnimann prend la tête de la division Recovery et resolution de la FINMA",
+      "lien": "https://www.finma.ch/fr/news/2026/05/20260522-mm-leitung-gb-r/",
+      "categorie": "Communiqué de presse",
+      "description": "Le conseil d’administration de l’Autorité fédérale de surveillance des marchés financiers FINMA a nommé Simon Brönnimann chef de la division Recovery et resolution et membre de la direction. Simon Brönnimann prend ainsi définitivement, au 1 er juin 2026, la tête de cette division qu’il dirigeait déjà par intérim depuis avril 2026.",
+      "date": "2026-05-22T06:34:46+00:00",
+      "analyse": {
+        "resume": "Le conseil d'administration de la FINMA nomme Simon Brönnimann chef de la division Recovery et resolution et membre de la direction au 1er juin 2026, fonction qu'il exerçait par intérim depuis avril.",
+        "domaines": [
+          "Gouvernance"
+        ],
+        "niveau_impact": "informatif",
+        "etablissements_concernes": "Établissements d'importance systémique et banques en plan de stabilisation",
+        "actions_risk_manager": [
+          "Mettre à jour la fiche de veille sur l'organisation de la FINMA (interlocuteurs recovery/resolution)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{00032AFD-1E4E-47FD-96FE-6977C34EB668}",
+      "source": "FINMA",
+      "titre": "La FINMA publie une nouvelle ordonnance sur la répartition des risques des banques et des maisons de titres",
+      "lien": "https://www.finma.ch/fr/news/2026/05/20260520-mm-rvv-finma/",
+      "categorie": "Communiqué de presse",
+      "description": "L’Autorité fédérale de surveillance des marchés financiers FINMA transpose deux circulaires existantes relatives à la répartition des risques des banques et des maisons de titres dans une nouvelle ordonnance. Elle satisfait ainsi à l’exigence du niveau normatif adéquat au sens de l’art. 7 al. 1 de la loi sur la surveillance des marchés financiers.",
+      "date": "2026-05-20T07:00:00+00:00",
+      "analyse": {
+        "resume": "La FINMA transpose deux circulaires sur la répartition des risques des banques et maisons de titres dans une nouvelle ordonnance, conformément à l'exigence du niveau normatif adéquat (art. 7 al. 1 LFINMA). Le régime des gros risques est concerné ; le fond devrait rester à droit constant.",
+        "domaines": [
+          "Banques",
+          "Fonds propres"
+        ],
+        "niveau_impact": "moyen",
+        "etablissements_concernes": "Banques et maisons de titres",
+        "actions_risk_manager": [
+          "Comparer l'ordonnance aux circulaires transposées pour identifier tout écart matériel (limites gros risques, exceptions)",
+          "Mettre à jour le référentiel réglementaire, les directives internes et les contrôles liés au reporting des gros risques"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{C40A50E6-E736-415E-92C3-93F4B945321F}",
+      "source": "FINMA",
+      "titre": "La FINMA ouvre une audition sur la révision partielle de l’ordonnance de la FINMA sur le blanchiment d’argent",
+      "lien": "https://www.finma.ch/fr/news/2026/05/20260512-mm-anh-gwv-finma/",
+      "categorie": "Communiqué de presse",
+      "description": "L’Autorité fédérale de surveillance des marchés financiers FINMA a ouvert le 12 mai 2026 la procédure d’audition relative à la révision partielle de l’OBA-FINMA. L’audition s’achèvera le 9 juin 2026.",
+      "date": "2026-05-12T07:59:00+00:00",
+      "analyse": {
+        "resume": "La FINMA ouvre l'audition sur la révision partielle de l'ordonnance de la FINMA sur le blanchiment d'argent (OBA-FINMA), du 12 mai au 9 juin 2026. Une révision de l'OBA-FINMA impacte directement le dispositif LBA des intermédiaires financiers.",
+        "domaines": [
+          "LBA / Blanchiment",
+          "Banques",
+          "Gestion d'actifs"
+        ],
+        "niveau_impact": "moyen",
+        "etablissements_concernes": "Tous les intermédiaires financiers soumis à l'OBA-FINMA",
+        "actions_risk_manager": [
+          "Analyser le projet de révision et chiffrer les impacts sur le dispositif LBA (processus, systèmes, directives)",
+          "Préparer un plan de mise en conformité anticipé pour l'entrée en vigueur du texte révisé",
+          "Suivre la publication du rapport d'audition et de la version finale"
+        ],
+        "echeance": "Audition close le 9 juin 2026 ; texte final à suivre",
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{FCD49BAF-1868-48A1-985A-8A707B053DDE}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : Soudan",
+      "lien": "https://www.finma.ch/fr/news/2026/05/20260501-sr-946-231-18/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l'annexe de l'ordonnance du 25 mai 2005 instituant des mesures à l'encontre du Soudan (RS 946.231.18).",
+      "date": "2026-05-01T13:44:06+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l'annexe de l'ordonnance du 25 mai 2005 instituant des mesures à l'encontre du Soudan (RS 946.231.18). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{21D0CBBE-373D-47EE-9DAA-BF2BB0D6A5E5}",
+      "source": "FINMA",
+      "titre": "Annonce des sanctions actualisée : Taliban",
+      "lien": "https://www.finma.ch/fr/news/2026/05/20260501-sr-946-231-07/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux Taliban (SR 946.231.07).",
+      "date": "2026-05-01T13:34:51+00:00",
+      "analyse": {
+        "resume": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux Taliban (SR 946.231.07). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{665DEB06-1B65-4107-9AC6-854771C4F38D}",
+      "source": "FINMA",
+      "titre": "La FINMA salue le message adopté par le Conseil fédéral concernant la révision de la loi sur les banques",
+      "lien": "https://www.finma.ch/fr/news/2026/04/20260422-mm-finma-botschaft-br-tbtf/",
+      "categorie": "Communiqué de presse",
+      "description": "L’Autorité fédérale de surveillance des marchés financiers FINMA salue le message relatif à la révision de la loi sur les banques, que le Conseil fédéral a adopté aujourd’hui. Ce projet de loi constitue l’un des éléments centraux pour renforcer la stabilité bancaire. Afin d’obtenir une efficacité optimale, la FINMA recommande que les mesures proposées dans les lignes directrices du Conseil fédéral relatives à la modification de la loi sur les banques soient mises en œuvre dans leur ensemble. Elle soutient en particulier le renforcement des instruments légaux préventifs.",
+      "date": "2026-04-22T11:46:07+00:00",
+      "analyse": {
+        "resume": "La FINMA salue le message du Conseil fédéral sur la révision de la loi sur les banques, pilier du renforcement de la stabilité bancaire post-Credit Suisse. Elle recommande la mise en œuvre intégrale des mesures (dont un régime de responsabilité renforcé et des instruments d'intervention précoce).",
+        "domaines": [
+          "Banques",
+          "Gouvernance",
+          "Fonds propres"
+        ],
+        "niveau_impact": "moyen",
+        "etablissements_concernes": "Banques, en premier lieu les établissements d'importance systémique",
+        "actions_risk_manager": [
+          "Suivre le processus parlementaire et cartographier les mesures susceptibles de toucher l'établissement",
+          "Anticiper les exigences en matière de gouvernance et de responsabilité des organes (senior manager regime)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{56437566-8087-4B12-BC27-C0B247F28FA9}",
+      "source": "FINMA",
+      "titre": "Conférence de presse annuelle 2026 de la FINMA",
+      "lien": "https://www.finma.ch/fr/news/2026/04/20260421-mm-jmk-2026/",
+      "categorie": "Communiqué de presse",
+      "description": "À l’occasion de sa conférence de presse annuelle d’aujourd’hui, l’Autorité fédérale de surveillance des marchés financiers FINMA a présenté les axes prioritaires de sa surveillance en 2025. Elle a mis en oeuvre de manière systématique sa surveillance proportionnée et fondée sur les risques, renforcé la résilience des établissements assujettis et mis l’accent sur la détection précoce des risques croissants chez ces derniers. Dans sa rétrospective, elle a montré la manière dont elle a protégé les clients de la place financière suisse au cours de l’année sous revue.",
+      "date": "2026-04-21T07:30:00+00:00",
+      "analyse": {
+        "resume": "Lors de sa conférence de presse annuelle, la FINMA présente ses axes prioritaires de surveillance : surveillance proportionnée fondée sur les risques, renforcement de la résilience des assujettis et détection précoce des risques croissants. Une lecture utile pour aligner son plan de contrôle interne.",
+        "domaines": [
+          "Gouvernance",
+          "Risques opérationnels"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les assujettis FINMA",
+        "actions_risk_manager": [
+          "Aligner le plan de contrôle et la cartographie des risques sur les priorités de surveillance annoncées",
+          "Reprendre les thèmes prioritaires FINMA dans le reporting risques au management"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{EBCAC5FB-EB22-40C2-9A97-820251C46A5D}",
+      "source": "FINMA",
+      "titre": "Annonce des sanctions actualisée : Taliban",
+      "lien": "https://www.finma.ch/fr/news/2026/04/20260416-sr-946-231-07/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux Taliban (SR 946.231.07).",
+      "date": "2026-04-17T06:42:20+00:00",
+      "analyse": {
+        "resume": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux Taliban (SR 946.231.07). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{EE1838E6-2971-4730-BEE7-3C3F9FFB1804}",
+      "source": "FINMA",
+      "titre": "Annonce des sanctions actualisée : Taliban",
+      "lien": "https://www.finma.ch/fr/news/2026/04/20260415-sr-946-231-07/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux Taliban (SR 946.231.07).",
+      "date": "2026-04-16T06:49:03+00:00",
+      "analyse": {
+        "resume": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux Taliban (SR 946.231.07). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{13C59F99-8E3F-4C0D-AE38-7C1E532238DA}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : République islamique d'Iran",
+      "lien": "https://www.finma.ch/fr/news/2026/04/20260414-sr-946-231-143-6/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification des annexes 12 et 14 de l'ordonnance du 12 décembre 2025 instituant des mesures à l'encontre de la République islamique d'Iran (RS 946.231.143.6).",
+      "date": "2026-04-14T16:28:00+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification des annexes 12 et 14 de l'ordonnance du 12 décembre 2025 instituant des mesures à l'encontre de la République islamique d'Iran (RS 946.231.143.6). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{CC70AF87-3A4B-4B4B-A75B-B5D12D374263}",
+      "source": "FINMA",
+      "titre": "La FINMA publie une communication sur la surveillance relative à la gestion des risques de fraude numérique",
+      "lien": "https://www.finma.ch/fr/news/2026/04/20260409-mm-am-02-2026-digitale-betrugsrisiken/",
+      "categorie": "Communiqué de presse",
+      "description": "Une enquête menée par l’Autorité fédérale de surveillance des marchés financiers FINMA auprès de banques sur la gestion des risques de fraude numérique révèle qu’il existe un besoin d’action particulier en ce qui concerne la gestion des risques opérationnels et la prévention du blanchiment d’argent. La FINMA publie aujourd’hui ses conclusions dans une nouvelle communication sur la surveillance.",
+      "date": "2026-04-09T07:00:00+00:00",
+      "analyse": {
+        "resume": "Une enquête de la FINMA auprès des banques sur la fraude numérique révèle un besoin d'action particulier en gestion des risques opérationnels et en prévention du blanchiment. La FINMA publie ses conclusions dans une communication sur la surveillance : les attentes deviennent des standards de fait pour le dispositif anti-fraude.",
+        "domaines": [
+          "Risques opérationnels",
+          "LBA / Blanchiment",
+          "Banques"
+        ],
+        "niveau_impact": "eleve",
+        "etablissements_concernes": "Banques, en particulier celles offrant des services digitaux à la clientèle",
+        "actions_risk_manager": [
+          "Autoévaluer le dispositif de gestion de la fraude numérique contre les conclusions de la communication",
+          "Renforcer le monitoring transactionnel et les scénarios de fraude dans la cartographie des risques opérationnels",
+          "Coordonner risques opérationnels et compliance LBA sur les cas de fraude (mules, comptes de passage)",
+          "Sensibiliser la première ligne et la clientèle aux schémas de fraude identifiés"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{9A28874B-F9BB-4B1A-B121-AE328B74F14C}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : Russie",
+      "lien": "https://www.finma.ch/fr/news/2026/04/20260407-sr-946-231-176-72/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l’économie, de la formation et de la recherche DEFR a publié des modifications de l'ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine (RS 946.231.176.72).",
+      "date": "2026-04-07T08:02:48+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l’économie, de la formation et de la recherche DEFR a publié des modifications de l'ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine (RS 946.231.176.72). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{DD88FAAF-22AE-45CC-9232-502A340ABA5A}",
+      "source": "FINMA",
+      "titre": "Annonce des sanctions actualisée : EIIL (Daech) / Al-Qaïda",
+      "lien": "https://www.finma.ch/fr/news/2026/04/20260401-sr-946-231-08/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al-Qaïda (RS 946.231.08).",
+      "date": "2026-04-01T13:44:00+00:00",
+      "analyse": {
+        "resume": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al-Qaïda (RS 946.231.08). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{E2437998-6557-40F5-88F7-E8C49AF9B0D3}",
+      "source": "FINMA",
+      "titre": "Annonce des sanctions actualisée : EIIL (Daech) / Al-Qaïda",
+      "lien": "https://www.finma.ch/fr/news/2026/03/20260327-sr-946-231-08/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al-Qaïda (RS 946.231.08).",
+      "date": "2026-03-27T15:30:26+00:00",
+      "analyse": {
+        "resume": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al-Qaïda (RS 946.231.08). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{38DD1D9F-B0BF-4EBF-9199-D9AAB58A9A56}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : Russie",
+      "lien": "https://www.finma.ch/fr/news/2026/03/20260323-sr-946-231-176-72/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l’économie, de la formation et de la recherche DEFR a publié des modifications de l'ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine (RS 946.231.176.72).",
+      "date": "2026-03-23T09:04:39+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l’économie, de la formation et de la recherche DEFR a publié des modifications de l'ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine (RS 946.231.176.72). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{4B58113D-769A-445A-B8C2-E1ACD5F7750A}",
+      "source": "FINMA",
+      "titre": "Annonce des sanctions actualisée : Taliban",
+      "lien": "https://www.finma.ch/fr/news/2026/03/20260312-sr-946-231-07/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l'encontre de personnes et groupes liés aux Taliban (RS 946.231.07).",
+      "date": "2026-03-12T13:28:55+00:00",
+      "analyse": {
+        "resume": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l'encontre de personnes et groupes liés aux Taliban (RS 946.231.07). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{5578362E-E9FE-4AAD-AECA-8FAC87DBA058}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : République islamique d'Iran",
+      "lien": "https://www.finma.ch/fr/news/2026/03/20260310-sr-946-231-143-6/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification des annexes 3, 12, 13 et 14 de l'ordonnance du 12 décembre 2025 instituant des mesures à l'encontre de la République islamique d'Iran (RS 946.231.143.6).",
+      "date": "2026-03-10T15:28:45+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification des annexes 3, 12, 13 et 14 de l'ordonnance du 12 décembre 2025 instituant des mesures à l'encontre de la République islamique d'Iran (RS 946.231.143.6). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{B8397E21-762A-473E-BAB3-62ED7E6CE3E0}",
+      "source": "FINMA",
+      "titre": "Annonce des sanctions actualisée : EIIL (Daech) / Al-Qaïda",
+      "lien": "https://www.finma.ch/fr/news/2026/03/20260303-sr-946-231-08/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d’Etat à l’économie (SECO) a publié une modification de l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al-Qaïda (RS 946.231.08).",
+      "date": "2026-03-03T15:17:52+00:00",
+      "analyse": {
+        "resume": "Le Secrétariat d’Etat à l’économie (SECO) a publié une modification de l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al-Qaïda (RS 946.231.08). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{A323047E-8324-4C27-A1FA-13637C1F2DE5}",
+      "source": "FINMA",
+      "titre": "Procédure de la FINMA: ouverture de la liquidation de MBAER",
+      "lien": "https://www.finma.ch/fr/news/2026/02/20260227-mm-mbaer-liquidation/",
+      "categorie": "Communiqué de presse",
+      "description": "La FINMA a retiré son autorisation à MBaer Merchant Bank SA dans le cadre d’une procédure d’ enforcement contre la banque clôturée par la FINMA il y a trois semaines déjà; la procédure était jusqu’à maintenant pendante devant le Tribunal administratif fédéral. Au terme de sa procédure, la FINMA a constaté que la banque avait un dispositif de lutte contre le blanchiment d’argent insuffisant et permettait à la clientèle de contourner les blocages des avoirs prononcés par les autorités. La banque a maintenant retiré son recours contre la décision de la FINMA et la liquidation ordonnée par la FINMA peut être exécutée.",
+      "date": "2026-02-27T14:00:00+00:00",
+      "analyse": {
+        "resume": "La FINMA ouvre la liquidation de MBaer Merchant Bank SA après lui avoir retiré son autorisation : dispositif LBA insuffisant et contournement par la clientèle de blocages d'avoirs prononcés par les autorités. Cas d'école du risque existentiel que représente une défaillance du dispositif LBA/sanctions.",
+        "domaines": [
+          "Enforcement",
+          "LBA / Blanchiment",
+          "Banques"
+        ],
+        "niveau_impact": "moyen",
+        "etablissements_concernes": "Banques, en particulier celles avec une clientèle internationale à risque accru",
+        "actions_risk_manager": [
+          "Tester l'efficacité des blocages d'avoirs : peut-on réellement contourner un blocage dans les systèmes ?",
+          "Revoir la surveillance des relations à risque accru et la remontée des alertes au management",
+          "Utiliser le cas comme scénario dans la formation LBA et les stress tests de réputation"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{5B417048-BACE-41B0-923D-A334657F261C}",
+      "source": "FINMA",
+      "titre": "Mesures ordonnées contre MBaer Merchant Bank SA",
+      "lien": "https://www.finma.ch/fr/news/2026/02/20260226-mm-mbaer/",
+      "categorie": "Communiqué de presse",
+      "description": "Le réseau américain de lutte contre la criminalité financière (FinCEN) a annoncé aujourd’hui qu’il classe MBaer Merchant Bank SA en tant que risque majeur de blanchiment d’argent. La FINMA est en contact avec le FinCEN et la banque concernant cette affaire. Une procédure d’ enforcement contre la banque a été clôturée par la FINMA et est actuellement pendante devant le Tribunal administratif fédéral. La FINMA a nommé un chargé d’audit au sein de la banque.",
+      "date": "2026-02-26T14:30:00+00:00",
+      "analyse": {
+        "resume": "Le FinCEN américain classe MBaer Merchant Bank SA comme risque majeur de blanchiment d'argent. La FINMA, en contact avec le FinCEN, a nommé un chargé d'audit au sein de la banque ; la procédure d'enforcement est pendante devant le Tribunal administratif fédéral. Rappel de la portée extraterritoriale du dispositif américain.",
+        "domaines": [
+          "Enforcement",
+          "LBA / Blanchiment",
+          "Banques"
+        ],
+        "niveau_impact": "moyen",
+        "etablissements_concernes": "Banques avec correspondants bancaires ou flux en USD",
+        "actions_risk_manager": [
+          "Évaluer l'exposition de l'établissement aux contreparties visées par des mesures FinCEN",
+          "Vérifier la solidité du dispositif de correspondent banking (due diligence, monitoring des flux USD)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{5DA11FA6-4930-479F-ACA8-1A4ECE83152E}",
+      "source": "FINMA",
+      "titre": "Sanctions : Russie et Bélarus",
+      "lien": "https://www.finma.ch/fr/news/2026/02/20260226-sanktionsmeldung-russland-belarus/",
+      "categorie": "Sanction internationale",
+      "description": "Le Conseil fédéral a décidé le 25 février 2026 de reprendre les nouvelles mesures du 19e train de sanctions de l'Union européenne (UE) à l'encontre de la Russie. Les nouvelles mesures entreront en vigueur le 26 février 2026.",
+      "date": "2026-02-26T13:47:26+00:00",
+      "analyse": {
+        "resume": "Le Conseil fédéral reprend les nouvelles mesures du 19e train de sanctions de l'UE contre la Russie, en vigueur dès le 26 février 2026. Contrairement aux mises à jour de listes routinières, un train de sanctions introduit de nouvelles mesures matérielles (biens, services, contournement) à analyser.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment",
+          "Marchés"
+        ],
+        "niveau_impact": "moyen",
+        "etablissements_concernes": "Tous les intermédiaires financiers ; exposition accrue pour le trade finance et la clientèle avec nexus russe",
+        "actions_risk_manager": [
+          "Analyser les nouvelles mesures du 19e train et identifier les clients, transactions et services concernés",
+          "Mettre à jour le dispositif sanctions : screening, règles de blocage, clauses contractuelles, formation",
+          "Porter une attention particulière aux schémas de contournement (pays tiers, sociétés écrans)"
+        ],
+        "echeance": "En vigueur depuis le 26 février 2026",
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{165D0AAF-F0F9-4232-A217-43C1782C49C0}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : Soudan",
+      "lien": "https://www.finma.ch/fr/news/2026/02/20260226-sr-946-231-18/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l'annexe de l'ordonnance du 25 mai 2025 instituant des mesures à l'encontre du Soudan (RS 946.231.18).",
+      "date": "2026-02-26T13:41:17+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l'annexe de l'ordonnance du 25 mai 2025 instituant des mesures à l'encontre du Soudan (RS 946.231.18). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{A505200E-A8A8-41CD-9F22-88FED6128F9A}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : Russie",
+      "lien": "https://www.finma.ch/fr/news/2026/02/20260225_sr-946-231-176-72/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l’économie, de la formation et de la recherche DEFR a publié des modifications de l'annexe 8 de l'ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine (RS 946.231.176.72).",
+      "date": "2026-02-25T13:24:33+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l’économie, de la formation et de la recherche DEFR a publié des modifications de l'annexe 8 de l'ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine (RS 946.231.176.72). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{8860F73A-FE3B-414E-83BC-505606AEC257}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : Soudan",
+      "lien": "https://www.finma.ch/fr/news/2026/02/20260219_sr-946-231-18/",
+      "categorie": "Sanction internationale",
+      "description": "Le Secrétariat d’Etat à l’économie (SECO) a modifié l'annexe 2 de l'ordonnance du 25 mai 2005 instituant des mesures à l’encontre du Soudan (RS 946.231.18).",
+      "date": "2026-02-19T07:22:44+00:00",
+      "analyse": {
+        "resume": "Le Secrétariat d’Etat à l’économie (SECO) a modifié l'annexe 2 de l'ordonnance du 25 mai 2005 instituant des mesures à l’encontre du Soudan (RS 946.231.18). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{141ED7CF-87F2-4E9B-B841-43E2E55D9893}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées",
+      "lien": "https://www.finma.ch/fr/news/2026/02/20260219_sr-946-231-09/",
+      "categorie": "Sanction financière",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche (DEFR) a modifié l'annexe de l'ordonnance du 10 avril 2024 instituant des mesures à l'encontre de personnes et entités soutenant le Hamas ou le Djihad islamique palestinien (RS 946.231.09).",
+      "date": "2026-02-19T07:17:08+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l'économie, de la formation et de la recherche (DEFR) a modifié l'annexe de l'ordonnance du 10 avril 2024 instituant des mesures à l'encontre de personnes et entités soutenant le Hamas ou le Djihad islamique palestinien (RS 946.231.09). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{A56F50C8-7DB9-4FA0-96E5-1AFD0A58E198}",
+      "source": "FINMA",
+      "titre": "Alain Girard prend la tête de la division Banques de la FINMA",
+      "lien": "https://www.finma.ch/fr/news/2026/02/20260218-mm-leitung-gb-b/",
+      "categorie": "Communiqué de presse",
+      "description": "Le conseil d’administration de l’Autorité fédérale de surveillance des marchés financiers FINMA a nommé Alain Girard à la tête de la division Banques. L’actuel chef de la division Recovery et resolution prendra ses nouvelles fonctions le 1 er avril 2026. Il succède à Thomas Hirschi, qui a quitté la FINMA fin août 2025. Simon Brönnimann, qui a dirigé depuis la division Banques par intérim, assurera désormais l’intérim de la division Recovery et resolution.",
+      "date": "2026-02-18T08:59:00+00:00",
+      "analyse": {
+        "resume": "Le conseil d'administration de la FINMA nomme Alain Girard à la tête de la division Banques au 1er avril 2026, succédant à Thomas Hirschi. Simon Brönnimann assure l'intérim de la division Recovery et resolution.",
+        "domaines": [
+          "Gouvernance"
+        ],
+        "niveau_impact": "informatif",
+        "etablissements_concernes": "Banques assujetties",
+        "actions_risk_manager": [
+          "Mettre à jour la fiche de veille sur l'organisation de la FINMA"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{27FAA1CA-4E93-4685-9802-568F63A10B05}",
+      "source": "FINMA",
+      "titre": "La FINMA transfère son site zurichois du centre-ville à Oerlikon",
+      "lien": "https://www.finma.ch/fr/news/2026/02/20260206-meldung-standort-zh/",
+      "categorie": "Annonce",
+      "description": "De meilleures conditions de travail et des frais d’exploitation par poste de travail plus bas : la FINMA transférera son site zurichois du centre-ville à Zurich Oerlikon à l’automne 2026.",
+      "date": "2026-02-06T10:00:00+00:00",
+      "analyse": {
+        "resume": "La FINMA transférera son site zurichois du centre-ville à Zurich Oerlikon à l'automne 2026, pour de meilleures conditions de travail et des frais d'exploitation réduits. Communication institutionnelle sans impact sur les assujettis.",
+        "domaines": [
+          "Gouvernance"
+        ],
+        "niveau_impact": "informatif",
+        "etablissements_concernes": "Aucun impact prudentiel",
+        "actions_risk_manager": [
+          "Aucune action requise ; mettre à jour les coordonnées de correspondance le moment venu"
+        ],
+        "echeance": "Automne 2026",
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{54083EDC-589D-48CA-8CC3-EE948C6792D1}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : Russie",
+      "lien": "https://www.finma.ch/fr/news/2026/01/20260130-sr-946-231-176-72/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l’économie, de la formation et de la recherche DEFR a publié des modifications de l'ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine (RS 946.231.176.72).",
+      "date": "2026-01-30T14:58:54+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l’économie, de la formation et de la recherche DEFR a publié des modifications de l'ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine (RS 946.231.176.72). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{741A6944-909D-451A-8BAD-DEEBB9D93EEF}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : Haïti",
+      "lien": "https://www.finma.ch/fr/news/2026/01/20260129-sr-946-231-139-4/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l'annexe de l'ordonnance du 16 décembre 2022 instituant des mesures concernant Haïti (RS 946.231.139.4).",
+      "date": "2026-01-29T07:28:55+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l'annexe de l'ordonnance du 16 décembre 2022 instituant des mesures concernant Haïti (RS 946.231.139.4). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{0A8D8C51-6D59-4B93-BB3E-2D15B0CF18DC}",
+      "source": "FINMA",
+      "titre": "Annonce des sanctions actualisée : Guatemala",
+      "lien": "https://www.finma.ch/fr/news/2026/01/20260127-sr-946-231-137-6/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l’annexe de l'Ordonnance instituant des mesures concernant le Guatemala (RS 946.231.137.6).",
+      "date": "2026-01-27T12:21:43+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l’annexe de l'Ordonnance instituant des mesures concernant le Guatemala (RS 946.231.137.6). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{BAD1504F-E59A-41E4-87EA-AD9B51EC25B6}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : République démocratique du Congo",
+      "lien": "https://www.finma.ch/fr/news/2026/01/20260113-sr-946-231-12/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l’annexe 2 de l'ordonnance du 22 juin 2005 instituant des mesures à l'encontre de la République démocratique du Congo (RS 946.231.12).",
+      "date": "2026-01-13T11:13:38+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l’annexe 2 de l'ordonnance du 22 juin 2005 instituant des mesures à l'encontre de la République démocratique du Congo (RS 946.231.12). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{371EFBF4-428D-47E3-A84B-37A849A744B3}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : Venezuela",
+      "lien": "https://www.finma.ch/fr/news/2026/01/20260113-sr-946-231-178-5/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié des modifications de l’annexe 1 de l'ordonnance du 28 mars 2018 instituant des mesures à l’encontre du Venezuela (RS 946.231.178.5).",
+      "date": "2026-01-13T11:09:30+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié des modifications de l’annexe 1 de l'ordonnance du 28 mars 2018 instituant des mesures à l’encontre du Venezuela (RS 946.231.178.5). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{C954BA58-0AD3-405F-933B-C3D7E12AF852}",
+      "source": "FINMA",
+      "titre": "Annonce de sanctions actualisées : Russie",
+      "lien": "https://www.finma.ch/fr/news/2026/01/20260113-sr-946-231-176-72/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l’économie, de la formation et de la recherche DEFR a publié des modifications de l'ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine (RS 946.231.176.72).",
+      "date": "2026-01-13T11:03:42+00:00",
+      "analyse": {
+        "resume": "Le Département fédéral de l’économie, de la formation et de la recherche DEFR a publié des modifications de l'ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine (RS 946.231.176.72). Les personnes et entités nouvellement désignées doivent être intégrées sans délai dans le dispositif de filtrage : les avoirs concernés sont à bloquer et à annoncer.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "faible",
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (obligations de blocage et d'annonce)",
+        "actions_risk_manager": [
+          "Vérifier que le fournisseur de listes de screening a intégré la mise à jour (délai usuel : 24 à 48 h)",
+          "Relancer un filtrage de la base clients et des bénéficiaires effectifs contre la liste actualisée",
+          "Documenter le contrôle effectué dans le dispositif sanctions (piste d'audit)"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{8560207F-DE8B-48E0-9499-7DCAFFAF23BD}",
+      "source": "FINMA",
+      "titre": "La FINMA publie une communication sur la surveillance concernant la conservation de cryptoactifs",
+      "lien": "https://www.finma.ch/fr/news/2026/01/20260112-mm-am-01-26/",
+      "categorie": "Communiqué de presse",
+      "description": "Dans une nouvelle communication sur la surveillance, l’Autorité fédérale de surveillance des marchés financiers FINMA explique comment elle évalue les risques liés à la conservation de cryptoactifs. Elle y décrit aussi les règles que les établissements doivent respecter pour conserver les cryptoactifs en toute sécurité.",
+      "date": "2026-01-12T08:59:00+00:00",
+      "analyse": {
+        "resume": "Dans une communication sur la surveillance, la FINMA explique comment elle évalue les risques liés à la conservation de cryptoactifs et décrit les règles à respecter pour une conservation sûre (ségrégation des avoirs, gestion des clés, gouvernance). Les attentes de surveillance sont désormais explicites pour les établissements actifs dans les cryptoactifs.",
+        "domaines": [
+          "FinTech / Crypto",
+          "Risques opérationnels"
+        ],
+        "niveau_impact": "moyen",
+        "etablissements_concernes": "Banques et établissements offrant la conservation de cryptoactifs ; non concernés : documenter la non-applicabilité",
+        "actions_risk_manager": [
+          "Si l'établissement conserve des cryptoactifs : gap analysis du dispositif contre les attentes de la communication (ségrégation, clés, sous-conservation)",
+          "Mettre à jour la cartographie des risques opérationnels et TIC pour l'activité crypto",
+          "Sinon : documenter formellement la non-applicabilité dans le référentiel de conformité"
+        ],
+        "echeance": null,
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{D8740577-B768-405C-8F74-C9D47842CFB9}",
+      "source": "FINMA",
+      "titre": "Nouvelle ordonnance de blocage de valeurs patrimoniales dans le contexte du Venezuela du 5 janvier 2026",
+      "lien": "https://www.finma.ch/fr/news/2026/01/20260105-sr-196-127-85/",
+      "categorie": "Sanction internationale",
+      "description": "",
+      "date": "2026-01-05T12:45:00+00:00",
+      "analyse": {
+        "resume": "Nouvelle ordonnance de blocage de valeurs patrimoniales dans le contexte du Venezuela, publiée le 5 janvier 2026. Un blocage de valeurs patrimoniales exige une identification et un gel immédiats des avoirs concernés, avec annonce aux autorités.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "moyen",
+        "etablissements_concernes": "Tous les intermédiaires financiers, en particulier ceux avec une clientèle latino-américaine",
+        "actions_risk_manager": [
+          "Identifier sans délai les relations d'affaires et avoirs entrant dans le champ de l'ordonnance",
+          "Procéder au blocage et aux annonces requises, documenter les recherches effectuées",
+          "Intégrer la nouvelle ordonnance dans les règles de screening et informer les équipes concernées"
+        ],
+        "echeance": "Blocage immédiat dès publication (5 janvier 2026)",
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{259F277E-DFD8-4A19-97B9-885EA1A19597}",
+      "source": "FINMA",
+      "titre": "La FINMA ouvre l’audition sur la révision partielle de la circulaire 2016/7 «Identification par vidéo et en ligne»",
+      "lien": "https://www.finma.ch/fr/news/2025/12/20251216-mm-video-online-id/",
+      "categorie": "Communiqué de presse",
+      "description": "L’Autorité fédérale de surveillance des marchés financiers FINMA a ouvert le 16 décembre 2025 la procédure d’audition relative à la révision partielle de la circulaire 2016/7 «Identification par vidéo et en ligne». L’audition s’achèvera le 27 février 2026.",
+      "date": "2025-12-16T08:59:00+00:00",
+      "analyse": {
+        "resume": "La FINMA ouvre l'audition sur la révision partielle de la circulaire 2016/7 «Identification par vidéo et en ligne», jusqu'au 27 février 2026. La révision touche directement les processus d'onboarding digital et les obligations de vérification d'identité LBA.",
+        "domaines": [
+          "LBA / Blanchiment",
+          "FinTech / Crypto",
+          "Banques"
+        ],
+        "niveau_impact": "moyen",
+        "etablissements_concernes": "Intermédiaires financiers pratiquant l'ouverture de relations à distance",
+        "actions_risk_manager": [
+          "Analyser le projet de révision et évaluer les impacts sur les parcours d'onboarding digital",
+          "Anticiper les adaptations des outils d'identification vidéo/en ligne et des contrôles associés",
+          "Suivre la publication du texte final et planifier la mise en conformité"
+        ],
+        "echeance": "Audition close le 27 février 2026 ; texte final à suivre",
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    },
+    {
+      "guid": "{C46BCE5F-51E5-46BB-BC9C-5B8766A03AAA}",
+      "source": "FINMA",
+      "titre": "Révision totale de l’ordonnance instituant des mesures à l’encontre de la République islamique d’Iran",
+      "lien": "https://www.finma.ch/fr/news/2025/12/20251215-sr-946-231-143-6/",
+      "categorie": "Sanction internationale",
+      "description": "Le Conseil fédéral a décidé le 12 décembre 2025 de rétablir les sanctions à l’encontre de l’Iran au niveau auquel elles se trouvaient avant la conclusion de l’accord de Vienne sur le nucléaire iranien. Il a pour ce faire soumis à une révision totale l’ordonnance instituant des mesures à l’encontre de la République islamique d’Iran. La nouvelle ordonnance (SR 946.231.143.6) est entrée en vigueur le 12 décembre 2025.",
+      "date": "2025-12-15T09:32:39+00:00",
+      "analyse": {
+        "resume": "Le Conseil fédéral rétablit les sanctions contre l'Iran à leur niveau antérieur à l'accord de Vienne sur le nucléaire (mécanisme de snapback) via une révision totale de l'ordonnance, entrée en vigueur le 12 décembre 2025. Le durcissement massif du régime exige une revue complète de l'exposition Iran.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment",
+          "Marchés"
+        ],
+        "niveau_impact": "eleve",
+        "etablissements_concernes": "Tous les intermédiaires financiers ; risque accru pour trade finance, négoce et clientèle avec nexus iranien",
+        "actions_risk_manager": [
+          "Relancer un screening complet de la base clients et transactions contre les annexes de la nouvelle ordonnance",
+          "Revoir toutes les relations d'affaires avec un nexus iranien : classification, blocages, éventuelles sorties de relation",
+          "Mettre à jour le dispositif sanctions (règles, formations, appétit au risque) au regard du régime durci",
+          "Informer le management et documenter la revue d'exposition pour la piste d'audit"
+        ],
+        "echeance": "En vigueur depuis le 12 décembre 2025",
+        "modele": "claude-fable-5 (généré via Claude Code, 2026-07-08)"
+      }
+    }
+  ]
+}

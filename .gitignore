@@ -1,0 +1,22 @@
+# Secrets : jamais sur Git
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs et temporaires
+*.log
+*.tmp
