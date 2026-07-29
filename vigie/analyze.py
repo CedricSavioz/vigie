@@ -8,17 +8,45 @@ from pydantic import BaseModel, Field
 from . import config
 from .fetch import fetch_article_text
 
+ProfilId = Literal[
+    "banque-universelle",
+    "banque-privee",
+    "gerant-fortune",
+    "gestionnaire-placements",
+    "direction-fonds",
+    "maison-titres",
+    "assurance",
+    "intermediaire-assurance",
+    "caisse-pension",
+    "fintech-crypto",
+    "trustee",
+    "family-office",
+    "bpo-outsourcing",
+]
+
+NiveauImpact = Literal["eleve", "moyen", "faible", "informatif"]
+
+
+class ImpactProfil(BaseModel):
+    """Niveau d'impact pour un profil d'établissement donné."""
+
+    profil: ProfilId
+    niveau: NiveauImpact
+
 
 class AnalyseReglementaire(BaseModel):
     """Sortie structurée attendue du modèle pour chaque publication."""
 
-    resume: str = Field(description="Résumé en 2 à 3 phrases, orienté praticien du risque")
+    resume: str = Field(description="Résumé en 2 à 3 phrases, en français, orienté praticien du risque")
     domaines: list[str] = Field(description="1 à 3 domaines réglementaires concernés")
-    niveau_impact: Literal["eleve", "moyen", "faible", "informatif"] = Field(
-        description="Niveau d'impact pour un établissement financier suisse type"
+    niveau_impact: NiveauImpact = Field(
+        description="Niveau d'impact global pour la place financière suisse (le plus élevé des profils concernés)"
+    )
+    impacts_par_profil: list[ImpactProfil] = Field(
+        description="Niveau d'impact par profil d'établissement, uniquement pour les profils réellement concernés (liste vide si publication purement institutionnelle)"
     )
     etablissements_concernes: str = Field(
-        description="Qui est concerné (ex. banques de détail, gestionnaires de fortune, assureurs)"
+        description="Qui est concerné, en une phrase (ex. banques de détail, gestionnaires de fortune, assureurs)"
     )
     actions_risk_manager: list[str] = Field(
         description="2 à 4 actions concrètes recommandées pour un Risk Manager / contrôleur interne"
@@ -29,24 +57,39 @@ class AnalyseReglementaire(BaseModel):
     )
 
 
+PROFILS_TXT = "\n".join(f"- {p['id']} : {p['label']}" for p in config.PROFILS)
+
 SYSTEM_PROMPT = f"""Tu es un expert en gestion des risques et contrôle interne dans le secteur \
 financier suisse (banques, assurances, gestionnaires de fortune), avec une connaissance \
 approfondie du cadre réglementaire FINMA (circulaires, ordonnances, LSFin, LEFin, LBA, LSA, \
-exigences prudentielles bâloises).
+exigences prudentielles bâloises) et des cadres internationaux (Comité de Bâle, BCE/MSU, EBA, \
+ESMA, DORA).
 
-On te transmet une publication d'un régulateur. Analyse-la du point de vue d'un Risk Manager \
-en poste dans un établissement financier suisse : que faut-il retenir, qui est concerné, et \
-quelles actions concrètes en découlent (mise à jour de la cartographie des risques, revue du \
-SCI, gap analysis, information au management, formation, veille renforcée...).
+On te transmet une publication d'un régulateur ou d'une banque centrale. Analyse-la du point \
+de vue d'un Risk Manager en poste dans un établissement financier suisse : que faut-il retenir, \
+qui est concerné, et quelles actions concrètes en découlent (mise à jour de la cartographie des \
+risques, revue du SCI, gap analysis, information au management, formation, veille renforcée...).
 
 Choisis les domaines parmi cette liste : {", ".join(config.DOMAINES)}.
 
+Attribue ensuite un niveau d'impact PAR PROFIL d'établissement, uniquement pour les profils \
+réellement concernés (les identifiants valides sont à gauche) :
+{PROFILS_TXT}
+
 Règles :
-- Réponds en français.
+- Réponds en français, même si la publication est en anglais ou en allemand.
 - Reste factuel : ne déduis que ce que la publication permet de déduire.
 - "eleve" = action requise à court terme pour les établissements concernés ; \
 "moyen" = à intégrer dans la roadmap conformité/risques ; "faible" = à connaître ; \
-"informatif" = pas d'action attendue (communication institutionnelle, nomination, etc.)."""
+"informatif" = pas d'action attendue (communication institutionnelle, nomination, statistique).
+- Une même publication peut être "eleve" pour un profil et absente pour un autre : n'inclus \
+dans impacts_par_profil que les profils pour lesquels la publication a une pertinence réelle. \
+Pour les publications suisses (FINMA, BNS), pense aussi aux profils non bancaires \
+(assurances, caisses de pension, trustees, fintechs). Pour les publications européennes ou \
+internationales, évalue l'impact indirect sur les établissements suisses (standards de Bâle \
+repris par la FINMA, groupes actifs dans l'UE, sous-traitance, accès au marché).
+- niveau_impact (global) = le niveau le plus élevé parmi les profils concernés, ou "informatif" \
+si aucun profil n'est concerné."""
 
 
 def build_user_prompt(item: dict, article_text: str) -> str:
@@ -74,6 +117,10 @@ def analyze_item(client: anthropic.Anthropic, item: dict) -> dict:
         output_format=AnalyseReglementaire,
     )
     analyse = response.parsed_output.model_dump()
+    # Aplatis impacts_par_profil en map {profil: niveau} pour le dashboard
+    analyse["impacts_par_profil"] = {
+        i["profil"]: i["niveau"] for i in analyse["impacts_par_profil"]
+    }
     analyse["modele"] = config.MODEL
     return analyse
 
