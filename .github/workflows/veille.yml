@@ -62,7 +62,7 @@ jobs:
           DEPLOY=$(curl -sS -X POST "https://api.netlify.com/api/v1/sites/$NETLIFY_SITE_ID/deploys" \
             -H "Authorization: Bearer $NETLIFY_AUTH_TOKEN" -H "Content-Type: application/json" \
             -d "{\"files\":{\"/index.html\":\"$SHA\"}}")
-          DEPLOY_ID=$(echo "$DEPLOY" | python -c "import sys,json;print(json.load(sys.stdin)['id'])")
+          DEPLOY_ID=$(echo "$DEPLOY" | python -c "import sys,json;d=json.load(sys.stdin);print(d['id'] if 'id' in d else sys.exit('Erreur API Netlify : '+json.dumps(d)))")
           REQUIRED=$(echo "$DEPLOY" | python -c "import sys,json;print(len(json.load(sys.stdin).get('required') or []))")
           if [ "$REQUIRED" -gt 0 ]; then
             curl -sS -X PUT "https://api.netlify.com/api/v1/deploys/$DEPLOY_ID/files/index.html" \
