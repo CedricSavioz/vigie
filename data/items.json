@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T15:20:45.237307+00:00",
+  "updated_at": "2026-07-31T15:30:36.577244+00:00",
   "items": [
     {
       "guid": "19908 at https://www.eba.europa.eu",
@@ -10,7 +10,29 @@
       "categorie": "",
       "description": "EBA E-mail alert 31 July, 2026 Date 31/07/2026 Anonymous (not verified) Fri, 07/31/2026 - 17:00 News & Press The EBA-ECB-EIOPA “Data Point Model Alliance” consults on improvements to their data dictionary metamodel to better support statistical and supervisory reporting EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector Final Q&As 2026_7724 Application of the currency mismatch treatment to self-employed individuals (natural persons carrying out an economic activity) under Article 123a CRR.",
       "date": "2026-07-31T15:00:03+00:00",
-      "analyse": null
+      "analyse": {
+        "resume": "Cette alerte EBA regroupe trois sujets distincts : une consultation sur le métamodèle du dictionnaire de données de reporting prudentiel (DPM Alliance EBA-BCE-EIOPA), un appel conjoint EBA-EIOPA-ESMA à une gouvernance renforcée face aux risques ICT liés aux modèles d'IA de pointe (frontier AI) dans le secteur financier européen, et une Q&A finale sur le traitement du currency mismatch pour les indépendants sous l'article 123a CRR. Ces publications sont d'application directe dans l'UE mais présentent un intérêt de veille pour les groupes suisses actifs dans l'UE ou suivant les standards bâlois repris par la FINMA. Aucune obligation immédiate n'en découle pour les établissements suisses.",
+        "domaines": [
+          "Cyber / Résilience",
+          "Fonds propres",
+          "Gouvernance"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "banque-privee": "faible",
+          "maison-titres": "faible"
+        },
+        "etablissements_concernes": "Principalement les établissements bancaires et entités supervisées dans l'UE (reporting prudentiel, IA/ICT, calcul CRR) ; impact indirect pour les groupes suisses actifs dans l'UE ou soumis à des standards équivalents.",
+        "actions_risk_manager": [
+          "Suivre la consultation sur le métamodèle DPM si l'établissement effectue du reporting réglementaire aligné sur les standards EBA",
+          "Intégrer les recommandations sur la gouvernance des risques ICT liés à l'IA frontière dans la cartographie des risques technologiques, en anticipation d'une éventuelle transposition FINMA",
+          "Vérifier si des filiales ou succursales du groupe dans l'UE sont concernées par la Q&A sur le currency mismatch (art. 123a CRR)",
+          "Maintenir une veille sur les évolutions du cadre EBA/EIOPA/ESMA susceptibles d'influencer les futures circulaires FINMA"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
     },
     {
       "guid": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision",
@@ -21,7 +43,35 @@
       "categorie": "",
       "description": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector 31 July 2026 Digital Finance and Innovation Joint Committee The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a statement calling for a cross-sectoral, risk-based and consistent supervisory approach to mitigate the ICT risks stemming from frontier AI models. The statement takes into account existing regulatory requirements, the European Commission’s Action Plan on Cybersecurity and Artificial Intelligence, as well as recent publications by the European Systemic Risk Board (ESRB), the European Union Agency for Cybersecurity (ENISA), the Single Supervisory Mechanism (SSM) and other competent authorities. The ESAs outline measures to help financial entities strengthen their operational resilience against cyber risks linked to frontier AI models. Particular emphasis is placed on the prevention, detection and management of these risks. The statement underlines that financial entities should have robust governance and risk management frameworks in place to support the effective management and mitigation of cyber risks associated with frontier AI models. It also updates on ongoing and planned DORA oversight activities for critical ICT third-party providers (CTPPs) to address this risk. The ESAs encourage both financial entities and competent authorities to use the statement as a basis for supervisory dialogue, taking into account existing supervisory expectations. Such an approach would help ensuring that the EU financial system remains resilient against the risks driven by frontier AI technologies. Further information: Tayfun Yilmaz Communications Officer press@esma.europa.eu 31/07/2026 JC 2026 25 ESAs' statement toward a consistent and risk-based approach for ICT risks from frontier AI models",
       "date": "2026-07-31T11:53:44+00:00",
-      "analyse": null
+      "analyse": {
+        "resume": "Les autorités européennes de supervision (EBA, EIOPA, ESMA) publient une déclaration commune appelant à une approche transsectorielle et risk-based pour gérer les risques ICT liés aux modèles d'IA de pointe (frontier AI) dans le secteur financier de l'UE. Le document renforce les attentes en matière de gouvernance et de gestion des risques, et actualise les activités de surveillance DORA sur les prestataires tiers critiques (CTPP). Bien que non directement applicable en Suisse, ce texte donne le ton des attentes prudentielles européennes susceptibles d'influencer la FINMA et les groupes suisses actifs dans l'UE ou dépendant de fournisseurs ICT critiques.",
+        "domaines": [
+          "Cyber / Résilience",
+          "Risques opérationnels",
+          "Gouvernance",
+          "FinTech / Crypto"
+        ],
+        "niveau_impact": "moyen",
+        "impacts_par_profil": {
+          "banque-universelle": "moyen",
+          "banque-privee": "moyen",
+          "gestionnaire-placements": "faible",
+          "direction-fonds": "faible",
+          "maison-titres": "moyen",
+          "assurance": "moyen",
+          "fintech-crypto": "moyen",
+          "bpo-outsourcing": "moyen"
+        },
+        "etablissements_concernes": "Établissements financiers de l'UE et, indirectement, groupes suisses actifs dans l'UE ou recourant à des prestataires ICT critiques transfrontaliers (banques, assurances, maisons de titres, fintechs, BPO).",
+        "actions_risk_manager": [
+          "Effectuer une veille sur les attentes DORA/ESAs relatives aux risques ICT liés à l'IA de pointe et évaluer leur pertinence pour le cadre FINMA (circ. risques opérationnels, cyber)",
+          "Revoir la cartographie des risques ICT/IA et le cadre de gouvernance interne pour intégrer les risques spécifiques aux modèles d'IA de pointe (prévention, détection, gestion)",
+          "Identifier les dépendances envers des fournisseurs ICT critiques (notamment fournisseurs de modèles d'IA) et évaluer l'exposition en cas d'extension de la supervision DORA à ces acteurs",
+          "Informer le management et le comité des risques de cette évolution réglementaire européenne susceptible de préfigurer de futures exigences FINMA en matière de résilience IA"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
     },
     {
       "guid": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260731~93964644b0.en.html",
@@ -32,7 +82,32 @@
       "categorie": "",
       "description": "",
       "date": "2026-07-31T09:00:00+00:00",
-      "analyse": null
+      "analyse": {
+        "resume": "La BCE publie les résultats de son exercice de reverse stress test 2026 sur le risque géopolitique portant sur 110 banques de la zone euro sous sa supervision directe. L'exercice met en lumière des faiblesses dans les cadres de stress-testing (granularité, cohérence solvabilité-liquidité, réalisme des actions de mitigation) et souligne l'importance des risques non financiers comme le cyber et la dépendance aux prestataires tiers. Bien que non contraignant pour la Suisse, ce document constitue une référence de bonnes pratiques susceptible d'influencer les attentes prudentielles futures (FINMA, Bâle) pour les groupes bancaires suisses actifs internationalement.",
+        "domaines": [
+          "Banques",
+          "Risques opérationnels",
+          "Cyber / Résilience",
+          "Fonds propres",
+          "Liquidités",
+          "Gouvernance"
+        ],
+        "niveau_impact": "moyen",
+        "impacts_par_profil": {
+          "banque-universelle": "moyen",
+          "banque-privee": "faible",
+          "maison-titres": "faible"
+        },
+        "etablissements_concernes": "Principalement les groupes bancaires suisses ayant des filiales ou activités significatives dans la zone euro sous supervision BCE, et plus largement les banques suisses actives à l'international souhaitant s'aligner sur les meilleures pratiques de stress-testing géopolitique.",
+        "actions_risk_manager": [
+          "Comparer les scénarios géopolitiques et les canaux de transmission identifiés par la BCE (marché financier, économie réelle, sécurité) avec la cartographie des risques interne et l'ICAAP",
+          "Réévaluer le réalisme des actions de mitigation prévues (cession de portefeuilles, levée de capital) en conditions de marché adverses",
+          "Renforcer l'articulation entre stress de solvabilité et de liquidité dans les scénarios internes, en s'inspirant des lacunes relevées par la BCE",
+          "Informer le Conseil d'administration et intégrer les enseignements de cet exercice dans la prochaine revue du cadre de stress-testing et de la résilience opérationnelle (dépendance aux tiers, cyber)"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
     },
     {
       "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-44",
@@ -43,7 +118,31 @@
       "categorie": "",
       "description": "ESMA publishes latest edition of its newsletter 31 July 2026 ESMA newsletter The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has published today the latest edition of its Spotlight on Markets newsletter, covering key activities and publications from June and July 2026. This edition opens with the statement on the end of the MiCA transitional period, calling on unauthorised crypto-asset service providers to wind down their activities in an orderly manner while safeguarding clients’ interests and protecting market integrity. Top news highlights include the final report on simplifying transaction reporting, identifying up to €1 billion in potential annual savings through a \"report once\" approach, ESMA’s call on firms to finalise preparations ahead of T+1 settlement deadlines, and the publication of 2025 Annual Report , focusing on stronger supervision, regulatory simplification and innovation. Key publications featured in this edition include: the ESAs’ first annual report on major ICT-related incidents under the Digital Operational Resilience Act (DORA); consultation on technical advice to simplify the EU Taxonomy disclosure framework and reduce reporting burdens for market participants. ESMA's authorisation of EuroCTP as the Consolidated Tape Provider for shares and exchange-traded funds. Other updates cover the selection of Etrading Software (Netherlands) B.V. as Consolidated Tape Provider for OTC derivatives, preliminary findings on the Active Account Requirement under EMIR , a report on the supervision of cross-border investment services, and the launch of Common Supervisory Actions on risk management functions and digital operational resilience for CASPs. The Spotlight on Markets newsletter is published regularly and is available on ESMA’s website. For regular updates, follow ESMA on LinkedIn , X and Instagram . 31/07/2026 ESMA newsletter Newsletter June and July 2026",
       "date": "2026-07-31T07:56:51+00:00",
-      "analyse": null
+      "analyse": {
+        "resume": "Cette newsletter de l'ESMA de juillet 2026 synthétise plusieurs chantiers en cours : fin de la période transitoire MiCA imposant l'arrêt des activités des prestataires de services sur crypto-actifs non autorisés, préparation à T+1, premier rapport DORA sur les incidents ICT majeurs, simplification du reporting de transactions et de la taxonomie UE, et lancement d'actions de supervision communes sur la gestion des risques et la résilience opérationnelle des CASP. Pour les établissements suisses, l'impact est principalement indirect, sauf pour les acteurs crypto ou financiers actifs transfrontalièrement dans l'UE.",
+        "domaines": [
+          "FinTech / Crypto",
+          "Marchés",
+          "Cyber / Résilience",
+          "Gestion d'actifs"
+        ],
+        "niveau_impact": "moyen",
+        "impacts_par_profil": {
+          "fintech-crypto": "moyen",
+          "gestionnaire-placements": "faible",
+          "maison-titres": "faible",
+          "direction-fonds": "faible"
+        },
+        "etablissements_concernes": "Prestataires de services sur crypto-actifs opérant dans l'UE, gestionnaires de placements et maisons de titres suisses actifs sur les marchés européens ou soumis à des obligations de reporting transfrontalier.",
+        "actions_risk_manager": [
+          "Vérifier si des entités du groupe fournissent des services crypto dans l'UE sans autorisation MiCA et planifier un retrait ordonné si nécessaire",
+          "Évaluer l'état de préparation opérationnelle au passage T+1 pour les activités de règlement-livraison sur titres européens",
+          "Suivre les évolutions du reporting EMIR (Active Account Requirement) et de la taxonomie UE pour anticiper d'éventuels impacts sur le reporting transfrontalier",
+          "Assurer une veille sur les résultats des Common Supervisory Actions ESMA relatives à la gestion des risques et à la résilience numérique des CASP"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
     },
     {
       "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/07/statpub_news_20260731_c",
@@ -54,7 +153,20 @@
       "categorie": "",
       "description": "",
       "date": "2026-07-31T07:00:00+00:00",
-      "analyse": null
+      "analyse": {
+        "resume": "Il s'agit d'une publication statistique de routine de la BNS concernant les postes du bilan à fin juin 2026, disponible via son portail de données. Ce type de communication est purement informatif et ne comporte aucune exigence réglementaire nouvelle.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Publication statistique institutionnelle sans implication directe pour les établissements financiers.",
+        "actions_risk_manager": [
+          "Aucune action requise, prise de connaissance à titre informatif si utile pour analyses macroéconomiques internes"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
     },
     {
       "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/07/statpub_news_20260731_sddsplus",
@@ -65,7 +177,20 @@
       "categorie": "",
       "description": "",
       "date": "2026-07-31T07:00:00+00:00",
-      "analyse": null
+      "analyse": {
+        "resume": "Cette publication de la BNS est une mise à jour statistique de routine dans le cadre de la diffusion des données selon la norme SDDS Plus du FMI. Il s'agit d'une communication technique sans contenu réglementaire ou de conformité pour les établissements financiers suisses.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement financier n'est directement concerné ; publication à visée statistique/institutionnelle destinée aux analystes économiques et au FMI.",
+        "actions_risk_manager": [
+          "Aucune action requise, prendre note pour information"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
     },
     {
       "guid": "https://www.snb.ch/en/publications/communication/press-releases/2026/pre_20260731",
@@ -76,7 +201,21 @@
       "categorie": "",
       "description": "",
       "date": "2026-07-31T05:15:00+00:00",
-      "analyse": null
+      "analyse": {
+        "resume": "La BNS publie ses résultats intermédiaires au 30 juin 2026, avec un bénéfice de CHF 25,2 milliards porté par les positions en devises, malgré une perte de valeur sur l'or. Il s'agit d'une communication financière institutionnelle sans portée réglementaire ou prudentielle directe pour les établissements financiers suisses.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun impact direct sur les établissements financiers ; publication d'ordre institutionnel concernant les résultats financiers de la BNS elle-même.",
+        "actions_risk_manager": [
+          "Prendre connaissance de l'information pour le suivi macroéconomique général",
+          "Aucune action de conformité ou de gestion des risques requise à ce stade"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
     },
     {
       "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/07/statpub_news_20260729_fin",
