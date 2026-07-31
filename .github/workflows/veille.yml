@@ -57,4 +57,18 @@ jobs:
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-        run: npx --yes netlify-cli deploy --prod --dir site
+        run: |
+          SHA=$(sha1sum site/index.html | cut -d' ' -f1)
+          DEPLOY=$(curl -sS -X POST "https://api.netlify.com/api/v1/sites/$NETLIFY_SITE_ID/deploys" \
+            -H "Authorization: Bearer $NETLIFY_AUTH_TOKEN" -H "Content-Type: application/json" \
+            -d "{\"files\":{\"/index.html\":\"$SHA\"}}")
+          DEPLOY_ID=$(echo "$DEPLOY" | python -c "import sys,json;print(json.load(sys.stdin)['id'])")
+          REQUIRED=$(echo "$DEPLOY" | python -c "import sys,json;print(len(json.load(sys.stdin).get('required') or []))")
+          if [ "$REQUIRED" -gt 0 ]; then
+            curl -sS -X PUT "https://api.netlify.com/api/v1/deploys/$DEPLOY_ID/files/index.html" \
+              -H "Authorization: Bearer $NETLIFY_AUTH_TOKEN" -H "Content-Type: application/octet-stream" \
+              --data-binary @site/index.html > /dev/null
+            echo "Déploiement $DEPLOY_ID : index.html envoyé."
+          else
+            echo "Déploiement $DEPLOY_ID : contenu inchangé, rien à envoyer."
+          fi
