@@ -1,6 +1,83 @@
 {
-  "updated_at": "2026-07-29T16:47:45.086980+00:00",
+  "updated_at": "2026-07-31T15:13:17.044390+00:00",
   "items": [
+    {
+      "guid": "19908 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 31 July, 2026",
+      "lien": "https://www.eba.europa.eu/node/19908",
+      "categorie": "",
+      "description": "EBA E-mail alert 31 July, 2026 Date 31/07/2026 Anonymous (not verified) Fri, 07/31/2026 - 17:00 News & Press The EBA-ECB-EIOPA “Data Point Model Alliance” consults on improvements to their data dictionary metamodel to better support statistical and supervisory reporting EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector Final Q&As 2026_7724 Application of the currency mismatch treatment to self-employed individuals (natural persons carrying out an economic activity) under Article 123a CRR.",
+      "date": "2026-07-31T15:00:03+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision",
+      "categorie": "",
+      "description": "EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector 31 July 2026 Digital Finance and Innovation Joint Committee The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a statement calling for a cross-sectoral, risk-based and consistent supervisory approach to mitigate the ICT risks stemming from frontier AI models. The statement takes into account existing regulatory requirements, the European Commission’s Action Plan on Cybersecurity and Artificial Intelligence, as well as recent publications by the European Systemic Risk Board (ESRB), the European Union Agency for Cybersecurity (ENISA), the Single Supervisory Mechanism (SSM) and other competent authorities. The ESAs outline measures to help financial entities strengthen their operational resilience against cyber risks linked to frontier AI models. Particular emphasis is placed on the prevention, detection and management of these risks. The statement underlines that financial entities should have robust governance and risk management frameworks in place to support the effective management and mitigation of cyber risks associated with frontier AI models. It also updates on ongoing and planned DORA oversight activities for critical ICT third-party providers (CTPPs) to address this risk. The ESAs encourage both financial entities and competent authorities to use the statement as a basis for supervisory dialogue, taking into account existing supervisory expectations. Such an approach would help ensuring that the EU financial system remains resilient against the risks driven by frontier AI technologies. Further information: Tayfun Yilmaz Communications Officer press@esma.europa.eu 31/07/2026 JC 2026 25 ESAs' statement toward a consistent and risk-based approach for ICT risks from frontier AI models",
+      "date": "2026-07-31T11:53:44+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260731~93964644b0.en.html",
+      "source": "BCE Supervision",
+      "source_id": "ecb-ssm",
+      "titre": "ECB publishes results of 2026 geopolitical risk reverse stress test",
+      "lien": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260731~93964644b0.en.html",
+      "categorie": "",
+      "description": "",
+      "date": "2026-07-31T09:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-44",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA publishes latest edition of its newsletter",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-44",
+      "categorie": "",
+      "description": "ESMA publishes latest edition of its newsletter 31 July 2026 ESMA newsletter The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has published today the latest edition of its Spotlight on Markets newsletter, covering key activities and publications from June and July 2026. This edition opens with the statement on the end of the MiCA transitional period, calling on unauthorised crypto-asset service providers to wind down their activities in an orderly manner while safeguarding clients’ interests and protecting market integrity. Top news highlights include the final report on simplifying transaction reporting, identifying up to €1 billion in potential annual savings through a \"report once\" approach, ESMA’s call on firms to finalise preparations ahead of T+1 settlement deadlines, and the publication of 2025 Annual Report , focusing on stronger supervision, regulatory simplification and innovation. Key publications featured in this edition include: the ESAs’ first annual report on major ICT-related incidents under the Digital Operational Resilience Act (DORA); consultation on technical advice to simplify the EU Taxonomy disclosure framework and reduce reporting burdens for market participants. ESMA's authorisation of EuroCTP as the Consolidated Tape Provider for shares and exchange-traded funds. Other updates cover the selection of Etrading Software (Netherlands) B.V. as Consolidated Tape Provider for OTC derivatives, preliminary findings on the Active Account Requirement under EMIR , a report on the supervision of cross-border investment services, and the launch of Common Supervisory Actions on risk management functions and digital operational resilience for CASPs. The Spotlight on Markets newsletter is published regularly and is available on ESMA’s website. For regular updates, follow ESMA on LinkedIn , X and Instagram . 31/07/2026 ESMA newsletter Newsletter June and July 2026",
+      "date": "2026-07-31T07:56:51+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/07/statpub_news_20260731_c",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-07-31 - Data portal - SNB balance sheet items end of June 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/07/statpub_news_20260731_c",
+      "categorie": "",
+      "description": "",
+      "date": "2026-07-31T07:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/07/statpub_news_20260731_sddsplus",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-07-31 - Data portal - IMF SDDS Plus, 31 July 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/07/statpub_news_20260731_sddsplus",
+      "categorie": "",
+      "description": "",
+      "date": "2026-07-31T07:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/press-releases/2026/pre_20260731",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-07-31 - Press release - Interim results of the Swiss National Bank as at 30 June 2026",
+      "lien": "https://www.snb.ch/en/publications/communication/press-releases/2026/pre_20260731",
+      "categorie": "",
+      "description": "",
+      "date": "2026-07-31T05:15:00+00:00",
+      "analyse": null
+    },
     {
       "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/07/statpub_news_20260729_fin",
       "source": "BNS",
