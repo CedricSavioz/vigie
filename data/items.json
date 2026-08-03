@@ -1,6 +1,90 @@
 {
-  "updated_at": "2026-08-02T10:21:35.244600+00:00",
+  "updated_at": "2026-08-03T13:58:49.999242+00:00",
   "items": [
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260803_a",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-03 - Data portal - Interest rates and exchange rates, August 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260803_a",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-03T12:30:00+00:00",
+      "analyse": {
+        "resume": "Il s'agit d'une simple mise à jour statistique mensuelle de la BNS (portail de données) sur les taux d'intérêt et taux de change pour août 2026, sans annonce réglementaire ni changement de politique. Aucune action de conformité ou de gestion des risques n'est requise, il s'agit d'une publication purement informationnelle.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement n'est directement concerné par une obligation ; publication statistique d'intérêt général pour les acteurs des marchés financiers.",
+        "actions_risk_manager": [
+          "Aucune action requise, prendre note pour la veille de marché",
+          "Archiver la référence pour usage éventuel dans les modèles de valorisation ou de gestion actif-passif"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements",
+      "categorie": "",
+      "description": "EBA, EIOPA and ESMA propose amendments to bilateral margin requirements 03 August 2026 Joint Committee Trading The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a final report on draft Regulatory Technical Standards (RTS), proposing to simplify the bilateral margin requirements of the European Commission’s Delegated Regulation (EU) 2016/2251. The proposed amendments aim to simplify the bilateral margin framework for counterparties that are subject to initial margin requirements and that are below the €8 billion threshold for exchanging initial margin foreseen by the European Market Infrastructure Regulation (EMIR). The changes are intended to facilitate the phase-out of initial margin requirements for these counterparties. They also support greater consistency with the treatment applied in other jurisdictions. In the current framework, counterparties that are below the threshold are exempt from exchanging initial margin for new uncleared over-the counter (OTC) derivative contracts but continue to exchange initial margin for existing contracts. With the proposed amendments, counterparties would no longer be required to exchange initial margin for either new or existing contracts if they are below the threshold. The amendments respond to requests from market participants and support the ESAs' broader objectives of simplification and burden reduction. Next steps The Final Report has been submitted to the European Commission together with the draft RTS for endorsement. Following the Commission's review and adoption process, the RTS will be subject to scrutiny by the European Parliament and the Council before being published in the Official Journal of the European Union. Further information: Tayfun Yilmaz Communications Officer press@esma.europa.eu 03/08/2026 ESA 2026 07 Final Report on amending RTS on uncleared OTC derivatives",
+      "date": "2026-08-03T08:56:46+00:00",
+      "analyse": {
+        "resume": "Les autorités européennes de surveillance (EBA, EIOPA, ESMA) proposent d'amender le règlement délégué (UE) 2016/2251 afin de simplifier les exigences de marge bilatérale pour les contreparties sous le seuil de 8 milliards d'euros d'EMIR, en supprimant l'obligation d'échanger la marge initiale même pour les contrats existants. Il s'agit d'un projet de RTS final soumis à la Commission européenne, non encore en vigueur, qui devra encore passer par le Parlement européen et le Conseil.",
+        "domaines": [
+          "Marchés",
+          "Fonds propres",
+          "Gouvernance"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "maison-titres": "faible",
+          "assurance": "faible",
+          "gestionnaire-placements": "faible"
+        },
+        "etablissements_concernes": "Établissements suisses actifs sur les dérivés OTC non compensés avec des contreparties européennes ou filiales/succursales dans l'UE, notamment banques et maisons de titres avec des portefeuilles dérivés significatifs, ainsi que compagnies d'assurance et gestionnaires de placements gérant des positions couvertes par EMIR.",
+        "actions_risk_manager": [
+          "Suivre l'évolution du projet de RTS jusqu'à son adoption définitive et sa publication au Journal officiel de l'UE",
+          "Évaluer l'exposition du groupe aux exigences de marge initiale EMIR pour les contreparties sous le seuil de 8 milliards d'euros",
+          "Anticiper un éventuel alignement futur des règles FINMA/FinfraG sur ce nouveau cadre simplifié",
+          "Informer les équipes trading et collatéral de l'impact potentiel sur les processus d'échange de marge avec contreparties EU"
+        ],
+        "echeance": "Projet de RTS transmis à la Commission européenne le 03/08/2026, en attente de la procédure d'adoption puis d'examen par le Parlement européen et le Conseil avant publication au Journal officiel",
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260803_gwd",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-03 - Data portal - Important monetary policy data, 3 August 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260803_gwd",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-03T08:00:00+00:00",
+      "analyse": {
+        "resume": "Cette publication de la BNS est une simple mise à jour de données de politique monétaire sur son portail de données statistiques, sans annonce substantielle ni changement réglementaire. Elle relève d'une communication institutionnelle récurrente et n'appelle aucune action de gestion des risques particulière.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement spécifiquement concerné ; publication statistique à caractère général pouvant intéresser les trésoreries et équipes ALM pour information.",
+        "actions_risk_manager": [
+          "Prendre note de la mise à jour des données à titre informatif",
+          "Aucune action corrective ou de conformité requise"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "19908 at https://www.eba.europa.eu",
       "source": "EBA",
