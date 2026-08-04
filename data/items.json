@@ -1,6 +1,79 @@
 {
-  "updated_at": "2026-08-03T13:58:49.999242+00:00",
+  "updated_at": "2026-08-04T12:21:18.071945+00:00",
   "items": [
+    {
+      "guid": "{26D38754-2697-4EB2-9472-A8CCF87AACF2}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce des sanctions actualisée : Taliban",
+      "lien": "https://www.finma.ch/fr/news/2026/08/20260804-sr-946-231-07/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux Taliban (SR 946.231.07).",
+      "date": "2026-08-04T04:17:04+00:00",
+      "analyse": {
+        "resume": "Le SECO a mis à jour la liste des sanctions liées aux Taliban suite à une décision du comité de sanctions de l'ONU du 30 juillet 2026. Les intermédiaires financiers doivent immédiatement mettre à jour leurs systèmes de filtrage, geler les avoirs des personnes/entités concernées et annoncer les relations d'affaires au SECO.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "eleve",
+        "impacts_par_profil": {
+          "banque-universelle": "eleve",
+          "banque-privee": "eleve",
+          "gerant-fortune": "eleve",
+          "maison-titres": "eleve",
+          "assurance": "moyen",
+          "intermediaire-assurance": "moyen",
+          "fintech-crypto": "eleve",
+          "trustee": "eleve",
+          "family-office": "eleve",
+          "gestionnaire-placements": "moyen",
+          "direction-fonds": "moyen"
+        },
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses soumis à la LBA, notamment banques, gérants de fortune, maisons de titres, trustees, family offices et acteurs crypto.",
+        "actions_risk_manager": [
+          "Mettre à jour immédiatement les listes de filtrage sanctions (screening) avec la nouvelle version de la liste SESAM/ONU Taliban",
+          "Vérifier l'ensemble de la base clients et des relations d'affaires existantes pour détecter d'éventuelles correspondances avec les personnes/entités ajoutées ou modifiées",
+          "Procéder sans délai au gel des avoirs identifiés et effectuer l'annonce obligatoire au SECO conformément à l'ordonnance",
+          "En cas de soupçon persistant après clarifications selon l'art. 6 LBA, effectuer une communication MROS conformément à l'art. 9 LBA"
+        ],
+        "echeance": "Application immédiate depuis le 31 juillet 2026",
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "19912 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 3 August, 2026",
+      "lien": "https://www.eba.europa.eu/node/19912",
+      "categorie": "",
+      "description": "EBA E-mail alert 3 August, 2026 Date 03/08/2026 Anonymous (not verified) Mon, 08/03/2026 - 17:00 News & Press EBA, EIOPA and ESMA propose amendments to bilateral margin requirements ​The EBA publishes a no-action letter and technical considerations to support the implementation of the market risk framework for EU banks",
+      "date": "2026-08-03T15:00:02+00:00",
+      "analyse": {
+        "resume": "L'EBA, l'EIOPA et l'ESMA proposent des amendements aux exigences de marge bilatérale pour les dérivés non compensés centralement, tandis que l'EBA publie une lettre de no-action et des précisions techniques pour faciliter la mise en œuvre du nouveau cadre de risque de marché (FRTB) par les banques de l'UE. Ces publications visent principalement les établissements soumis directement au droit européen (CRR/EMIR).",
+        "domaines": [
+          "Fonds propres",
+          "Marchés",
+          "Assurances"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "maison-titres": "faible",
+          "assurance": "faible"
+        },
+        "etablissements_concernes": "Banques et entités de l'UE actives sur les dérivés non compensés centralement et soumises au cadre FRTB, ainsi que leurs contreparties (y compris filiales/succursales suisses de groupes actifs dans l'UE ou contreparties suisses utilisant des dérivés OTC avec des entités européennes).",
+        "actions_risk_manager": [
+          "Vérifier si des entités du groupe (filiales/succursales UE) sont directement soumises aux nouvelles exigences de marge bilatérale ou au régime FRTB révisé",
+          "Assurer une veille sur l'évolution du calendrier d'implémentation FRTB dans l'UE afin d'anticiper une éventuelle convergence future avec les standards FINMA",
+          "Évaluer l'impact indirect sur les contrats dérivés transfrontaliers avec des contreparties européennes (documentation de marge, seuils, échéanciers)",
+          "Informer le département juridique/conformité groupe pour suivi coordonné si des entités du groupe opèrent sous supervision EBA/ESMA/EIOPA"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260803_a",
       "source": "BNS",
