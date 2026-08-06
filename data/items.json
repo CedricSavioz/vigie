@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-08-05T07:14:27.851354+00:00",
+  "updated_at": "2026-08-06T07:16:08.672320+00:00",
   "items": [
+    {
+      "guid": "19924 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 5 August, 2026",
+      "lien": "https://www.eba.europa.eu/node/19924",
+      "categorie": "",
+      "description": "EBA E-mail alert 5 August, 2026 Date 05/08/2026 Anonymous (not verified) Wed, 08/05/2026 - 17:00 News & Press ​The EBA consults on reporting framework for validation and monitoring of ISDA Standard Initial Margin Model Consultations Consultation on Reporting for the purposes of the validation and monitoring of ISDA SIMM",
+      "date": "2026-08-05T15:00:03+00:00",
+      "analyse": {
+        "resume": "L'EBA lance une consultation sur un nouveau cadre de reporting destiné à la validation et au suivi du modèle ISDA SIMM (Standard Initial Margin Model) utilisé pour le calcul de la marge initiale sur les dérivés non compensés centralement. Il s'agit d'une étape préparatoire (consultation) qui ne crée pas d'obligation immédiate mais qui préfigure de futures exigences de reporting pour les entités utilisant ce modèle. L'impact direct concerne les établissements de l'UE ; pour les acteurs suisses, l'intérêt est essentiellement de veille, notamment pour les groupes actifs sur le marché des dérivés OTC non centralement compensés avec des contreparties européennes.",
+        "domaines": [
+          "Marchés",
+          "Fonds propres",
+          "Banques"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "maison-titres": "faible"
+        },
+        "etablissements_concernes": "Principalement les banques et maisons de titres actives sur les marchés de dérivés OTC non centralement compensés utilisant le modèle ISDA SIMM, en particulier au sein de l'UE ou avec des contreparties européennes.",
+        "actions_risk_manager": [
+          "Suivre l'évolution de cette consultation EBA et évaluer si le groupe (ou ses entités UE) utilise le modèle ISDA SIMM pour le calcul de la marge initiale",
+          "Vérifier auprès des équipes marchés/trésorerie si des contrats de dérivés non centralement compensés sont concernés par ce modèle",
+          "Anticiper une éventuelle adaptation future des processus de reporting interne si de nouvelles exigences de validation/monitoring sont adoptées",
+          "Intégrer ce point dans la veille réglementaire trimestrielle sans action immédiate"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "{26D38754-2697-4EB2-9472-A8CCF87AACF2}",
       "source": "FINMA",
