@@ -1,6 +1,35 @@
 {
-  "updated_at": "2026-08-06T07:16:08.672320+00:00",
+  "updated_at": "2026-08-07T05:57:41.412842+00:00",
   "items": [
+    {
+      "guid": "19929 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 6 August, 2026",
+      "lien": "https://www.eba.europa.eu/node/19929",
+      "categorie": "",
+      "description": "EBA E-mail alert 6 August, 2026 Date 06/08/2026 Anonymous (not verified) Thu, 08/06/2026 - 17:45 News & Press EBA ESG risk dashboard shows stable climate risk exposures and continued improvements in data quality",
+      "date": "2026-08-06T15:45:02+00:00",
+      "analyse": {
+        "resume": "L'EBA publie un tableau de bord sur les risques ESG montrant une stabilité des expositions au risque climatique dans le secteur bancaire européen et une amélioration continue de la qualité des données rapportées. Il s'agit d'une communication statistique institutionnelle sans nouvelle exigence réglementaire.",
+        "domaines": [
+          "Banques",
+          "Gouvernance"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {
+          "banque-universelle": "informatif",
+          "banque-privee": "informatif"
+        },
+        "etablissements_concernes": "Principalement les banques actives dans l'UE soumises au reporting EBA ; impact indirect limité pour les groupes bancaires suisses ayant des filiales ou succursales dans l'UE.",
+        "actions_risk_manager": [
+          "Prendre connaissance du dashboard ESG pour benchmarking interne",
+          "Assurer une veille sur l'évolution des standards de reporting ESG au niveau européen susceptibles d'inspirer les futures exigences FINMA"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "19924 at https://www.eba.europa.eu",
       "source": "EBA",
@@ -1804,6 +1833,75 @@
       }
     },
     {
+      "guid": "{51F3A7B6-AE0E-4800-8A05-E62796BD1213}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "État des SupTech dans le monde : l’IA transforme les marchés financiers et la surveillance",
+      "lien": "https://www.finma.ch/fr/documentation/publications-finma/exposes-et-articles/referate-folder/20260623-marlene-amstad-pzf/",
+      "categorie": "Exposés et articles",
+      "description": "",
+      "date": "2026-06-23T04:21:00+00:00",
+      "analyse": {
+        "resume": "La FINMA présente l'état des lieux mondial des SupTech (technologies de surveillance basées sur l'IA) et les enjeux liés à l'adoption massive de l'IA dans la finance, notamment la vitesse des marchés, la concentration technologique et la gouvernance. Elle souligne l'industrialisation de la fraude amplifiée par l'IA et développe de nouveaux outils de surveillance (analyse documentaire, détection d'abus de marché, suivi des cryptoactifs) tout en maintenant la responsabilité humaine dans les décisions.",
+        "domaines": [
+          "Cyber / Résilience",
+          "FinTech / Crypto",
+          "Gouvernance"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "banque-privee": "faible",
+          "gerant-fortune": "faible",
+          "maison-titres": "faible",
+          "assurance": "faible",
+          "fintech-crypto": "moyen",
+          "gestionnaire-placements": "faible"
+        },
+        "etablissements_concernes": "Banques, assurances, gestionnaires d'actifs et acteurs crypto/fintech utilisant ou exposés à l'intelligence artificielle dans leurs opérations, ainsi que ceux surveillés par la FINMA via des outils SupTech renforcés.",
+        "actions_risk_manager": [
+          "Renforcer la veille sur l'utilisation de l'IA en interne et sur les risques de fraude industrialisée par IA",
+          "Anticiper un renforcement des capacités de surveillance de la FINMA (analyse documentaire, détection d'abus de marché) et la qualité/traçabilité des données transmises",
+          "Évaluer la gouvernance interne de l'IA (responsabilité, explicabilité des décisions algorithmiques) au regard des attentes exprimées par le régulateur",
+          "Suivre le développement des outils de surveillance des cryptoactifs (identifiant de jeton numérique) si l'établissement est actif dans ce domaine"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "{8C639F08-ECE9-4049-81C8-A595544EF21C}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Surveillance des assurances par la FINMA: fondée sur les risques, proportionnée et adaptée aux spécificités du secteur",
+      "lien": "https://www.finma.ch/fr/documentation/publications-finma/exposes-et-articles/referate-folder/20260619-stefan-walter-tag_der_versicherer/",
+      "categorie": "Exposés et articles",
+      "description": "",
+      "date": "2026-06-19T10:55:00+00:00",
+      "analyse": {
+        "resume": "Dans ce discours prononcé à la Journée des assureurs 2026, le directeur de la FINMA présente la philosophie de surveillance des assurances : fondée sur les risques, proportionnée et adaptée aux spécificités du secteur. Il détaille les conséquences pratiques des révisions partielles de la LSA/OS (fortune liée et principe de la personne prudente, suitability pour l'assurance-vie qualifiée, renforcement de la surveillance des intermédiaires) ainsi que les priorités futures (SST, liquidité, risques systémiques et géopolitiques). Le texte rappelle des obligations concrètes déjà en vigueur plutôt qu'il n'annonce de nouvelles règles.",
+        "domaines": [
+          "Assurances",
+          "Gouvernance",
+          "Liquidités"
+        ],
+        "niveau_impact": "moyen",
+        "impacts_par_profil": {
+          "assurance": "moyen",
+          "intermediaire-assurance": "moyen"
+        },
+        "etablissements_concernes": "Entreprises d'assurance (dont assureurs-vie) et intermédiaires d'assurance soumis à la surveillance FINMA.",
+        "actions_risk_manager": [
+          "Vérifier que la gestion de la fortune liée respecte le principe de la personne prudente et que les placements complexes (ex. private credit) font l'objet d'une approbation FINMA préalable",
+          "Contrôler la documentation et le processus de vérification d'adéquation (suitability) pour les produits d'assurance-vie qualifiée, y compris les feuilles d'information de base et la présentation des coûts",
+          "S'assurer de la conformité aux exigences renforcées de formation initiale/continue et de transparence des rémunérations pour les intermédiaires d'assurance",
+          "Suivre les résultats et scénarios du Test suisse de solvabilité (SST) et les indicateurs de liquidité dans le cadre du reporting interne au management"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
       "guid": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260619~16185e3a2c.en.html",
       "source": "BCE Supervision",
       "source_id": "ecb-ssm",
@@ -2670,6 +2768,40 @@
       "source_id": "finma-news"
     },
     {
+      "guid": "{0E0ADAE5-DFAC-45CE-82DF-B87A90ACCA6B}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Rede von FINMA Direktor Stefan Walter am Kleinversicherersymposium 2026",
+      "lien": "https://www.finma.ch/fr/documentation/publications-finma/exposes-et-articles/referate-folder/20260424-stefan-walter-kleinversicherersymposium/",
+      "categorie": "Exposés et articles",
+      "description": "",
+      "date": "2026-04-26T11:35:00+00:00",
+      "analyse": {
+        "resume": "Le directeur de la FINMA dresse le bilan de la surveillance des assurances (notamment petites et moyennes) : stabilité du SST 2025, renforcement de la protection des assurés (LCA, intermédiaires non autorisés), et montée des risques climatiques suite à des événements comme Blatten. Il précise aussi que le paquet réglementaire TBTF vise avant tout les banques systémiques, avec un impact seulement ponctuel sur les assurances (ex. rotation des sociétés d'audit).",
+        "domaines": [
+          "Assurances",
+          "Gouvernance",
+          "Risques opérationnels",
+          "Banques"
+        ],
+        "niveau_impact": "moyen",
+        "impacts_par_profil": {
+          "assurance": "moyen",
+          "intermediaire-assurance": "moyen",
+          "banque-universelle": "faible"
+        },
+        "etablissements_concernes": "Petites et moyennes compagnies d'assurance, intermédiaires d'assurance, et de manière marginale les banques systémiques via le paquet TBTF.",
+        "actions_risk_manager": [
+          "Vérifier l'intégration des risques climatiques et de catastrophes naturelles dans la cartographie des risques et le SST/ORSA",
+          "Revoir la conformité des contrats avec prestataires de santé (assurances complémentaires) aux exigences prudentielles",
+          "S'assurer que les intermédiaires utilisés sont dûment enregistrés et qualifiés",
+          "Suivre l'évolution du paquet TBTF pour anticiper d'éventuelles exigences applicables (ex. rotation des auditeurs)"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
       "guid": "{665DEB06-1B65-4107-9AC6-854771C4F38D}",
       "source": "FINMA",
       "titre": "La FINMA salue le message adopté par le Conseil fédéral concernant la révision de la loi sur les banques",
@@ -2699,6 +2831,93 @@
         }
       },
       "source_id": "finma-news"
+    },
+    {
+      "guid": "{C7D4A390-580D-4133-966B-AB244F896619}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "La surveillance de la FINMA en 2025: résilience, protection des clients et comportement commercial intègre",
+      "lien": "https://www.finma.ch/fr/documentation/publications-finma/exposes-et-articles/referate-folder/20260421-stefan-walter-jmk-2026/",
+      "categorie": "Exposés et articles",
+      "description": "",
+      "date": "2026-04-21T08:00:00+00:00",
+      "analyse": {
+        "resume": "Le discours de la présidence de la FINMA dresse le bilan de la surveillance 2025, axé sur la résilience, la protection des clients et l'intégrité commerciale. Plusieurs points opérationnels sont mentionnés : renforcement des exigences sur le crédit hypothécaire, premiers tests de résistance de liquidité sur les fonds de placement suisses (révélant des faiblesses chez certains fonds obligataires et actions), surveillance accrue des risques climatiques, de la cyber-résilience et de l'externalisation, ainsi qu'un contrôle renforcé de l'adéquation (suitability) et de l'écoblanchiment. La FINMA annonce aussi une surveillance intensifiée des gestionnaires de fortune et des intermédiaires d'assurance non qualifiés.",
+        "domaines": [
+          "Banques",
+          "Assurances",
+          "Gestion d'actifs",
+          "LSFin / LEFin",
+          "Cyber / Résilience",
+          "Liquidités",
+          "Fonds propres",
+          "Gouvernance"
+        ],
+        "niveau_impact": "eleve",
+        "impacts_par_profil": {
+          "banque-universelle": "eleve",
+          "banque-privee": "moyen",
+          "gerant-fortune": "eleve",
+          "gestionnaire-placements": "eleve",
+          "direction-fonds": "eleve",
+          "maison-titres": "faible",
+          "assurance": "moyen",
+          "intermediaire-assurance": "eleve",
+          "caisse-pension": "faible",
+          "fintech-crypto": "faible",
+          "bpo-outsourcing": "moyen"
+        },
+        "etablissements_concernes": "Banques (notamment sur le crédit hypothécaire et la cybersécurité/externalisation), gestionnaires d'actifs et directions de fonds (tests de liquidité), gestionnaires de fortune et assureurs (suitability, écoblanchiment), intermédiaires d'assurance (qualification et enregistrement).",
+        "actions_risk_manager": [
+          "Revoir la politique d'octroi de crédits hypothécaires et documenter la robustesse des critères d'évaluation immobilière et de solvabilité face aux attentes accrues de la FINMA",
+          "Réaliser ou mettre à jour des tests de résistance de liquidité sur les fonds gérés, en particulier obligataires et actions, et documenter les mesures correctives en cas de liquidité insuffisante",
+          "Renforcer les contrôles de suitability et d'adéquation des produits complexes/illiquides vendus aux clients, avec traçabilité de l'analyse de capacité et propension au risque",
+          "Effectuer une revue de la gestion des risques liés à l'externalisation IT et à la cybersécurité, et vérifier l'alignement avec les exigences renforcées de la FINMA en matière de gouvernance des risques opérationnels",
+          "Vérifier la conformité des communications marketing et de la documentation des fonds durables afin d'éviter tout risque d'écoblanchiment"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "{402A02FD-30B4-497D-8843-F8880EE4388E}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Priorité à la prévention et à la technologie comme facteurs déterminants pour l’avenir",
+      "lien": "https://www.finma.ch/fr/documentation/publications-finma/exposes-et-articles/referate-folder/20260421-marlene-amstad-jmk-2026/",
+      "categorie": "Exposés et articles",
+      "description": "",
+      "date": "2026-04-21T08:00:00+00:00",
+      "analyse": {
+        "resume": "Dans son discours annuel, la présidente de la FINMA plaide pour un renforcement préventif de la boîte à outils réglementaire (responsabilité individuelle, amendes, publication des sanctions) suite au cas Credit Suisse, tout en soulignant la place croissante de l'IA et de la SupTech dans la surveillance des marchés financiers. Aucune mesure contraignante immédiate n'est annoncée, mais la publication esquisse les orientations législatives et de surveillance à venir, notamment sur la gouvernance, les fonds propres (double leverage) et l'usage de l'IA/externalisation.",
+        "domaines": [
+          "Enforcement",
+          "Gouvernance",
+          "Fonds propres",
+          "FinTech / Crypto",
+          "Banques"
+        ],
+        "niveau_impact": "moyen",
+        "impacts_par_profil": {
+          "banque-universelle": "moyen",
+          "banque-privee": "faible",
+          "maison-titres": "faible",
+          "gerant-fortune": "faible",
+          "assurance": "faible",
+          "fintech-crypto": "moyen",
+          "gestionnaire-placements": "faible",
+          "direction-fonds": "faible"
+        },
+        "etablissements_concernes": "L'ensemble des établissements surveillés par la FINMA sont concernés à des degrés divers, avec un accent particulier sur les grandes banques (gouvernance, fonds propres) et les établissements utilisant l'intelligence artificielle (banques, assurances, fonds).",
+        "actions_risk_manager": [
+          "Suivre l'évolution législative annoncée concernant la responsabilité individuelle, les amendes et la publication des sanctions FINMA, et anticiper leur impact sur le cadre de gouvernance interne",
+          "Réévaluer la cartographie des risques liés à l'utilisation de l'IA et à l'externalisation associée (prestataires tiers), notamment en matière de gestion des risques opérationnels et de continuité",
+          "Renforcer la documentation et la traçabilité des décisions de gouvernance et de gestion des risques afin d'anticiper un éventuel renforcement des exigences en matière de responsabilité individuelle",
+          "Maintenir une veille réglementaire active sur le débat relatif au double leverage et aux exigences de fonds propres pour les groupes financiers"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
     },
     {
       "guid": "{56437566-8087-4B12-BC27-C0B247F28FA9}",
@@ -3320,6 +3539,40 @@
         ],
         "echeance": null,
         "modele": "claude-fable-5 (généré via Claude Code, 2026-07-29)"
+      }
+    },
+    {
+      "guid": "{8801D565-01B7-4D8E-83CB-4DCB0D597267}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Amendes, régime de responsabilité et transparence sur l’enforcement: point de situation trois ans après",
+      "lien": "https://www.finma.ch/fr/documentation/publications-finma/exposes-et-articles/referate-folder/20260309-marlene-amstad-sfaa/",
+      "categorie": "Exposés et articles",
+      "description": "",
+      "date": "2026-03-09T10:35:00+00:00",
+      "analyse": {
+        "resume": "Dans un discours à l'occasion des trois ans de la reprise de Credit Suisse, la Présidente de la FINMA réaffirme la nécessité de trois compétences légales clés : pouvoir d'amende en cas de violation grave du droit de la surveillance, régime de responsabilité clarifié pour le senior management, et transparence publique sur les procédures d'enforcement achevées. Elle aborde aussi la question du capital (double leverage des filiales étrangères des banques d'importance systémique) et souligne que la réglementation doit créer les bonnes incitations plutôt que de se substituer à la gouvernance des établissements.",
+        "domaines": [
+          "Banques",
+          "Enforcement",
+          "Gouvernance",
+          "Fonds propres"
+        ],
+        "niveau_impact": "moyen",
+        "impacts_par_profil": {
+          "banque-universelle": "moyen",
+          "banque-privee": "faible",
+          "maison-titres": "faible"
+        },
+        "etablissements_concernes": "Principalement les banques d'importance systémique et plus largement l'ensemble des établissements bancaires suisses, dans le cadre du débat sur les réformes législatives too-big-to-fail et le futur régime d'enforcement de la FINMA.",
+        "actions_risk_manager": [
+          "Suivre l'évolution des travaux législatifs sur les compétences d'amende, la responsabilité du senior management et la transparence de l'enforcement afin d'anticiper les futures obligations",
+          "Réévaluer la cartographie des risques de gouvernance et de culture du risque à la lumière des enseignements tirés de la chute de Credit Suisse",
+          "Informer le management et le conseil d'administration des orientations exprimées par la FINMA sur le régime de responsabilité individuelle des dirigeants",
+          "Renforcer la veille réglementaire sur le paquet de réformes TBTF, notamment les règles relatives au double leverage et au financement du capital des filiales étrangères"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
       }
     },
     {
