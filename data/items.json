@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-07T05:57:41.412842+00:00",
+  "updated_at": "2026-08-08T05:20:52.718108+00:00",
   "items": [
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260807_wki",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-07 - Data portal - Exchange rate indices, August 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260807_wki",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-07T07:00:00+00:00",
+      "analyse": {
+        "resume": "Publication statistique mensuelle de la BNS présentant les indices du taux de change pour août 2026, sans annonce de politique ou changement réglementaire. Il s'agit d'une mise à jour de données de marché standard sans impact sur les exigences prudentielles ou opérationnelles.",
+        "domaines": [
+          "Politique monétaire",
+          "Marchés"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Publication statistique générale, pertinente pour les départements de trésorerie et de trading suivant les taux de change, sans obligation réglementaire spécifique.",
+        "actions_risk_manager": [
+          "Prendre connaissance des données pour les besoins de trésorerie/trading si applicable",
+          "Aucune action de conformité ou de gestion des risques requise"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260807_sddsplus",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-07 - Data portal - IMF SDDS Plus, 7 August 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260807_sddsplus",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-07T07:00:00+00:00",
+      "analyse": {
+        "resume": "Il s'agit d'une simple mise à jour de la publication statistique de la BNS dans le cadre de la norme spéciale de diffusion des données du FMI (SDDS Plus). Cette communication est de nature purement statistique et institutionnelle, sans portée réglementaire ou prudentielle directe.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement financier n'est directement concerné ; il s'agit d'une publication statistique institutionnelle de la BNS.",
+        "actions_risk_manager": [
+          "Aucune action requise, prise de connaissance à titre informatif uniquement."
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "19929 at https://www.eba.europa.eu",
       "source": "EBA",
