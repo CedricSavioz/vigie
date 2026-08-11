@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-08-10T05:54:53.584142+00:00",
+  "updated_at": "2026-08-11T05:34:42.362779+00:00",
   "items": [
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260810_gwd",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-10 - Data portal - Important monetary policy data, 10 August 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260810_gwd",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-10T08:00:00+00:00",
+      "analyse": {
+        "resume": "La BNS publie ses données statistiques régulières sur la politique monétaire (data portal) le 10 août 2026, sans annonce de changement de taux directeur ni de mesure nouvelle. Il s'agit d'une mise à jour statistique de routine sans contenu réglementaire ou prudentiel direct.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Publication institutionnelle de données statistiques, pertinente principalement pour les économistes et trésoriers suivant la politique monétaire suisse.",
+        "actions_risk_manager": [
+          "Archiver la publication pour la veille de politique monétaire sans action immédiate",
+          "Vérifier l'absence d'impact sur les hypothèses de taux utilisées dans les modèles ALM/trésorerie"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260807_wki",
       "source": "BNS",
