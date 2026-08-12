@@ -1,6 +1,195 @@
 {
-  "updated_at": "2026-08-11T05:34:42.362779+00:00",
+  "updated_at": "2026-08-12T05:56:05.243264+00:00",
   "items": [
+    {
+      "guid": "https://www.snb.ch/en/the-snb/mandates-goals/cash/access-to-cash",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-12 - Banknotes and coins - Access to cash",
+      "lien": "https://www.snb.ch/en/the-snb/mandates-goals/cash/access-to-cash",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-12T05:53:59+00:00",
+      "analyse": {
+        "resume": "La BNS publie une étude, réalisée avec l'Université de Saint-Gall, mesurant l'accès aux espèces (distributeurs, agences bancaires, offices de poste) en Suisse en termes de temps de trajet et de distance. Les résultats montrent des écarts significatifs entre zones urbaines et rurales, ainsi qu'entre types de transaction (billets vs pièces) et moyens de transport. Il s'agit d'une publication statistique et informative, sans nouvelle exigence réglementaire directe pour les établissements financiers.",
+        "domaines": [
+          "Banques",
+          "Marchés",
+          "Gouvernance"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {
+          "banque-universelle": "informatif",
+          "banque-privee": "informatif"
+        },
+        "etablissements_concernes": "Banques et opérateurs d'infrastructures de cash (distributeurs, agences, offices de poste) exploitant des points d'accès aux espèces en Suisse.",
+        "actions_risk_manager": [
+          "Prendre connaissance des résultats pour information dans le cadre du suivi des tendances sur l'accès aux espèces",
+          "Vérifier la cohérence avec la stratégie interne de couverture géographique des agences et distributeurs si l'établissement exploite un réseau physique",
+          "Surveiller les évolutions futures publiées annuellement par la BNS et l'Université de Saint-Gall (Swiss Money Map) pour anticiper d'éventuelles discussions réglementaires sur l'accès aux espèces"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "{24BBE8EC-1C29-47DF-A80E-A56C0047797D}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce de sanctions actualisées : Ukraine",
+      "lien": "https://www.finma.ch/fr/news/2026/08/20260812-sr-946-231-176-72/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l’économie, de la formation et de la recherche DEFR a publié des modifications de l'annexe 2 et 8 de l'ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine (RS 946.231.176.72).",
+      "date": "2026-08-12T04:27:50+00:00",
+      "analyse": {
+        "resume": "Le DEFR a modifié les annexes 2 et 8 de l'ordonnance sur les mesures liées à la situation en Ukraine, entrant en vigueur immédiatement. Les intermédiaires financiers doivent mettre à jour leurs listes de sanctions, procéder au gel des avoirs des personnes nouvellement désignées et annoncer les relations d'affaires concernées au SECO.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "eleve",
+        "impacts_par_profil": {
+          "banque-universelle": "eleve",
+          "banque-privee": "eleve",
+          "gerant-fortune": "eleve",
+          "maison-titres": "eleve",
+          "assurance": "moyen",
+          "intermediaire-assurance": "moyen",
+          "trustee": "eleve",
+          "family-office": "eleve",
+          "fintech-crypto": "eleve",
+          "gestionnaire-placements": "moyen",
+          "direction-fonds": "moyen"
+        },
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses assujettis à la LBA (banques, gérants de fortune, maisons de titres, trustees, assurances, fintechs) doivent vérifier leurs relations d'affaires au regard des listes de sanctions mises à jour concernant l'Ukraine.",
+        "actions_risk_manager": [
+          "Mettre à jour immédiatement les listes de sanctions et le filtrage des clients/contreparties (screening) selon les annexes 2 et 8 modifiées",
+          "Identifier les relations d'affaires et transactions concernées et procéder au gel des avoirs si nécessaire",
+          "Effectuer les annonces obligatoires au SECO et évaluer si une communication MROS au sens de l'art. 9 LBA s'impose en cas de soupçons",
+          "Documenter les contrôles effectués et informer le management/compliance de l'entrée en vigueur immédiate des modifications"
+        ],
+        "echeance": "Entrée en vigueur le 12 août 2026 à 23h00",
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "{DE72E6C0-033C-438C-BF5B-710F18712F64}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce de sanctions actualisées : Moldova",
+      "lien": "https://www.finma.ch/fr/news/2026/08/20260812-sr-946-231-156-5/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l'annexe de l'Ordonnance du 28 juin 2023 instituant des mesures concernant Moldova (RS 946.231.156.5).",
+      "date": "2026-08-12T04:21:00+00:00",
+      "analyse": {
+        "resume": "Le DEFR a modifié la liste des personnes, entreprises et organisations sanctionnées dans le cadre de l'ordonnance sur les mesures concernant la Moldova, avec entrée en vigueur immédiate. Les intermédiaires financiers suisses doivent mettre à jour leurs listes de filtrage, geler les avoirs concernés et annoncer les relations d'affaires au SECO, sans que cela ne les dispense d'une analyse LBA complémentaire en cas de soupçon.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "eleve",
+        "impacts_par_profil": {
+          "banque-universelle": "eleve",
+          "banque-privee": "eleve",
+          "gerant-fortune": "eleve",
+          "maison-titres": "eleve",
+          "assurance": "moyen",
+          "fintech-crypto": "eleve",
+          "trustee": "eleve",
+          "family-office": "eleve",
+          "gestionnaire-placements": "moyen",
+          "direction-fonds": "moyen"
+        },
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses soumis à la LBA, notamment banques, gérants de fortune, maisons de titres, trustees, family offices et fintechs actives dans les paiements ou la crypto.",
+        "actions_risk_manager": [
+          "Mettre à jour immédiatement les listes de filtrage (screening) avec la nouvelle liste SESAM",
+          "Identifier et geler sans délai toute relation d'affaires ou valeur patrimoniale liée aux personnes/entités nouvellement sanctionnées",
+          "Procéder à l'annonce obligatoire au SECO pour les relations d'affaires concernées",
+          "Documenter les clarifications complémentaires LBA (art. 6) et effectuer, le cas échéant, une communication au MROS (art. 9 LBA)"
+        ],
+        "echeance": "2026-08-12T23:00:00+00:00",
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "{F8804DF4-80D5-4E4A-B2ED-4A0EB7DD0A80}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce de sanctions actualisées : Soudan",
+      "lien": "https://www.finma.ch/fr/news/2026/08/20260811-sr-946-231-18/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a modifié l'annexe 2 de l'ordonnance du 25 mai 2005 instituant des mesures à l’encontre du Soudan (RS 946.231.18).",
+      "date": "2026-08-11T11:31:00+00:00",
+      "analyse": {
+        "resume": "Le DEFR a mis à jour l'annexe 2 de l'ordonnance sur les mesures à l'encontre du Soudan, avec entrée en vigueur immédiate le jour même à 23h00. Les établissements financiers suisses doivent mettre à jour leurs listes de contrôle des sanctions (screening) sans délai afin de rester conformes.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "eleve",
+        "impacts_par_profil": {
+          "banque-universelle": "eleve",
+          "banque-privee": "eleve",
+          "gerant-fortune": "eleve",
+          "maison-titres": "eleve",
+          "assurance": "moyen",
+          "intermediaire-assurance": "faible",
+          "fintech-crypto": "moyen",
+          "trustee": "eleve",
+          "family-office": "moyen",
+          "gestionnaire-placements": "faible",
+          "direction-fonds": "faible"
+        },
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses soumis aux obligations de diligence en matière de sanctions internationales (banques, gérants de fortune, maisons de titres, trustees, assurances) via la base SESAM du SECO.",
+        "actions_risk_manager": [
+          "Mettre à jour immédiatement les listes de screening/filtrage (SESAM) intégrées dans les outils de surveillance des transactions et de la clientèle",
+          "Vérifier rétroactivement les relations d'affaires et transactions existantes avec des personnes/entités liées au Soudan pour détecter d'éventuelles correspondances avec les nouvelles inscriptions",
+          "Informer sans délai le management et la fonction compliance de l'entrée en vigueur immédiate (23h00) de la modification",
+          "Documenter la mise en œuvre de la mise à jour dans le dispositif de contrôle interne (SCI) pour assurer la traçabilité en cas de contrôle FINMA"
+        ],
+        "echeance": "Entrée en vigueur le 11 août 2026 à 23:00",
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "{0A9465EB-A799-4AF7-BE33-63E658C9D025}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce de sanctions actualisées : Soudan du Sud",
+      "lien": "https://www.finma.ch/fr/news/2026/08/20260811-sr-946-231-169-9/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a modifié l'annexe 2 de l'ordonnance du 12 août 2015 instituant des mesures à l'encontre de la République du Soudan du Sud (RS 946.231.169.9).",
+      "date": "2026-08-11T11:12:00+00:00",
+      "analyse": {
+        "resume": "Le DEFR a mis à jour la liste des personnes, entreprises et organisations sanctionnées dans le cadre du régime relatif au Soudan du Sud, avec entrée en vigueur immédiate. Les intermédiaires financiers doivent screener leur base clients, geler les avoirs concernés et annoncer les relations d'affaires au SECO, tout en évaluant leurs obligations de communication au MROS selon la LBA.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "eleve",
+        "impacts_par_profil": {
+          "banque-universelle": "eleve",
+          "banque-privee": "eleve",
+          "gerant-fortune": "eleve",
+          "maison-titres": "eleve",
+          "assurance": "moyen",
+          "trustee": "eleve",
+          "family-office": "moyen",
+          "fintech-crypto": "eleve",
+          "gestionnaire-placements": "moyen",
+          "direction-fonds": "moyen"
+        },
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses soumis à la LBA (banques, gérants de fortune, maisons de titres, trustees, fintechs, family offices) ayant des relations d'affaires potentiellement liées au Soudan du Sud.",
+        "actions_risk_manager": [
+          "Mettre à jour immédiatement les listes de filtrage sanctions/PEP avec l'annexe 2 modifiée via SESAM",
+          "Lancer un screening rétroactif de la base clients et des transactions pour identifier d'éventuelles correspondances",
+          "Geler sans délai les avoirs des personnes/entités nouvellement listées et notifier le SECO",
+          "Évaluer la nécessité d'une communication complémentaire au MROS au titre de l'art. 9 LBA en cas de soupçon persistant"
+        ],
+        "echeance": "Entrée en vigueur le 11 août 2026 à 23h00",
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260810_gwd",
       "source": "BNS",
