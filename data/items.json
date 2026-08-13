@@ -1,6 +1,73 @@
 {
-  "updated_at": "2026-08-12T05:56:05.243264+00:00",
+  "updated_at": "2026-08-13T05:57:25.765076+00:00",
   "items": [
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/press-releases-restricted/pre_20260812",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-12 - Press release - Swiss National Bank welcomes measures to strengthen ‘too big to fail’ regulations",
+      "lien": "https://www.snb.ch/en/publications/communication/press-releases-restricted/pre_20260812",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-12T12:30:00+00:00",
+      "analyse": {
+        "resume": "La BNS salue les mesures proposées par le Conseil fédéral le 12 août 2026 pour renforcer le régime 'too big to fail', notamment l'obligation pour les banques d'importance systémique et de taille moyenne de préparer des garanties suffisantes pour accéder au soutien de liquidité des banques centrales, ainsi que la future Extended Liquidity Facility (ELF) disponible dès 2027. Ces mesures visent aussi à renforcer la planification de rétablissement, la résolvabilité des banques systémiques et les pouvoirs d'intervention précoce de la FINMA.",
+        "domaines": [
+          "Banques",
+          "Liquidités",
+          "Fonds propres",
+          "Gouvernance"
+        ],
+        "niveau_impact": "eleve",
+        "impacts_par_profil": {
+          "banque-universelle": "eleve",
+          "banque-privee": "moyen",
+          "maison-titres": "moyen"
+        },
+        "etablissements_concernes": "Les banques d'importance systémique et les banques de taille moyenne en Suisse, en particulier concernant leur préparation de garanties pour l'accès à la liquidité de la BNS.",
+        "actions_risk_manager": [
+          "Évaluer l'éligibilité et la disponibilité des actifs pouvant être mobilisés comme collatéral auprès de la BNS dans le cadre de l'Extended Liquidity Facility (ELF)",
+          "Initier une gap analysis sur les capacités actuelles de préparation de collatéral au regard du projet d'Ordonnance sur les liquidités",
+          "Mettre à jour la cartographie des risques de liquidité et intégrer les nouvelles exigences dans le plan de rétablissement et de résolvabilité",
+          "Informer la direction et le conseil d'administration de l'évolution du cadre 'too big to fail' et anticiper les obligations attendues dès 2027",
+          "Renforcer la veille réglementaire sur les développements du projet de loi suite aux mesures annoncées le 22 avril 2026 et le 12 août 2026"
+        ],
+        "echeance": "Extended Liquidity Facility disponible dès début 2027 ; ordonnance en consultation",
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "{2C5AEFE5-8BC3-4210-8B33-A1D33ED2020C}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "La FINMA est favorable au paquet législatif visant à renforcer le dispositif TBTF soumis à consultation par le Conseil fédéral",
+      "lien": "https://www.finma.ch/fr/news/2026/08/20260812-mm-tbtf/",
+      "categorie": "Communiqué de presse",
+      "description": "L’Autorité fédérale de surveillance des marchés financiers FINMA soutient les projets soumis à consultation par le Conseil fédéral visant à mettre en œuvre les mesures issues du rapport too big to fail du Conseil fédéral et du rapport de la CEP sur la crise de CS dans la loi sur les banques et dans l’ordonnance sur les liquidités. Ces mesures sont essentielles pour accroître la stabilité bancaire et la réputation de la place financière suisse. Afin d’obtenir un effet optimal, la FINMA recommande que les mesures proposées soient mises en œuvre sous la forme d’un train de mesures. Elle soutient en particulier le renforcement des instruments à effet préventif.",
+      "date": "2026-08-12T11:30:00+00:00",
+      "analyse": {
+        "resume": "La FINMA soutient le paquet législatif du Conseil fédéral visant à renforcer le dispositif too big to fail (TBTF), notamment via de nouveaux pouvoirs d'enforcement, un régime de responsabilité, des mesures correctives et des exigences renforcées en matière de liquidité (LoLR). Ce train de mesures, encore en consultation, vise avant tout les banques d'importance systémique et doit être mis en œuvre dans son intégralité pour être pleinement efficace. Il s'agit d'une étape législative à suivre attentivement, sans effet immédiat sur les établissements.",
+        "domaines": [
+          "Banques",
+          "Liquidités",
+          "Enforcement",
+          "Gouvernance"
+        ],
+        "niveau_impact": "moyen",
+        "impacts_par_profil": {
+          "banque-universelle": "moyen"
+        },
+        "etablissements_concernes": "Principalement les banques d'importance systémique suisses (too big to fail), au premier chef UBS, ainsi que plus généralement le secteur bancaire suisse via le renforcement des pouvoirs de surveillance de la FINMA.",
+        "actions_risk_manager": [
+          "Suivre l'évolution de la procédure de consultation et son calendrier législatif",
+          "Évaluer l'impact potentiel des nouveaux pouvoirs d'enforcement, du régime de responsabilité et des amendes sur la cartographie des risques réglementaires",
+          "Anticiper les exigences renforcées en matière de liquidité (obligation de préparatif LoLR) dans les plans de continuité et de gestion de crise",
+          "Informer le management et le conseil d'administration des développements réglementaires en cours et de leurs implications potentielles"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.snb.ch/en/the-snb/mandates-goals/cash/access-to-cash",
       "source": "BNS",
