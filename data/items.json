@@ -1,6 +1,61 @@
 {
-  "updated_at": "2026-08-14T05:55:50.774913+00:00",
+  "updated_at": "2026-08-15T04:57:20.646150+00:00",
   "items": [
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-confirms-go-live-weekly-commodity-derivatives-position-reporting",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA confirms go-live for weekly commodity derivatives position reporting",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esma-confirms-go-live-weekly-commodity-derivatives-position-reporting",
+      "categorie": "",
+      "description": "ESMA confirms go-live for weekly commodity derivatives position reporting 14 August 2026 Trading The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, announces that the new weekly commodity derivatives position reporting framework will go live on 3 September 2026. From this date, market participants will be required to submit weekly position reports in accordance with the updated requirements, technical specifications and validation rules introduced by XML schema version v2.0. Following ESMA's original announcement and the decision to postpone the rollout , additional time has been dedicated to technical and operational preparations to support a smooth transition to the new reporting arrangements. The updated technical documentation ( reporting instructions and XML schema ) is now available to support market participants in completing their implementation activities. Further information: Cristina Bonillo Senior Communications Officer press@esma.europa.eu 14/08/2026 ESMA65-955014868-14991 Commodities derivatives weekly position reporting - Reporting instructions 14/08/2026 ESMA65-955014868-14993 XML Schema for commodities derivates weekly reporting (version 2.0)",
+      "date": "2026-08-14T08:54:44+00:00",
+      "analyse": {
+        "resume": "L'ESMA confirme l'entrée en vigueur, le 3 septembre 2026, du nouveau régime de reporting hebdomadaire des positions sur dérivés de matières premières, avec un schéma XML v2.0 mis à jour. Cette obligation technique s'applique aux acteurs de marché soumis à MiFID II/MiFIR dans l'UE et n'a d'impact direct sur les établissements suisses que via leurs activités de trading de dérivés commodities réalisées dans l'UE (succursales, adhésion à des plateformes UE, reporting délégué). Il s'agit d'une mise à jour opérationnelle/technique de reporting réglementaire, sans changement de fond sur les obligations de position limits.",
+        "domaines": [
+          "Marchés",
+          "Gouvernance"
+        ],
+        "niveau_impact": "moyen",
+        "impacts_par_profil": {
+          "banque-universelle": "moyen",
+          "maison-titres": "moyen"
+        },
+        "etablissements_concernes": "Banques et maisons de titres suisses actives sur les dérivés de matières premières via des plateformes ou entités soumises à MiFID II/MiFIR dans l'UE.",
+        "actions_risk_manager": [
+          "Identifier les entités du groupe soumises à l'obligation de reporting hebdomadaire au titre de MiFIR sur les dérivés de matières premières",
+          "Vérifier la mise à jour des systèmes de reporting vers le schéma XML v2.0 avant le 3 septembre 2026",
+          "Coordonner avec les équipes IT/reporting réglementaire pour tester la conformité aux nouvelles règles de validation",
+          "Informer les fonctions conformité et front-office des délais et exigences techniques mises à jour"
+        ],
+        "echeance": "3 septembre 2026",
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260814_sddsplus",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-14 - Data portal - IMF SDDS Plus, 14 August 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260814_sddsplus",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-14T07:00:00+00:00",
+      "analyse": {
+        "resume": "Publication purement statistique de la BNS relative à la mise à jour de son portail de données dans le cadre du standard SDDS Plus du FMI. Il s'agit d'une communication institutionnelle sans contenu réglementaire ou prudentiel nouveau.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement financier n'est directement concerné ; publication à visée statistique et institutionnelle.",
+        "actions_risk_manager": [
+          "Aucune action requise, prendre note à titre informatif"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.snb.ch/en/publications/communication/press-releases-restricted/pre_20260812",
       "source": "BNS",
