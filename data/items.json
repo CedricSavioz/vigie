@@ -1,6 +1,136 @@
 {
-  "updated_at": "2026-08-17T05:08:29.247203+00:00",
+  "updated_at": "2026-08-18T05:03:14.401679+00:00",
   "items": [
+    {
+      "guid": "{4345D48B-3B32-4CB5-9E51-0288E814AAEC}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce de sanctions actualisées : Russie",
+      "lien": "https://www.finma.ch/fr/news/2026/08/20260817-sr-946-231-176-72/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l’économie, de la formation et de la recherche DEFR a publié des modifications de l'annexe 2 et 14a de l'ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine (RS 946.231.176.72).",
+      "date": "2026-08-17T12:29:53+00:00",
+      "analyse": {
+        "resume": "Le DEFR a modifié les annexes 2 et 14a de l'ordonnance sur les mesures liées à la situation en Ukraine, entraînant une mise à jour des listes de personnes et entités sanctionnées en lien avec la Russie, entrée en vigueur le 14 août 2026 à 23h00. Les intermédiaires financiers doivent immédiatement mettre en œuvre les interdictions, geler les avoirs concernés et annoncer les relations d'affaires au SECO.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "eleve",
+        "impacts_par_profil": {
+          "banque-universelle": "eleve",
+          "banque-privee": "eleve",
+          "gerant-fortune": "eleve",
+          "gestionnaire-placements": "moyen",
+          "direction-fonds": "moyen",
+          "maison-titres": "eleve",
+          "assurance": "moyen",
+          "intermediaire-assurance": "faible",
+          "trustee": "eleve",
+          "family-office": "eleve",
+          "fintech-crypto": "eleve",
+          "bpo-outsourcing": "moyen"
+        },
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (banques, gérants de fortune, maisons de titres, trustees, assurances, fintechs) ayant des relations d'affaires ou des valeurs patrimoniales liées à des personnes ou entités visées par les sanctions russes.",
+        "actions_risk_manager": [
+          "Mettre à jour immédiatement les listes de screening sanctions (PEP/watchlists) avec les nouvelles annexes 2 et 14a",
+          "Identifier et geler sans délai les avoirs et relations d'affaires concernés par les nouvelles désignations",
+          "Procéder à l'annonce obligatoire au SECO pour toute relation d'affaires impactée",
+          "Effectuer les clarifications complémentaires selon l'art. 6 LBA et, le cas échéant, communiquer au MROS conformément à l'art. 9 LBA"
+        ],
+        "echeance": "14 août 2026, 23:00 (entrée en vigueur immédiate)",
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/press-releases/2026/pre_20260817",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-17 - Press release - New Director at Study Center Gerzensee",
+      "lien": "https://www.snb.ch/en/publications/communication/press-releases/2026/pre_20260817",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-17T11:00:00+00:00",
+      "analyse": {
+        "resume": "Communiqué institutionnel de la BNS annonçant la nomination d'un nouveau directeur au Study Center Gerzensee, fondation académique liée à la BNS. Cette annonce n'a aucune portée réglementaire ou prudentielle pour les établissements financiers suisses.",
+        "domaines": [
+          "Gouvernance"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement financier n'est concerné directement ; communication institutionnelle interne à la BNS et à sa fondation académique.",
+        "actions_risk_manager": [
+          "Aucune action requise",
+          "Prendre note à titre informatif pour la veille institutionnelle"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "{97842C0B-2E44-4A95-8551-3FAB9DDFD49F}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce des sanctions actualisée : EIIL (Daech) et Al-Qaïda",
+      "lien": "https://www.finma.ch/fr/news/2026/08/20260817-sr-946-231-08/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al-Qaïda (RS 946.231.08).",
+      "date": "2026-08-17T09:58:13+00:00",
+      "analyse": {
+        "resume": "Le SECO a mis à jour la liste des sanctions relatives à l'EIIL (Daech) et Al-Qaïda suite à une décision du comité de sanctions des Nations Unies du 13 août 2026, directement applicable en Suisse. Les établissements financiers doivent vérifier leurs bases clients contre la liste actualisée dans SESAM pour détecter d'éventuelles relations avec les personnes ou entités concernées.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "moyen",
+        "impacts_par_profil": {
+          "banque-universelle": "moyen",
+          "banque-privee": "moyen",
+          "gerant-fortune": "moyen",
+          "maison-titres": "moyen",
+          "assurance": "faible",
+          "intermediaire-assurance": "faible",
+          "trustee": "moyen",
+          "family-office": "moyen",
+          "fintech-crypto": "moyen",
+          "gestionnaire-placements": "faible",
+          "direction-fonds": "faible"
+        },
+        "etablissements_concernes": "Tous les intermédiaires financiers assujettis à la LBA (banques, gérants de fortune, maisons de titres, trustees, fintechs) devant effectuer un filtrage sanctions de leur clientèle.",
+        "actions_risk_manager": [
+          "Mettre à jour immédiatement les listes de filtrage automatisées (screening) avec la version SESAM actualisée",
+          "Effectuer une revue rétroactive des relations d'affaires et transactions existantes contre les nouvelles entrées de la liste",
+          "Documenter le contrôle effectué et informer la conformité/compliance officer des résultats",
+          "Vérifier l'intégration correcte de la mise à jour dans les systèmes de surveillance des transactions (AML/KYC)"
+        ],
+        "echeance": "14 août 2026 (mise à jour immédiate applicable)",
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260817_gwd",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-17 - Data portal - Important monetary policy data, 17 August 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260817_gwd",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-17T08:00:00+00:00",
+      "analyse": {
+        "resume": "Il s'agit d'une simple publication de données statistiques régulières de la BNS sur le portail de données de politique monétaire, sans annonce de nouvelle mesure ou décision. Aucune information exploitable au-delà de la mise à disposition de chiffres de routine.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement n'est directement concerné par une obligation ou une action ; il s'agit d'une publication de données statistiques à titre informatif.",
+        "actions_risk_manager": [
+          "Aucune action requise, prendre note à titre de veille générale"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-confirms-go-live-weekly-commodity-derivatives-position-reporting",
       "source": "ESMA",
