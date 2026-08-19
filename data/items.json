@@ -1,6 +1,80 @@
 {
-  "updated_at": "2026-08-18T05:03:14.401679+00:00",
+  "updated_at": "2026-08-19T05:02:35.946411+00:00",
   "items": [
+    {
+      "guid": "{D1B36D2A-FA16-4930-B0F2-BA0E3A94003F}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce de sanctions actualisées : République islamique d'Iran",
+      "lien": "https://www.finma.ch/fr/news/2026/08/20260818-sr-946-231-143-6/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification des annexes 12, 13 et 14 de l'ordonnance du 12 décembre 2025 instituant des mesures à l'encontre de la République islamique d'Iran (RS 946.231.143.6).",
+      "date": "2026-08-18T14:36:28+00:00",
+      "analyse": {
+        "resume": "Le DEFR a mis à jour les listes de personnes, entreprises et organisations sanctionnées dans le cadre du régime Iran, avec entrée en vigueur le 18 août 2026. Les intermédiaires financiers doivent immédiatement filtrer leurs bases clients, geler les avoirs concernés et annoncer les relations d'affaires au SECO, sous réserve des obligations LBA en cas de soupçon.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "eleve",
+        "impacts_par_profil": {
+          "banque-universelle": "eleve",
+          "banque-privee": "eleve",
+          "gerant-fortune": "eleve",
+          "maison-titres": "eleve",
+          "assurance": "moyen",
+          "fintech-crypto": "eleve",
+          "trustee": "eleve",
+          "family-office": "moyen",
+          "gestionnaire-placements": "moyen",
+          "direction-fonds": "moyen",
+          "intermediaire-assurance": "faible",
+          "bpo-outsourcing": "moyen"
+        },
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses (banques, gérants de fortune, maisons de titres, assurances, fintechs, trustees) entretenant ou susceptibles d'entretenir des relations d'affaires avec des personnes ou entités liées à l'Iran.",
+        "actions_risk_manager": [
+          "Mettre à jour immédiatement les listes de filtrage (screening) avec la nouvelle version SESAM avant l'entrée en vigueur du 18 août 2026 à 23h00",
+          "Identifier et geler sans délai les valeurs patrimoniales des personnes/entités nouvellement listées",
+          "Procéder aux annonces obligatoires au SECO pour les relations d'affaires concernées et documenter le processus",
+          "Renforcer les clarifications complémentaires selon l'art. 6 LBA en cas de soupçon et préparer une communication au MROS (art. 9 LBA) si nécessaire"
+        ],
+        "echeance": "18 août 2026, 23:00",
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-consults-reporting-framework-clearing-activity-recognised-third-country",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA consults on reporting framework for clearing activity at recognised third-country CCPs",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esma-consults-reporting-framework-clearing-activity-recognised-third-country",
+      "categorie": "",
+      "description": "ESMA consults on reporting framework for clearing activity at recognised third-country CCPs 18 August 2026 CCP Simplification and Burden Reduction The European Securities and Markets Authority (ESMA), the EU's financial markets regulator and supervisor, has launched a consultation on a proposed annual reporting framework under EMIR for clearing activity at recognised third-country central counterparties (CCPs), aimed at improving supervisory visibility of EU firms' exposures to such CCPs. The consultation paper sets out ESMA's proposed Regulatory Technical Standards (RTS) and Implementing Technical Standards (ITS) under European Market Infrastructure Regulation (EMIR). The reporting obligation will apply to clearing members and clients that clear transactions through recognised third country CCPs. The objective is to provide supervisory authorities with a structured and consistent overview of the scale, characteristics and risk profile of EU firms' exposures to recognised third-country CCPs, contributing to the broader monitoring framework established under EMIR 3. In line with ESMA’s simplification and burden reduction agenda, the proposal seeks to maximise the reuse of information already available through existing reporting channels and limits new requirements to the information that is not available to ESMA or competent authorities. Once implemented, the new requirements will establish a harmonised approach to reporting clearing activity at recognised third-country CCPs. Next steps ESMA invites stakeholders to provide feedback on the reporting framework, templates and format by 12 October 2026. Following the consultation, ESMA will assess the responses received and prepare a Final Report. Further information: Cristina Bonillo Senior Communications Officer press@esma.europa.eu 18/08/2026 ESMA12-2121844265-6008 Consultation paper on the reporting framework under EMIR for clearing activity at recognised third-country CCPs Consultation on the reporting framework under EMIR for clearing activity at recognised third-country CCPs",
+      "date": "2026-08-18T13:52:46+00:00",
+      "analyse": {
+        "resume": "L'ESMA lance une consultation sur un nouveau reporting annuel EMIR concernant l'activité de clearing des membres compensateurs et clients de l'UE auprès de CCP de pays tiers reconnues. L'objectif est d'améliorer la visibilité prudentielle sur les expositions des entités de l'UE à ces infrastructures, dans le cadre du monitoring EMIR 3. Impact indirect pour les acteurs suisses actifs dans l'UE ou compensant via des CCP reconnues, notamment ceux disposant de filiales/succursales européennes ou de relations de clearing transfrontalières.",
+        "domaines": [
+          "Marchés",
+          "Gouvernance",
+          "Risques opérationnels"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "maison-titres": "faible",
+          "gestionnaire-placements": "faible"
+        },
+        "etablissements_concernes": "Membres compensateurs et clients de l'UE clearant via des CCP de pays tiers reconnues ; impact indirect pour les groupes suisses actifs dans l'UE ou utilisant ces canaux de clearing.",
+        "actions_risk_manager": [
+          "Identifier si le groupe ou ses entités européennes utilisent des CCP de pays tiers reconnues soumises à ce futur reporting",
+          "Suivre la consultation (échéance 12 octobre 2026) et évaluer l'impact potentiel sur les processus de reporting existants",
+          "Anticiper une éventuelle extension ou alignement futur des exigences de reporting EMIR pour les entités suisses actives transfrontalièrement",
+          "Informer les équipes conformité/marchés de la veille sur ce dossier réglementaire"
+        ],
+        "echeance": "Consultation ouverte jusqu'au 12 octobre 2026",
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "{4345D48B-3B32-4CB5-9E51-0288E814AAEC}",
       "source": "FINMA",
