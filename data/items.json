@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-08-19T05:02:35.946411+00:00",
+  "updated_at": "2026-08-20T05:04:35.379992+00:00",
   "items": [
+    {
+      "guid": "{B28A46A0-2A72-482B-B3E6-737670CB1E27}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce des sanctions actualisée : EIIL (Daech) et Al-Qaïda",
+      "lien": "https://www.finma.ch/fr/news/2026/08/20260820-sr-946-231-08/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al-Qaïda (RS 946.231.08).",
+      "date": "2026-08-20T03:43:47+00:00",
+      "analyse": {
+        "resume": "Le SECO a mis à jour la liste des sanctions de l'ONU visant l'EIIL (Daech) et Al-Qaïda, directement applicable en Suisse. Les intermédiaires financiers doivent immédiatement filtrer leur base clients, geler les avoirs des personnes/entités ajoutées et annoncer les relations d'affaires concernées au SECO, sous réserve des obligations de clarification et de communication LBA.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "eleve",
+        "impacts_par_profil": {
+          "banque-universelle": "eleve",
+          "banque-privee": "eleve",
+          "gerant-fortune": "eleve",
+          "maison-titres": "eleve",
+          "assurance": "moyen",
+          "intermediaire-assurance": "moyen",
+          "trustee": "eleve",
+          "family-office": "eleve",
+          "fintech-crypto": "eleve",
+          "gestionnaire-placements": "moyen",
+          "direction-fonds": "moyen"
+        },
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses assujettis à la LBA (banques, gérants de fortune, maisons de titres, assurances, trustees, family offices, fintech/crypto) doivent appliquer sans délai la liste de sanctions actualisée.",
+        "actions_risk_manager": [
+          "Mettre à jour immédiatement les listes de filtrage (screening) avec la nouvelle version SESAM/liste ONU",
+          "Procéder au rescreening de la base clients existante pour identifier d'éventuelles correspondances",
+          "Geler sans délai les valeurs patrimoniales des personnes/entités nouvellement listées et notifier le SECO",
+          "Documenter les clarifications complémentaires selon l'art. 6 LBA et effectuer une communication au MROS (art. 9 LBA) en cas de soupçon non écarté"
+        ],
+        "echeance": "Application immédiate dès le 19 août 2026",
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "{98FE0D26-F950-42E4-95A9-C3361E1C6B58}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce des sanctions actualisée : EIIL (Daech) et Al-Qaïda",
+      "lien": "https://www.finma.ch/fr/news/2026/08/20260819-sr-946-231-08/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al-Qaïda (RS 946.231.08).",
+      "date": "2026-08-19T07:45:24+00:00",
+      "analyse": {
+        "resume": "Le SECO a mis à jour la liste des sanctions liées à EIIL (Daech) et Al-Qaïda, applicable directement en Suisse depuis le 17 août 2026. Les établissements financiers doivent immédiatement mettre à jour leurs filtres de screening pour intégrer les nouvelles entrées de la banque de données SESAM.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "eleve",
+        "impacts_par_profil": {
+          "banque-universelle": "eleve",
+          "banque-privee": "eleve",
+          "gerant-fortune": "eleve",
+          "gestionnaire-placements": "moyen",
+          "direction-fonds": "moyen",
+          "maison-titres": "eleve",
+          "assurance": "moyen",
+          "intermediaire-assurance": "faible",
+          "fintech-crypto": "eleve",
+          "trustee": "eleve",
+          "family-office": "moyen",
+          "bpo-outsourcing": "moyen"
+        },
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses soumis à la LBA (banques, gérants de fortune, maisons de titres, trustees, fintechs/crypto notamment) devant appliquer le screening des listes de sanctions.",
+        "actions_risk_manager": [
+          "Mettre à jour immédiatement les listes de filtrage AML/sanctions avec les nouvelles entrées SESAM",
+          "Effectuer une revue rétroactive (look-back) des relations d'affaires et transactions pour détecter d'éventuelles correspondances",
+          "Documenter la mise à jour et informer la fonction Compliance/LBA ainsi que la direction si un hit est détecté",
+          "Vérifier que les fournisseurs de solutions de screening tiers ont intégré la mise à jour dans les délais requis"
+        ],
+        "echeance": "Applicable depuis le 17 août 2026 (mise à jour SESAM)",
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "{D1B36D2A-FA16-4930-B0F2-BA0E3A94003F}",
       "source": "FINMA",
