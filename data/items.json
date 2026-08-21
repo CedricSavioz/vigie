@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-08-20T05:04:35.379992+00:00",
+  "updated_at": "2026-08-21T05:05:38.126465+00:00",
   "items": [
+    {
+      "guid": "{72FD0391-C5AC-48EA-910A-EB9DF3ABAC60}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Sanctions : Russie",
+      "lien": "https://www.finma.ch/fr/news/2026/08/20260820-sr/",
+      "categorie": "Sanction internationale",
+      "description": "Le 19 août 2026, le Conseil fédéral a décidé de s’associer, dans la ligne de la pratique établie, aux mesures additionnelles du 20e paquet de sanctions de l’Union européenne à l’encontre de la Russie, lesquelles entreront en vigueur le 20 août 2026.",
+      "date": "2026-08-20T15:00:00+00:00",
+      "analyse": {
+        "resume": "Le Conseil fédéral s'aligne sur le 20e paquet de sanctions de l'UE contre la Russie, entré en vigueur le 20 août 2026, avec notamment une interdiction d'utiliser des plateformes russes pour l'échange ou le transfert de cryptoactifs et l'aide au développement de cryptoactifs russes comme le rouble numérique. Les intermédiaires financiers doivent mettre en œuvre ces interdictions, geler les avoirs des personnes sanctionnées et effectuer les annonces requises au SECO, sans préjudice des obligations de clarification et de communication LBA.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment",
+          "FinTech / Crypto"
+        ],
+        "niveau_impact": "eleve",
+        "impacts_par_profil": {
+          "banque-universelle": "eleve",
+          "banque-privee": "eleve",
+          "gerant-fortune": "eleve",
+          "maison-titres": "eleve",
+          "fintech-crypto": "eleve",
+          "gestionnaire-placements": "moyen",
+          "direction-fonds": "moyen",
+          "assurance": "moyen",
+          "trustee": "moyen",
+          "family-office": "moyen",
+          "intermediaire-assurance": "faible",
+          "caisse-pension": "faible"
+        },
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses, en particulier les banques, gestionnaires de fortune, maisons de titres et acteurs crypto en relation d'affaires avec des personnes ou entités russes sanctionnées ou des plateformes russes de cryptoactifs.",
+        "actions_risk_manager": [
+          "Mettre à jour immédiatement le filtrage des listes de sanctions (screening) pour intégrer les nouvelles désignations et vérifier l'exposition à des plateformes crypto russes",
+          "Identifier et geler sans délai les relations d'affaires et valeurs patrimoniales concernées, puis effectuer l'annonce obligatoire au SECO",
+          "Revoir les procédures internes relatives aux cryptoactifs pour bloquer toute utilisation de plateformes d'échange ou de transfert russes, y compris le rouble numérique",
+          "Sensibiliser les équipes conformité/LBA sur l'articulation entre annonce SECO et obligations de clarification (art. 6 LBA) et de communication (art. 9 LBA) au MROS en cas de soupçon persistant"
+        ],
+        "echeance": "2026-08-20",
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "{8DB27512-CEA8-4598-AF40-28C05BECDF89}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Le secteur suisse de l’assurance encore plus résilient",
+      "lien": "https://www.finma.ch/fr/news/2026/08/20260820-mm-versicherungsmarktbericht-2025/",
+      "categorie": "Communiqué de presse",
+      "description": "Le rapport sur le marché de l’assurance 2025, publié aujourd’hui par l’Autorité fédérale de surveillance des marchés financiers FINMA, fait état d’une situation financière globalement solide du secteur suisse de l’assurance. Les entreprises d’assurance ont considérablement augmenté leurs fonds propres et ont continué à afficher une solvabilité élevée. Parallèlement, le secteur a dégagé un résultat annuel agrégé en nette hausse par rapport à l’année précédente.",
+      "date": "2026-08-20T08:00:00+00:00",
+      "analyse": {
+        "resume": "La FINMA publie son rapport annuel sur le marché de l'assurance 2025, confirmant une solidité financière accrue du secteur suisse avec des fonds propres renforcés, une solvabilité élevée et un résultat agrégé en forte hausse (+136%). Il s'agit d'une communication statistique et institutionnelle, sans nouvelle exigence réglementaire.",
+        "domaines": [
+          "Assurances",
+          "Fonds propres"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {
+          "assurance": "informatif",
+          "intermediaire-assurance": "informatif"
+        },
+        "etablissements_concernes": "Entreprises d'assurance-vie, non-vie et réassureurs actifs sur le marché suisse, ainsi que les intermédiaires d'assurance non liés mentionnés dans le rapport.",
+        "actions_risk_manager": [
+          "Prendre connaissance du rapport pour situer sa propre entreprise par rapport aux moyennes sectorielles (solvabilité, rendement des placements, résultats)",
+          "Comparer les indicateurs de fonds propres et de rendement des placements de l'établissement à ceux publiés pour identifier d'éventuels écarts",
+          "Archiver le rapport dans la veille réglementaire annuelle sans action corrective immédiate requise"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "{B28A46A0-2A72-482B-B3E6-737670CB1E27}",
       "source": "FINMA",
