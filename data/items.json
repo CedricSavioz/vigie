@@ -1,6 +1,56 @@
 {
-  "updated_at": "2026-08-21T05:05:38.126465+00:00",
+  "updated_at": "2026-08-22T04:59:50.490819+00:00",
   "items": [
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260821_bsta",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-21 - Data portal - Monthly banking statistics, August 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260821_bsta",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-21T07:00:00+00:00",
+      "analyse": {
+        "resume": "La BNS publie ses statistiques bancaires mensuelles pour août 2026, une communication statistique de routine sans nouvelle exigence réglementaire. Il s'agit d'une mise à jour de données agrégées sur le secteur bancaire suisse, sans impact direct sur les établissements.",
+        "domaines": [
+          "Banques"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Publication statistique institutionnelle sans destinataire réglementaire spécifique.",
+        "actions_risk_manager": [
+          "Aucune action requise, publication à titre informatif uniquement",
+          "Archiver la référence pour usage éventuel en veille sectorielle ou benchmarking"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260821_b",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-21 - Data portal - Economic data, August 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260821_b",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-21T07:00:00+00:00",
+      "analyse": {
+        "resume": "Publication purement statistique de la BNS mettant à jour son portail de données économiques pour août 2026. Aucune nouvelle exigence réglementaire ou orientation de politique n'est communiquée dans ce texte.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement spécifique n'est directement concerné ; publication à caractère statistique d'intérêt général.",
+        "actions_risk_manager": [
+          "Prendre note de la mise à jour des données pour la veille économique générale",
+          "Aucune action de conformité ou de gestion des risques requise"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "{72FD0391-C5AC-48EA-910A-EB9DF3ABAC60}",
       "source": "FINMA",
