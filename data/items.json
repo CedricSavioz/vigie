@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-08-24T05:11:29.654384+00:00",
+  "updated_at": "2026-08-25T05:05:22.610653+00:00",
   "items": [
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/interviews/int_20260824_gpe",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-24 - Interview - Interview with Petra Tschudin in the FuW",
+      "lien": "https://www.snb.ch/en/publications/communication/interviews/int_20260824_gpe",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-24T10:00:00+00:00",
+      "analyse": {
+        "resume": "Il s'agit d'une interview de Petra Tschudin (BNS) publiée dans la FuW, disponible uniquement en allemand, sans contenu substantiel accessible dans le résumé fourni. Aucune information réglementaire ou décision de politique concrète n'est communiquée dans le texte transmis.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement particulier n'est directement concerné, il s'agit d'une communication institutionnelle de la BNS.",
+        "actions_risk_manager": [
+          "Consulter la version originale en allemand si le sujet abordé s'avère pertinent pour la veille réglementaire",
+          "Archiver la référence pour information sans action immédiate"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260824_gwd",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-24 - Data portal - Important monetary policy data, 24 August 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260824_gwd",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-24T08:00:00+00:00",
+      "analyse": {
+        "resume": "Il s'agit d'une simple mise à disposition de données statistiques de politique monétaire sur le portail de données de la BNS, sans annonce de mesure ou de changement réglementaire. Cette publication est purement institutionnelle et informative, sans impact direct sur la gestion des risques des établissements financiers.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement n'est directement concerné, il s'agit d'une mise à jour de données statistiques publiques.",
+        "actions_risk_manager": [
+          "Aucune action requise, publication à titre informatif uniquement"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260821_bsta",
       "source": "BNS",
