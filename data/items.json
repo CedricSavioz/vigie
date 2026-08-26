@@ -1,6 +1,65 @@
 {
-  "updated_at": "2026-08-25T05:05:22.610653+00:00",
+  "updated_at": "2026-08-26T05:05:37.964640+00:00",
   "items": [
+    {
+      "guid": "19957 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 25 August, 2026",
+      "lien": "https://www.eba.europa.eu/node/19957",
+      "categorie": "",
+      "description": "EBA E-mail alert 25 August, 2026 Date 25/08/2026 Anonymous (not verified) Tue, 08/25/2026 - 17:00 News & Press The EBA consults on revised technical standards for the reclassification of investment firms as credit institutions Consultations Consultation on Regulatory Technical Standards on prudential requirements for investment firms",
+      "date": "2026-08-25T15:00:03+00:00",
+      "analyse": {
+        "resume": "L'EBA lance une consultation sur des normes techniques réglementaires révisées concernant la reclassification de certaines firmes d'investissement en établissements de crédit, dans le cadre du régime prudentiel IFR/IFD. Ce texte est de portée européenne et n'a pas d'application directe en Suisse, mais peut concerner les maisons de titres suisses actives dans l'UE via des filiales ou succursales. Il s'agit d'une consultation, sans obligation immédiate.",
+        "domaines": [
+          "Banques",
+          "Fonds propres",
+          "Marchés"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "maison-titres": "faible"
+        },
+        "etablissements_concernes": "Firmes d'investissement européennes susceptibles d'être reclassifiées en établissements de crédit, avec un intérêt indirect pour les maisons de titres suisses ayant des activités transfrontalières dans l'UE.",
+        "actions_risk_manager": [
+          "Suivre l'évolution de la consultation EBA et son calendrier d'adoption",
+          "Évaluer si des filiales ou entités du groupe dans l'UE sont susceptibles d'être concernées par ce reclassement",
+          "Documenter la veille réglementaire dans le registre de conformité sans action immédiate requise"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/research/working-papers/2026/working_paper_2026_10",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "WP - 2026-08-25 - Romain Baeriswyl: Yesterday’s controversies for tomorrow's money",
+      "lien": "https://www.snb.ch/en/publications/research/working-papers/2026/working_paper_2026_10",
+      "categorie": "",
+      "description": "While money has evolved from natural commodities to digital tokens, the debate about the ideal money has remained the same throughout the ages. Historical controversies about the origin, nature, and double-spending of money offer valuable insights for navigating the new forms of money tokens such as cryptocurrencies, central bank digital currencies and stablecoins.",
+      "date": "2026-08-24T22:00:00+00:00",
+      "analyse": {
+        "resume": "Ce working paper de la BNS propose une analyse académique et historique des controverses sur la nature de la monnaie, appliquées aux formes modernes (cryptomonnaies, CBDC, stablecoins) et à la problématique du double-financement. Il s'agit d'une contribution de recherche théorique sans portée normative ni exigence opérationnelle immédiate.",
+        "domaines": [
+          "FinTech / Crypto",
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {
+          "fintech-crypto": "informatif"
+        },
+        "etablissements_concernes": "Publication de recherche académique de la BNS, sans portée réglementaire directe ; d'intérêt pour les acteurs suivant les débats sur les monnaies numériques (cryptomonnaies, CBDC, stablecoins).",
+        "actions_risk_manager": [
+          "Prendre connaissance du document à titre de veille intellectuelle sur les évolutions conceptuelles de la monnaie numérique",
+          "Aucune action de conformité ou de gestion des risques requise à ce stade",
+          "Archiver la publication dans la veille prospective sur les monnaies numériques pour référence future"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.snb.ch/en/publications/communication/interviews/int_20260824_gpe",
       "source": "BNS",
