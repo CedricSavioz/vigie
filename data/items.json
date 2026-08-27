@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-08-26T05:05:37.964640+00:00",
+  "updated_at": "2026-08-27T15:24:20.672574+00:00",
   "items": [
+    {
+      "guid": "19966 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 27 August, 2026",
+      "lien": "https://www.eba.europa.eu/node/19966",
+      "categorie": "",
+      "description": "EBA E-mail alert 27 August, 2026 Date 27/08/2026 Anonymous (not verified) Thu, 08/27/2026 - 17:00 News & Press ​The EBA responds to the European Parliament’s observations made in the 2024 Discharge report",
+      "date": "2026-08-27T15:00:02+00:00",
+      "analyse": {
+        "resume": "Cette alerte de l'EBA se limite à signaler une réponse formelle de l'autorité aux observations du Parlement européen dans le cadre du rapport de décharge 2024. Il s'agit d'une communication institutionnelle sans contenu normatif ou opérationnel direct.",
+        "domaines": [
+          "Gouvernance"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement financier n'est directement concerné ; il s'agit d'un échange institutionnel entre l'EBA et le Parlement européen.",
+        "actions_risk_manager": [
+          "Prendre note à titre informatif, sans action requise",
+          "Poursuivre la veille réglementaire habituelle sur les publications EBA"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260826_anmar",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-26 - Antoine Martin: Monetary policy and financial stability at the SNB: the role of macroprudential tools",
+      "lien": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260826_anmar",
+      "categorie": "",
+      "description": "The SNB’s core mandate is to ensure price stability. Alongside this, it is also tasked with contributing to the stability of the financial system. With this hierarchy, the legislator gives precedence to price stability over the SNB’s role in financial stability. Monetary policy and financial stability interact with each other. A stable financial system is essential to achieving macroeconomic stability. Furthermore, a well-functioning banking sector is important for the effective transmission of monetary policy. At the same time, price stability provides an important foundation for financial stability. Nonetheless, price stability does not preclude the build-up of financial vulnerabilities. Because the monetary policy actions required to achieve price stability do not always ensure financial stability, dedicated macroprudential tools are needed as a complement. This is even more important since the SNB does not lean against the wind. In Switzerland, the countercyclical capital buffer constitutes such an instrument. Three recent examples illustrate the interaction: The crisis at Credit Suisse showed that financial stability is a precondition for price stability and illustrated how important sufficient buffers are for ensuring smooth monetary policy transmission. The phase of globally low interest rates from 2009 until 2021 highlighted how vulnerabilities can emerge and how the SNB addressed them with macroprudential tools. The monetary policy tightening cycle from 2022 until 2023 demonstrated that the measures required from a monetary policy perspective aligned with those required from a financial stability perspective. The interaction of monetary policy and financial stability underscores the importance of a resilient financial system. It also highlights the need for the ability to strengthen resilience in the system in a targeted manner when vulnerabilities are building up. Banks can and will lend only if they have sufficient capital. A sound macroprudential policy can ensure just that.",
+      "date": "2026-08-26T16:15:00+00:00",
+      "analyse": {
+        "resume": "Dans ce discours, le Vice-président de la BNS explique la relation entre politique monétaire et stabilité financière, et justifie le recours à des outils macroprudentiels dédiés, notamment le volant contracyclique de fonds propres (CCyB), plutôt qu'à un ajustement du taux directeur. Il rappelle que la BNS fixe son taux directeur de manière 'propre' (sans lean against the wind) et laisse la gestion des vulnérabilités financières aux outils macroprudentiels partagés avec la Confédération et la FINMA. Ce discours est de nature explicative et doctrinale, sans nouvelle mesure réglementaire immédiate.",
+        "domaines": [
+          "Politique monétaire",
+          "Fonds propres",
+          "Banques"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "banque-privee": "informatif"
+        },
+        "etablissements_concernes": "Principalement les banques suisses, en particulier les banques systémiques et celles exposées au crédit hypothécaire, concernées par le pilotage du volant contracyclique de fonds propres.",
+        "actions_risk_manager": [
+          "Suivre l'évolution du discours doctrinal de la BNS sur l'articulation politique monétaire / stabilité financière pour anticiper d'éventuelles révisions du CCyB",
+          "Vérifier l'intégration du scénario de relèvement/libération du CCyB dans les plans de capital et les stress tests internes",
+          "Informer le management sur le cadre de gouvernance partagé BNS/FINMA/Confédération en matière de stabilité financière",
+          "Maintenir une veille sur les futures communications de la BNS relatives aux vulnérabilités du marché du crédit et de l'immobilier"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "19964 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 26 August, 2026",
+      "lien": "https://www.eba.europa.eu/node/19964",
+      "categorie": "",
+      "description": "EBA E-mail alert 26 August, 2026 Date 26/08/2026 Anonymous (not verified) Wed, 08/26/2026 - 17:00 News & Press ​The EBA consults on draft technical standards on institutions’ operational risk management Consultations Consultation on draft RTS on operational risk management framework",
+      "date": "2026-08-26T15:00:02+00:00",
+      "analyse": {
+        "resume": "L'EBA lance une consultation sur des projets de normes techniques réglementaires (RTS) relatifs au cadre de gestion du risque opérationnel des établissements bancaires. Ce texte vise à préciser les exigences opérationnelles applicables dans l'UE, avec un impact indirect potentiel pour les groupes suisses actifs sur le marché européen ou soumis à des standards convergents.",
+        "domaines": [
+          "Banques",
+          "Risques opérationnels",
+          "Gouvernance"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "banque-privee": "faible",
+          "maison-titres": "faible"
+        },
+        "etablissements_concernes": "Établissements bancaires de l'UE, et indirectement les groupes bancaires suisses actifs dans l'UE ou suivant les standards européens en matière de risque opérationnel.",
+        "actions_risk_manager": [
+          "Suivre l'évolution de cette consultation EBA et son calendrier d'adoption",
+          "Évaluer la pertinence des futures RTS pour les entités du groupe actives dans l'UE",
+          "Comparer le cadre proposé avec les exigences FINMA existantes sur le risque opérationnel (circulaire correspondante)",
+          "Intégrer une veille réglementaire sur ce dossier dans le suivi des évolutions Bâle III/CRR"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "19957 at https://www.eba.europa.eu",
       "source": "EBA",
