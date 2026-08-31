@@ -1,6 +1,104 @@
 {
-  "updated_at": "2026-08-30T10:02:40.076758+00:00",
+  "updated_at": "2026-08-31T11:02:37.574295+00:00",
   "items": [
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260831_gpe",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-31 - Petra Tschudin: Current challenges of monetary policy",
+      "lien": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260831_gpe",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-31T10:10:00+00:00",
+      "analyse": {
+        "resume": "Présentation d'un membre de la Direction générale de la BNS sur les défis actuels de la politique monétaire, dans le cadre d'un événement académique (EPFL). Il s'agit d'une communication institutionnelle sans annonce réglementaire ou décision de politique monétaire nouvelle.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement financier n'est directement concerné ; communication à caractère académique et institutionnel.",
+        "actions_risk_manager": [
+          "Prendre connaissance du contenu pour la veille macroéconomique générale",
+          "Aucune action corrective ou de conformité requise"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260831_gwd",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-31 - Data portal - Important monetary policy data, 31 August 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260831_gwd",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-31T08:00:00+00:00",
+      "analyse": {
+        "resume": "Il s'agit d'une publication de routine de la BNS diffusant des données statistiques de politique monétaire (portail de données) sans annonce de mesure réglementaire ou de changement de politique. Aucun impact direct pour les fonctions risque ou conformité n'est identifiable à partir de ce contenu.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement n'est directement concerné ; publication statistique institutionnelle de la BNS.",
+        "actions_risk_manager": [
+          "Aucune action requise, à archiver pour la veille documentaire.",
+          "Vérifier si les données publiées alimentent des modèles internes (taux, liquidité) utilisés par la trésorerie."
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260831_c",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-31 - Data portal - SNB balance sheet items end of July 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260831_c",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-31T07:00:00+00:00",
+      "analyse": {
+        "resume": "Publication statistique de routine de la BNS concernant les éléments du bilan de la banque centrale à fin juillet 2026. Il s'agit d'une simple mise à disposition de données via le portail statistique, sans annonce réglementaire ni changement de politique.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement n'est directement concerné ; publication statistique d'intérêt général pour les analystes économiques et de marché.",
+        "actions_risk_manager": [
+          "Aucune action requise, simple prise de connaissance pour la veille économique"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260831_sddsplus",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-08-31 - Data portal - IMF SDDS Plus, 31 August 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/08/statpub_news_20260831_sddsplus",
+      "categorie": "",
+      "description": "",
+      "date": "2026-08-31T07:00:00+00:00",
+      "analyse": {
+        "resume": "La BNS publie sa mise à jour statistique de routine dans le cadre du standard SDDS Plus du FMI, sans annonce de nouvelle mesure réglementaire ou politique. Il s'agit d'une communication technique de diffusion de données macroéconomiques et financières suisses.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement financier n'est directement concerné ; publication de nature statistique et institutionnelle.",
+        "actions_risk_manager": [
+          "Aucune action requise, à titre d'information uniquement"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "19966 at https://www.eba.europa.eu",
       "source": "EBA",
