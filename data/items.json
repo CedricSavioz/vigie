@@ -1,6 +1,46 @@
 {
-  "updated_at": "2026-08-31T11:02:37.574295+00:00",
+  "updated_at": "2026-09-01T09:32:08.484038+00:00",
   "items": [
+    {
+      "guid": "{E7E45D90-F4E3-46C9-9FDA-E80961793A50}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce des sanctions actualisée : Taliban",
+      "lien": "https://www.finma.ch/fr/news/2026/08/20260831-sr-946-231-07/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux Taliban (SR 946.231.07).",
+      "date": "2026-08-31T13:02:02+00:00",
+      "analyse": {
+        "resume": "Le SECO a mis à jour la liste des sanctions liées aux Taliban suite à une décision du comité de sanctions de l'ONU du 27 août 2026, directement applicable en Suisse. Les intermédiaires financiers doivent vérifier leurs bases clients contre la liste actualisée, geler les avoirs concernés et annoncer les relations d'affaires au SECO.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "eleve",
+        "impacts_par_profil": {
+          "banque-universelle": "eleve",
+          "banque-privee": "eleve",
+          "gerant-fortune": "eleve",
+          "maison-titres": "eleve",
+          "assurance": "moyen",
+          "intermediaire-assurance": "moyen",
+          "fintech-crypto": "eleve",
+          "trustee": "eleve",
+          "family-office": "moyen",
+          "gestionnaire-placements": "moyen",
+          "direction-fonds": "moyen"
+        },
+        "etablissements_concernes": "Tous les intermédiaires financiers suisses soumis à la LBA (banques, gérants de fortune, maisons de titres, assurances, fintechs, trustees) qui doivent appliquer les mesures de gel des avoirs.",
+        "actions_risk_manager": [
+          "Mettre à jour immédiatement les listes de filtrage sanctions (screening) avec la nouvelle liste SESAM du SECO",
+          "Effectuer une revue rétroactive de la base clients et des transactions pour identifier d'éventuelles correspondances avec les personnes/entités ajoutées ou modifiées",
+          "Geler sans délai les valeurs patrimoniales des personnes/entités sanctionnées identifiées et annoncer les relations d'affaires au SECO",
+          "Documenter les clarifications complémentaires au sens de l'art. 6 LBA en cas de soupçon et préparer une communication au MROS (art. 9 LBA) si nécessaire"
+        ],
+        "echeance": "2026-08-28",
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260831_gpe",
       "source": "BNS",
