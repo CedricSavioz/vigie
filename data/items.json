@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-09-01T09:32:08.484038+00:00",
+  "updated_at": "2026-09-02T08:56:44.206678+00:00",
   "items": [
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260901_a",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-01 - Data portal - Interest rates and exchange rates, September 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260901_a",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-01T12:30:00+00:00",
+      "analyse": {
+        "resume": "Il s'agit d'une simple mise à jour statistique mensuelle de la BNS (portail de données sur les taux d'intérêt et taux de change), sans annonce de politique monétaire ni changement réglementaire. Aucune action de conformité ou de gestion des risques n'est requise.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Publication statistique institutionnelle sans impact direct sur un profil d'établissement particulier.",
+        "actions_risk_manager": [
+          "Aucune action requise, publication à titre informatif uniquement"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "{E7E45D90-F4E3-46C9-9FDA-E80961793A50}",
       "source": "FINMA",
