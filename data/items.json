@@ -1,6 +1,64 @@
 {
-  "updated_at": "2026-09-02T08:56:44.206678+00:00",
+  "updated_at": "2026-09-03T09:06:20.782968+00:00",
   "items": [
+    {
+      "guid": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260902~f61170cf2f.en.html",
+      "source": "BCE Supervision",
+      "source_id": "ecb-ssm",
+      "titre": "Claudia Buch: Bank resilience and sustainable growth: two sides of the same coin",
+      "lien": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260902~f61170cf2f.en.html",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-02T13:30:00+00:00",
+      "analyse": {
+        "resume": "La présidente du conseil de surveillance de la BCE plaide pour un agenda de réforme équilibré entre résilience bancaire et croissance durable, via une plus grande intégration du marché bancaire européen, l'achèvement de l'union bancaire et la réduction des complexités réglementaires et de supervision (allègement du reporting, procédures accélérées, méthodologie révisée pour le Pilier 2). Elle rejette explicitement tout affaiblissement des exigences de fonds propres et confirme une mise en œuvre fidèle des standards de Bâle.",
+        "domaines": [
+          "Banques",
+          "Fonds propres",
+          "Gouvernance",
+          "Marchés"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "banque-privee": "informatif",
+          "maison-titres": "informatif"
+        },
+        "etablissements_concernes": "Principalement les banques significatives supervisées par la BCE dans la zone euro ; impact indirect limité pour les banques suisses à travers la reprise des standards de Bâle et les évolutions du cadre prudentiel européen.",
+        "actions_risk_manager": [
+          "Assurer une veille sur l'évolution du cadre prudentiel européen (Pilier 2, buffers macroprudentiels) susceptible d'influencer les futures révisions des circulaires FINMA",
+          "Suivre les travaux sur l'union bancaire et l'intégration des marchés pour les groupes ayant des activités transfrontalières en UE",
+          "Informer le management sur la posture de la BCE en faveur du maintien des exigences de fonds propres (pas d'assouplissement attendu à court terme)"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/press-releases-restricted/pre_20260902",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-02 - Press release - Federal Council appoints Christoph Ammann as new President of SNB Bank Council",
+      "lien": "https://www.snb.ch/en/publications/communication/press-releases-restricted/pre_20260902",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-02T10:15:00+00:00",
+      "analyse": {
+        "resume": "La BNS annonce la nomination par le Conseil fédéral de Christoph Ammann comme nouveau Président du Conseil de banque, succédant à Barbara Janom Steiner à partir de mai 2027, ainsi que la nomination de Marc Mächler comme Vice-Président. Cette annonce est de nature purement institutionnelle et de gouvernance interne à la BNS, sans impact direct sur les établissements financiers suisses.",
+        "domaines": [
+          "Gouvernance"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement financier n'est directement concerné ; il s'agit d'une nomination au sein des organes de gouvernance de la Banque nationale suisse.",
+        "actions_risk_manager": [
+          "Prendre note de l'information pour la veille institutionnelle sans action requise",
+          "Aucune mise à jour de cartographie des risques ou du dispositif de contrôle interne nécessaire"
+        ],
+        "echeance": "1 mai 2027 (entrée en fonction du nouveau Président)",
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260901_a",
       "source": "BNS",
@@ -3705,6 +3763,40 @@
       }
     },
     {
+      "guid": "https://www.bis.org/media-releases/20260602-basel-committee-publishes-report-information-and-communication-technology-risk-management",
+      "source": "BRI / Bâle",
+      "source_id": "bis-press",
+      "titre": "Basel Committee publishes report on information and communication technology risk management",
+      "lien": "https://www.bis.org/media-releases/20260602-basel-committee-publishes-report-information-and-communication-technology-risk-management",
+      "categorie": "",
+      "description": "The Basel Committee has published a report describing a range of observed information and communication technology (ICT) risk management practices across jurisdictions to address non-malicious ICT incidents.",
+      "date": "2026-06-02T00:00:00+00:00",
+      "analyse": {
+        "resume": "Le Comité de Bâle publie un rapport de bonnes pratiques sur la gestion des risques ICT (incidents non malveillants) affectant les opérations critiques des banques, en complément de son rapport sur la cyber-résilience. Ce document de référence, sans force contraignante immédiate, vise à harmoniser les approches de gestion des risques informatiques et pourrait influencer les futures attentes de la FINMA en matière de résilience opérationnelle.",
+        "domaines": [
+          "Risques opérationnels",
+          "Cyber / Résilience",
+          "Banques"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "banque-privee": "faible",
+          "maison-titres": "faible",
+          "bpo-outsourcing": "faible"
+        },
+        "etablissements_concernes": "Banques et établissements soumis à des exigences de gestion des risques opérationnels et de résilience ICT, ainsi que leurs prestataires d'externalisation.",
+        "actions_risk_manager": [
+          "Prendre connaissance du rapport et comparer les pratiques ICT internes aux pratiques observées décrites",
+          "Vérifier l'alignement du cadre de gestion des risques opérationnels/ICT avec les référentiels internationaux, en anticipant une éventuelle reprise par la FINMA",
+          "Assurer une veille sur les futurs développements du Comité de Bâle concernant l'IA et la cybersécurité bancaire",
+          "Partager le rapport avec les équipes IT-risk et continuité d'activité pour évaluation de la maturité actuelle"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
       "guid": "https://www.bis.org/press/p260527.htm",
       "source": "BRI / Bâle",
       "source_id": "bis-press",
@@ -3925,6 +4017,44 @@
       }
     },
     {
+      "guid": "https://www.bis.org/media-releases/20260520-basel-committee-agrees-publish-report-information-and-communication-technology-risk-management",
+      "source": "BRI / Bâle",
+      "source_id": "bis-press",
+      "titre": "Basel Committee agrees to publish report on information and communication technology risk management, progresses cryptoasset targeted review, considers targeted updates on liquidity risk principles",
+      "lien": "https://www.bis.org/media-releases/20260520-basel-committee-agrees-publish-report-information-and-communication-technology-risk-management",
+      "categorie": "",
+      "description": "Agrees to publish range of practices report on information and communication technology risk management. Progresses its targeted review of the prudential standard for banks' cryptoasset exposures. Considers targeted updates of its principles on liquidity risk.",
+      "date": "2026-05-20T00:00:00+00:00",
+      "analyse": {
+        "resume": "Le Comité de Bâle fait le point sur plusieurs travaux en cours : publication prochaine d'un rapport sur les pratiques de gestion des risques ICT (incidents non malveillants), avancement de la revue ciblée du traitement prudentiel des expositions aux cryptoactifs, et réflexion sur une mise à jour ciblée des principes de gestion du risque de liquidité de 2008. Le Comité évoque aussi les risques liés à l'IA pour la cybersécurité, le window dressing G-SIB, et un futur travail sur les risques climatiques extrêmes pour les banques. Ces travaux n'ont pas encore d'effet normatif direct mais annoncent des évolutions futures des standards repris par la FINMA.",
+        "domaines": [
+          "Banques",
+          "Cyber / Résilience",
+          "Risques opérationnels",
+          "FinTech / Crypto",
+          "Liquidités",
+          "Fonds propres",
+          "Gouvernance"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "banque-privee": "faible",
+          "maison-titres": "faible",
+          "fintech-crypto": "faible"
+        },
+        "etablissements_concernes": "Banques actives à l'international et établissements suisses appliquant les standards de Bâle (via la FINMA), notamment ceux exposés aux cryptoactifs ou dépendant fortement de systèmes ICT.",
+        "actions_risk_manager": [
+          "Assurer une veille sur la publication à venir du rapport ICT et évaluer sa pertinence par rapport aux pratiques internes de résilience opérationnelle",
+          "Suivre l'évolution de la revue ciblée du traitement prudentiel des cryptoactifs pour anticiper un éventuel impact sur les exigences de fonds propres",
+          "Surveiller les futures mises à jour des principes de gestion du risque de liquidité et évaluer l'écart avec le cadre interne actuel",
+          "Informer le management des travaux en cours sur l'IA/cyber, le G-SIB window dressing et les risques climatiques extrêmes, sans action immédiate requise"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
       "guid": "https://www.bis.org/press/p260512.htm",
       "source": "BRI / Bâle",
       "source_id": "bis-press",
@@ -4073,6 +4203,38 @@
           "Mettre à jour la veille réglementaire sur les futures normes CPMI-IOSCO relatives aux CCP"
         ],
         "echeance": "Consultation jusqu'au 30 juin 2026",
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.bis.org/media-releases/20260506-cpmi-iosco-publishes-consultation-updated-guidance-and-public-disclosures-support",
+      "source": "BRI / Bâle",
+      "source_id": "bis-press",
+      "titre": "CPMI-IOSCO publishes for consultation updated guidance and public disclosures to support the implementation of initial margin proposals",
+      "lien": "https://www.bis.org/media-releases/20260506-cpmi-iosco-publishes-consultation-updated-guidance-and-public-disclosures-support",
+      "categorie": "",
+      "description": "CPMI-IOSCO is seeking input from interested stakeholders on amendments to CCP-related resilience guidance and public quantitative disclosures requirements.",
+      "date": "2026-05-06T00:00:00+00:00",
+      "analyse": {
+        "resume": "CPMI-IOSCO lance une consultation sur des amendements aux lignes directrices de résilience des contreparties centrales (CCP) et aux exigences de divulgation quantitative publique, afin d'intégrer les propositions de janvier 2025 sur la transparence et la réactivité de la marge initiale. Ces amendements visent principalement les CCP elles-mêmes (outils de simulation, gouvernance des modèles de marge, overrides, disclosures), mais ont un effet indirect sur les banques et maisons de titres qui compensent via ces infrastructures. Les commentaires sont attendus jusqu'au 30 juin 2026.",
+        "domaines": [
+          "Marchés",
+          "Risques opérationnels",
+          "Gouvernance"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "maison-titres": "faible"
+        },
+        "etablissements_concernes": "Les contreparties centrales (CCP) sont directement visées ; les banques et maisons de titres suisses actives sur les marchés dérivés centralement compensés sont concernées de manière indirecte en tant qu'utilisateurs de ces infrastructures.",
+        "actions_risk_manager": [
+          "Suivre l'évolution de la consultation CPMI-IOSCO et son calendrier d'implémentation (échéance commentaires 30 juin 2026)",
+          "Évaluer l'exposition de l'établissement aux CCP concernées et anticiper d'éventuels changements dans les exigences de marge initiale",
+          "Informer les équipes de trading/derivatives et de gestion des collatéraux des évolutions attendues en matière de transparence des modèles de marge",
+          "Intégrer ce sujet dans la veille réglementaire internationale sans action immédiate requise à ce stade"
+        ],
+        "echeance": "30 juin 2026 (date limite de consultation)",
         "modele": "claude-sonnet-5"
       }
     },
@@ -4390,6 +4552,30 @@
       }
     },
     {
+      "guid": "https://www.bis.org/media-releases/20260420-statement-appointment-hyun-song-shin-governor-bank-korea",
+      "source": "BRI / Bâle",
+      "source_id": "bis-press",
+      "titre": "Statement on the appointment of Hyun Song Shin as Governor of the Bank of Korea",
+      "lien": "https://www.bis.org/media-releases/20260420-statement-appointment-hyun-song-shin-governor-bank-korea",
+      "categorie": "",
+      "description": "The General Manager of the BIS, Pablo Hernández de Cos, made the following statement today on the announcement that Hyun Song Shin has been appointed to serve as Governor of the Bank of Korea.",
+      "date": "2026-04-20T00:00:00+00:00",
+      "analyse": {
+        "resume": "Communiqué institutionnel de la BRI annonçant la nomination de Hyun Song Shin, actuel cadre dirigeant de la BRI, au poste de Gouverneur de la Bank of Korea, avec des dispositions transitoires internes à la BRI. Cette publication n'a aucun contenu réglementaire ou normatif et ne modifie aucune exigence applicable aux établissements financiers.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement financier suisse n'est directement concerné ; communication institutionnelle interne à la BRI et à la Bank of Korea.",
+        "actions_risk_manager": [
+          "Aucune action requise, prise de connaissance à titre informatif uniquement"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
       "guid": "{EBCAC5FB-EB22-40C2-9A97-820251C46A5D}",
       "source": "FINMA",
       "titre": "Annonce des sanctions actualisée : Taliban",
@@ -4514,6 +4700,34 @@
         "actions_risk_manager": [
           "Prendre note du rapport pour la veille réglementaire internationale, sans action immédiate requise.",
           "Vérifier si l'établissement a des expositions ou des liens opérationnels avec des CSD/SSS britanniques concernés par les lacunes identifiées."
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.bis.org/media-releases/20260416-cpmi-iosco-assesses-united-kingdom-has-implemented-principles-financial-market-infrastructures",
+      "source": "BRI / Bâle",
+      "source_id": "bis-press",
+      "titre": "CPMI-IOSCO assesses that the United Kingdom has implemented the Principles for financial market infrastructures for two FMI types, but recommends some improvements",
+      "lien": "https://www.bis.org/media-releases/20260416-cpmi-iosco-assesses-united-kingdom-has-implemented-principles-financial-market-infrastructures",
+      "categorie": "",
+      "description": "The UK's framework for systemically important payment systems and central securities depositories/securities settlement systems is complete and consistent with the CPMI-IOSCO Principles for financial market infrastructures (PFMI) in most aspects.",
+      "date": "2026-04-16T00:00:00+00:00",
+      "analyse": {
+        "resume": "CPMI-IOSCO publie une évaluation de niveau 2 du cadre réglementaire britannique pour les infrastructures de marché financier (systèmes de paiement d'importance systémique et CSD/SSS), jugé globalement conforme aux Principes PFMI mais avec des lacunes identifiées, notamment sur les principes de risque et de gouvernance des CSD/SSS. Cette publication a une portée institutionnelle et méthodologique, sans impact direct ou immédiat sur les établissements financiers suisses.",
+        "domaines": [
+          "Marchés",
+          "Gouvernance",
+          "Risques opérationnels"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Principalement les infrastructures de marché financier britanniques (systèmes de paiement systémiques, dépositaires centraux de titres et systèmes de règlement de titres) ; impact indirect très limité pour les établissements suisses actifs au Royaume-Uni.",
+        "actions_risk_manager": [
+          "Prendre note du rapport à titre de veille réglementaire internationale sans action immédiate requise",
+          "Vérifier si l'établissement a des expositions ou dépendances opérationnelles envers des CSD/SSS britanniques concernés par les lacunes identifiées",
+          "Suivre les évolutions futures du cadre réglementaire britannique post-évaluation pour anticiper d'éventuels changements affectant les contreparties UK"
         ],
         "echeance": null,
         "modele": "claude-sonnet-5"
@@ -4754,6 +4968,31 @@
         "actions_risk_manager": [
           "Prendre note de l'information sans action requise",
           "Aucune mise à jour de cartographie des risques ou du SCI nécessaire"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.bis.org/media-releases/20260327-bis-extends-term-john-williams-chair-markets-committee",
+      "source": "BRI / Bâle",
+      "source_id": "bis-press",
+      "titre": "BIS extends term for John Williams as Chair of the Markets Committee",
+      "lien": "https://www.bis.org/media-releases/20260327-bis-extends-term-john-williams-chair-markets-committee",
+      "categorie": "",
+      "description": "John C. Williams, President and Chief Executive Officer of the Federal Reserve Bank of New York, is to continue as Chair of the Bank for International Settlements' Markets Committee.",
+      "date": "2026-03-27T00:00:00+00:00",
+      "analyse": {
+        "resume": "Cette publication annonce simplement le renouvellement de John C. Williams (Fed de New York) pour un second mandat de trois ans à la présidence du Markets Committee de la BIS. Il s'agit d'une annonce institutionnelle sans portée réglementaire ou opérationnelle directe pour les établissements financiers suisses.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement financier n'est directement concerné ; communication institutionnelle interne aux banques centrales membres de la BIS.",
+        "actions_risk_manager": [
+          "Prendre note de l'information sans action requise",
+          "Aucune mise à jour de la cartographie des risques ou du SCI nécessaire"
         ],
         "echeance": null,
         "modele": "claude-sonnet-5"
