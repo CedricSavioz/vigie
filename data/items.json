@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-09-04T08:58:18.642479+00:00",
+  "updated_at": "2026-09-05T08:29:33.916841+00:00",
   "items": [
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-signs-memorandum-understanding-securities-and-exchange-board-india",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA signs Memorandum of Understanding with the Securities and Exchange Board of India",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esma-signs-memorandum-understanding-securities-and-exchange-board-india",
+      "categorie": "",
+      "description": "ESMA signs Memorandum of Understanding with the Securities and Exchange Board of India 04 September 2026 CCP International cooperation The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to facilitate cooperation and exchange of information in relation to the recognition of central counterparties (CCPs) established in India and supervised by SEBI. Following the signature of an MoU between ESMA and the Reserve Bank of India (RBI) earlier this year, this agreement marks a further significant step towards restoring access for EU clearing members to Indian CCPs and follows more than two years of sustained engagement between ESMA and Indian authorities. This MoU is the result of close and constructive cooperation between ESMA and SEBI and reflects ESMA’s strong commitment to international supervisory cooperation and mutual support to advance safe, resilient and open financial markets. Next steps The MoU will allow CCPs established in India and supervised by SEBI to re-apply for recognition under EMIR. It is a key requirement under Article 25 of the European Market Infrastructure Regulation (EMIR) for the recognition of third-country CCPs by ESMA. ESMA is continuing discussions with the International Financial Services Centres Authority (IFSCA) with a view to concluding a similar cooperation arrangement. Further information: Tayfun Yilmaz Communications Officer press@esma.europa.eu 04/09/2026 MoU ESMA-SEBI CCPs Memorandum of Understanding between ESMA and the Securities and Exchange Board of India (SEBI) on central counterparties",
+      "date": "2026-09-04T13:47:51+00:00",
+      "analyse": {
+        "resume": "L'ESMA a signé un accord de coopération (MoU) avec le régulateur boursier indien SEBI afin de permettre aux contreparties centrales (CCP) indiennes de redemander leur reconnaissance sous EMIR. Cette étape institutionnelle facilite l'accès des membres compensateurs de l'UE aux CCP indiennes, sans impact réglementaire direct pour la Suisse.",
+        "domaines": [
+          "Marchés"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {
+          "maison-titres": "informatif"
+        },
+        "etablissements_concernes": "Principalement les membres compensateurs et acteurs de marché de l'UE utilisant des CCP indiennes ; impact indirect marginal pour les maisons de titres suisses actives sur ces marchés.",
+        "actions_risk_manager": [
+          "Prendre note de l'accord pour la veille réglementaire internationale",
+          "Vérifier si l'établissement a une exposition directe ou indirecte à des CCP indiennes nécessitant un suivi du statut de reconnaissance EMIR",
+          "Aucune action corrective immédiate requise, information à archiver pour référence future"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-host-data-day-2026-data-savings-and-investment-union-burden-opportunity",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA to host Data Day 2026: ‘Data in the Savings and Investment Union – from burden to opportunity’",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esma-host-data-day-2026-data-savings-and-investment-union-burden-opportunity",
+      "categorie": "",
+      "description": "ESMA to host Data Day 2026: ‘Data in the Savings and Investment Union – from burden to opportunity’ 04 September 2026 Market data Technology, use of data and simplification of reporting requirements will be at the centre of the European Securities and Markets Authority (ESMA) Data Day 2026 , taking place on 24 November in Paris. Building on the success of the first edition, the event ‘Data in the Savings and Investment Union – from burden to opportunity’ will bring together over 200 industry participants, regulators and other stakeholders to discuss key developments in supervisory reporting and regulatory disclosures, as well as the role of data in supporting more effective supervision and further integration in capital markets across the European Union. The agenda of the full day event will include parallel sessions covering several strategic initiatives, including simplification and burden reduction, financial transaction reporting, integrated fund reporting, the European Single Access Point (ESAP) and crypto-asset monitoring. The event will take place in Paris, and some sessions will also be available via online streaming. For more information and registration arrangements, please consult the dedicated event page . Further information: Cristina Bonillo Senior Communications Officer press@esma.europa.eu Data day 2026",
+      "date": "2026-09-04T08:50:20+00:00",
+      "analyse": {
+        "resume": "L'ESMA annonce la tenue de son 'Data Day 2026' à Paris le 24 novembre, un événement institutionnel consacré à la simplification des exigences de reporting, à l'utilisation des données et aux initiatives comme l'ESAP ou la surveillance des crypto-actifs. Il s'agit d'une communication événementielle sans obligation ni exigence réglementaire nouvelle pour les établissements suisses.",
+        "domaines": [
+          "Marchés",
+          "FinTech / Crypto"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Communication institutionnelle de l'ESMA sans portée directe sur les établissements financiers suisses.",
+        "actions_risk_manager": [
+          "Prendre note de l'événement pour une veille réglementaire européenne éventuelle",
+          "Évaluer l'intérêt d'y participer si l'établissement a des activités transfrontalières avec l'UE"
+        ],
+        "echeance": "24 novembre 2026 (événement)",
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260902~f61170cf2f.en.html",
       "source": "BCE Supervision",
