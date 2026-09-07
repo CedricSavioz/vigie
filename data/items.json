@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-09-06T08:46:41.813276+00:00",
+  "updated_at": "2026-09-07T09:34:55.721065+00:00",
   "items": [
+    {
+      "guid": "{BEE08EC5-14AD-4A8E-B08F-BF292A54767F}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Surveillance des petites banques par la FINMA: la proportionnalité, principe d’une surveillance efficace",
+      "lien": "https://www.finma.ch/fr/documentation/publications-finma/exposes-et-articles/referate-folder/20260907-stefan-walter-kbs-2026/",
+      "categorie": "Exposés et articles",
+      "description": "",
+      "date": "2026-09-07T08:42:00+00:00",
+      "analyse": {
+        "resume": "Dans ce discours, le directeur de la FINMA explique le principe de proportionnalité qui guide la surveillance des petites banques et maisons de titres, en s'appuyant sur des données chiffrées (fréquence des contrôles sur place, exigences supplémentaires, procédures d'enforcement) selon la catégorie et le profil de risque des établissements. Il rappelle que le régime des petites banques (allègements sur RWA, NSFR, contrôle des risques, audit interne) reste conditionné à une situation financière stable, mais que la proportionnalité ne s'applique pas aux exigences en matière de LBA, comportement de marché, sanctions, cyberrisques et externalisation, qui s'imposent indépendamment de la taille. Il souligne aussi les risques croissants liés à la dépendance aux prestataires externes/cloud et à l'IA, ainsi que l'impact potentiel des tensions géopolitiques sur les établissements suisses.",
+        "domaines": [
+          "Banques",
+          "Gouvernance",
+          "Cyber / Résilience",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "moyen",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "maison-titres": "moyen",
+          "bpo-outsourcing": "moyen"
+        },
+        "etablissements_concernes": "Les petites et moyennes banques et maisons de titres suisses (catégories 4 et 5), notamment celles participant ou éligibles au régime des petites banques, ainsi que leurs prestataires externes en technologie/cloud.",
+        "actions_risk_manager": [
+          "Vérifier si l'établissement remplit toujours les critères de stabilité financière et de liquidité requis pour bénéficier du régime des petites banques",
+          "S'assurer que les exigences LBA, sanctions, comportement de marché et cyber/externalisation sont pleinement respectées, sans allègement lié à la taille",
+          "Réévaluer la cartographie des risques liés aux prestataires externes (cloud, IA) et aux risques de concentration/dépendance associés",
+          "Suivre les prochaines circulaires et attentes FINMA en matière d'IA et de proportionnalité réglementaire annoncées lors des ateliers du symposium"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260907_gwd",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-07 - Data portal - Important monetary policy data, 7 September 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260907_gwd",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-07T08:00:00+00:00",
+      "analyse": {
+        "resume": "Cette publication de la BNS constitue une simple mise à jour périodique des données de politique monétaire via son portail de données statistiques. Il s'agit d'une communication institutionnelle sans contenu réglementaire ou exigence d'action.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement n'est directement concerné par des obligations ; publication à visée statistique/informative générale.",
+        "actions_risk_manager": [
+          "Aucune action requise, publication à titre informatif uniquement"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260907_wki",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-07 - Data portal - Exchange rate indices, September 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260907_wki",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-07T07:00:00+00:00",
+      "analyse": {
+        "resume": "La BNS publie ses indices mensuels de taux de change pour septembre 2026, une mise à jour statistique de routine sur son portail de données. Il ne s'agit pas d'une décision de politique monétaire ni d'une nouvelle exigence réglementaire, mais d'une simple publication de données de marché.",
+        "domaines": [
+          "Marchés",
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Publication statistique générale, sans obligation ni impact direct pour un profil d'établissement particulier.",
+        "actions_risk_manager": [
+          "Archiver la référence pour la veille statistique si utilisée dans des modèles internes de valorisation ou de risque de change",
+          "Aucune action de conformité ou de gestion des risques requise à court terme"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260907_sddsplus",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-07 - Data portal - IMF SDDS Plus, 7 September 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260907_sddsplus",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-07T07:00:00+00:00",
+      "analyse": {
+        "resume": "La BNS publie une mise à jour statistique de routine dans le cadre de la norme spéciale de diffusion des données du FMI (SDDS Plus). Il s'agit d'une communication institutionnelle sans contenu réglementaire ou normatif nouveau.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement financier n'est directement concerné ; publication purement statistique destinée aux utilisateurs de données macroéconomiques.",
+        "actions_risk_manager": [
+          "Aucune action requise, prendre note à titre informatif"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-signs-memorandum-understanding-securities-and-exchange-board-india",
       "source": "ESMA",
