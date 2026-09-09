@@ -1,6 +1,138 @@
 {
-  "updated_at": "2026-09-08T08:59:01.258834+00:00",
+  "updated_at": "2026-09-09T09:05:34.643646+00:00",
   "items": [
+    {
+      "guid": "https://www.snb.ch/en/publications/research/working-papers/2026/working_paper_2026_11",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "WP - 2026-09-09 - Alexander Goetz, Lucas Kyriacou, Florence Miguet Heimlicher and Stefanie Siegrist: Do Swiss households revise their inflation expectations after monetary policy announcements?",
+      "lien": "https://www.snb.ch/en/publications/research/working-papers/2026/working_paper_2026_11",
+      "categorie": "",
+      "description": "This paper investigates the impact of monetary policy announcements (MPAs) on household inflation expectations using microdata from the Swiss Consumer Sentiment Survey. Employing an event study approach, we reveal an asymmetric response: while policy rate hikes or decisions to keep rates constant reduce household inflation expectations, rate cuts fail to elicit a reaction. The effect is particularly robust for short-term expectations, with a much less clear-cut influence on long-term expectations. Households across the expectation distribution - both moderate and extreme - react to announcements, indicating a broad impact. We find that household reactions are driven primarily by the anticipated component of policy rate changes, whereas surprising moves tend to be interpreted as signals of new information regarding inflationary pressure. Finally, we report that demographic heterogeneity matters: the effect of MPAs is driven by German-speaking households and tertiary-educated individuals, while others show no consistent response, underscoring the importance of targeted communication strategies for effective monetary policy transmission.",
+      "date": "2026-09-08T22:00:00+00:00",
+      "analyse": {
+        "resume": "Ce working paper de la BNS analyse comment les ménages suisses révisent leurs anticipations d'inflation suite aux annonces de politique monétaire, en s'appuyant sur des données de l'enquête sur le sentiment des consommateurs. Il s'agit d'une publication académique et institutionnelle sans portée réglementaire ou prudentielle directe. Aucune action de conformité ou de gestion des risques n'est requise de la part des établissements financiers.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Publication académique de recherche de la BNS, sans destinataire réglementaire spécifique ; intérêt potentiel pour les économistes et stratèges de marché.",
+        "actions_risk_manager": [
+          "Prendre connaissance du document pour la veille économique interne, sans action de conformité requise.",
+          "Éventuellement partager les conclusions avec les équipes de recherche/stratégie macroéconomique pour affiner les modèles de communication client sur les attentes d'inflation."
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260908~f0dd8b1456.en.html",
+      "source": "BCE Supervision",
+      "source_id": "ecb-ssm",
+      "titre": "Frank Elderson: Fireside chat",
+      "lien": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260908~f0dd8b1456.en.html",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-08T15:00:00+00:00",
+      "analyse": {
+        "resume": "Frank Elderson (BCE) discute dans un entretien informel de la compétitivité des banques européennes, plaidant pour l'achèvement de l'union bancaire (notamment un système européen de garantie des dépôts) et de l'union des marchés de capitaux afin de réduire la fragmentation intra-UE. Il souligne que les exigences de fonds propres actuelles ne freinent pas le crédit et ne devraient pas être assouplies pour stimuler la compétitivité. Ce discours institutionnel ne contient aucune mesure réglementaire nouvelle, mais reflète les orientations stratégiques de la BCE sur l'intégration bancaire européenne.",
+        "domaines": [
+          "Banques",
+          "Fonds propres",
+          "Gouvernance"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {
+          "banque-universelle": "informatif",
+          "banque-privee": "informatif"
+        },
+        "etablissements_concernes": "Principalement les banques actives dans la zone euro; impact indirect et limité pour les groupes bancaires suisses ayant des filiales ou activités transfrontalières au sein de l'UE.",
+        "actions_risk_manager": [
+          "Prendre note du discours dans le cadre de la veille réglementaire européenne, sans action immédiate requise",
+          "Suivre l'évolution du projet d'union bancaire européenne (garantie des dépôts, union des marchés de capitaux) pour anticiper d'éventuels impacts sur les filiales UE de groupes suisses",
+          "Informer le management des orientations stratégiques de la BCE sur la compétitivité bancaire, utile pour le positionnement stratégique du groupe"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "{7FE4F72A-1B09-479F-91BF-A61D7983D715}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce des sanctions actualisée : EIIL (Daech) et Al-Qaïda",
+      "lien": "https://www.finma.ch/fr/news/2026/09/20260908-sr-946-231-08/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al-Qaïda (RS 946.231.08).",
+      "date": "2026-09-08T09:47:23+00:00",
+      "analyse": {
+        "resume": "Le SECO a mis à jour la liste des sanctions visant l'EIIL (Daech) et Al-Qaïda suite à une décision du comité de sanctions de l'ONU du 4 septembre 2026, directement applicable en Suisse. Les intermédiaires financiers doivent immédiatement vérifier leurs bases clients contre la liste actualisée, geler les avoirs concernés et procéder aux annonces requises au SECO, ainsi qu'aux clarifications LBA/communications MROS en cas de soupçon.",
+        "domaines": [
+          "Sanctions / Embargos",
+          "LBA / Blanchiment"
+        ],
+        "niveau_impact": "eleve",
+        "impacts_par_profil": {
+          "banque-universelle": "eleve",
+          "banque-privee": "eleve",
+          "gerant-fortune": "eleve",
+          "gestionnaire-placements": "moyen",
+          "direction-fonds": "moyen",
+          "maison-titres": "eleve",
+          "assurance": "moyen",
+          "intermediaire-assurance": "faible",
+          "fintech-crypto": "eleve",
+          "trustee": "eleve",
+          "family-office": "moyen",
+          "bpo-outsourcing": "moyen"
+        },
+        "etablissements_concernes": "Tous les intermédiaires financiers soumis à la LBA (banques, gérants de fortune, maisons de titres, trustees, fintechs/crypto, assurances) qui doivent filtrer leur clientèle contre les listes de sanctions ONU/SECO.",
+        "actions_risk_manager": [
+          "Mettre à jour immédiatement les listes de filtrage (screening) avec la version SESAM actualisée du 7 septembre 2026",
+          "Vérifier l'absence de relations d'affaires ou transactions avec les personnes/entités nouvellement ajoutées et procéder au gel des avoirs le cas échéant",
+          "Documenter et transmettre les annonces obligatoires au SECO pour toute relation concernée",
+          "En cas de soupçon persistant après clarifications selon l'art. 6 LBA, effectuer une communication MROS conformément à l'art. 9 LBA",
+          "Informer le management et la fonction compliance de la mise à jour et tracer la preuve de contrôle dans le dossier de conformité"
+        ],
+        "echeance": "Application immédiate (décision ONU du 4 septembre 2026, mise à jour SESAM le 7 septembre 2026)",
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.bis.org/media-releases/20260908-global-standard-setting-bodies-publish-toolkit-cyber-resilience-fmis-and-discussion-paper-fmis",
+      "source": "BRI / Bâle",
+      "source_id": "bis-press",
+      "titre": "Global standard-setting bodies publish a toolkit for cyber resilience at FMIs and a discussion paper on FMIs’ reliance on third-party service providers",
+      "lien": "https://www.bis.org/media-releases/20260908-global-standard-setting-bodies-publish-toolkit-cyber-resilience-fmis-and-discussion-paper-fmis",
+      "categorie": "",
+      "description": "CPMI-IOSCO are seeking input from stakeholders on a cyber resilience toolkit for financial market infrastructures (FMIs) and on risks to FMIs from third-party service providers. The Cyber resilience toolkit: practical considerations for FMIs supports FMIs in strengthening their cyber resilience frameworks. The discussion paper FMIs’ reliance on third-party service providers: challenges and risks explores the increased reliance of FMIs on third-party service providers.",
+      "date": "2026-09-08T00:00:00+00:00",
+      "analyse": {
+        "resume": "CPMI-IOSCO publient pour consultation un toolkit pratique sur la cyber-résilience des infrastructures de marché financières (FMI) et un discussion paper sur les risques liés à la dépendance des FMI vis-à-vis de prestataires tiers, notamment pour les services critiques. Ces textes non contraignants complètent le cadre PFMI de 2016 et visent à renforcer la résilience opérationnelle des FMI face aux risques cyber et d'externalisation. Les commentaires sont attendus jusqu'au 1er décembre 2026, ce qui laisse le temps aux acteurs concernés de préparer une réponse ou d'anticiper de futures exigences.",
+        "domaines": [
+          "Cyber / Résilience",
+          "Risques opérationnels",
+          "Marchés"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "maison-titres": "faible",
+          "bpo-outsourcing": "faible",
+          "fintech-crypto": "informatif"
+        },
+        "etablissements_concernes": "Les infrastructures de marché financières (systèmes de paiement, chambres de compensation, dépositaires centraux) et indirectement les banques et maisons de titres qui y participent ou qui sous-traitent des services critiques à des tiers.",
+        "actions_risk_manager": [
+          "Assurer une veille sur l'évolution du cadre CPMI-IOSCO et son éventuelle transposition par la FINMA dans les circulaires sur la résilience opérationnelle et le risque de tiers",
+          "Vérifier l'alignement des politiques internes de gestion du risque de sous-traitance et de cyber-résilience avec les considérations pratiques proposées dans le toolkit",
+          "Évaluer la pertinence de contribuer à la consultation via les associations sectorielles suisses (SIX, ASB) si l'établissement dépend d'une FMI ou de prestataires tiers critiques",
+          "Anticiper une future gap analysis une fois le toolkit finalisé, notamment sur la cartographie des dépendances aux fournisseurs tiers critiques"
+        ],
+        "echeance": "Consultation ouverte jusqu'au 01 décembre 2026",
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "{BEE08EC5-14AD-4A8E-B08F-BF292A54767F}",
       "source": "FINMA",
