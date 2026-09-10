@@ -1,6 +1,108 @@
 {
-  "updated_at": "2026-09-09T09:05:34.643646+00:00",
+  "updated_at": "2026-09-10T09:04:29.424124+00:00",
   "items": [
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/ongoing-geopolitical-and-economic-vulnerabilities-masked-strong-investor",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "Ongoing geopolitical and economic vulnerabilities masked by strong investor optimism",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/ongoing-geopolitical-and-economic-vulnerabilities-masked-strong-investor",
+      "categorie": "",
+      "description": "Ongoing geopolitical and economic vulnerabilities masked by strong investor optimism 10 September 2026 Press Releases Risk monitoring The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, published today its second risk monitoring report of 2026 , setting out the main risks and vulnerabilities in EU financial markets. ESMA finds that, while markets have remained resilient, stretched technology valuations and heightened geopolitical tensions are testing this resilience, in a climate of persistent inflation and weaker economic growth. Despite heightened market volatility and event-driven uncertainty, strong performance in technology and AI-related sectors has been helping to sustain fast recovery of investor optimism and financial markets valuations. This resilience should not be mistaken as an absence of vulnerabilities. The disconnect between deteriorating macro-financial conditions and upbeat market valuation increases the risk of sudden market corrections, should economic risks materialise or investor sentiment shift abruptly. At the same time, rapidly emerging threats to market infrastructures and key market players, such as those linked to frontier AI, should not be overlooked. Verena Ross, ESMA’s Chair, said: “Investor optimism continues to support elevated valuations despite rising geopolitical tensions and a weakening economic outlook. The wider this gap becomes, the greater the risk of an abrupt market correction. Retail and institutional investors should remain vigilant and retain resilience, preparing to be able to withstand sharp market corrections.” Beyond these risk drivers, ESMA’s report sets out market developments and conditions across key segments of EU financial markets during the first half of 2026. It also provides in-depth analysis on selected topics, including UCITS market fragmentation, technology IPO trends in the US and prediction markets. Market developments Securities markets and crypto-assets Equity markets fell sharply following the outbreak of the Middle East conflict, but prices have since rebounded to, or above, pre-conflict levels. Nevertheless, elevated valuations amid a weaker macro-financial and geopolitical outlook have increased the risk of abrupt corrections. In bond markets, concerns have emerged over funding conditions and the safe-haven role of bonds, with sovereign yields rising and spreads widening, while volatility remains elevated despite largely stable EU credit quality indicators. Beyond listed markets, risks also warrant close monitoring in less transparent and increasingly interconnected segments, both in private credit exposures to the US market, and in the growing linkage between increasingly vulnerable crypto-asset markets and the broader financial system. Infrastructures and services Key market infrastructures have continued to function well, even during recent market stress, where clearing houses, known as central counterparties (CCPs), handled volatile energy trading without disruption. Settlement systems, however, saw a short-lived rise in failed transactions across asset classes in early April. Cyber risks are increasingly important as frontier AI developments are shifting the operational risk landscape. Asset management Fund flows and performance remained positive despite the volatile market environment. While interest rate and credit risks are emerging as growing concerns, the available risk indicators remain broadly stable at this time. Valuation risk continues to be an issue across most fund categories. Consumers Digital platforms have made it easier for retail investors to access markets, and this is shaping behaviours in different ways. On the one hand, many investors continue to favour passive products for long-term investing, while the same platforms can also facilitate short term or speculative trading. Overall, exposure to social media content and gamification features on digital platforms may encourage uniformed or impulsive investment decisions. Structural developments Market-based finance IPO activity remained limited in the EU, and follow-on issuance was below historical averages. At the same time, corporate bond issuance stayed strong, although the pace of short-term debt issuance moderated and refinancing risks increased. Sustainable finance Global climate policy tensions and energy security concerns continued to weigh on ESG sentiment. Nevertheless, ESG funds saw mixed developments overall, with renewable energy and transition-focused funds attracting inflows. The EU ESG bond market remained resilient, supported by the growing use of proceeds linked to renewable energy projects. Financial innovation Tokenisation of equities remains at an early stage, but adoption momentum is increasing. In decentralised finance, recent exploits have renewed concerns about interconnectedness and potential spillovers. Investment in artificial intelligence continues to expand, reflected in the growing number of AI-focused funds, particularly those targeting AI infrastructure. Meanwhile, quantum computing has attracted significant investor interest, with both global and EU startup funding reaching record levels in 2025. Further information: Ana Dilaverakis Communications Officer press@esma.europa.eu 10/09/2026 ESMA50-1949966494-4282 Trends, Risks and Vulnerabilities (TRV) Report, No. 2, 2026 10/09/2026 ESMA50-1949966494-4299 Statistical Annex to the Trends, Risks and Vulnerabilities (TRV) Report, No. 2, 2026 10/09/2026 ESMA71-545613100-2999 Ongoing geopolitical and economic vulnerabilities masked by strong investor optimism - Press release",
+      "date": "2026-09-10T08:25:31+00:00",
+      "analyse": {
+        "resume": "Le dernier rapport de surveillance des risques de l'ESMA souligne un décalage croissant entre l'optimisme des marchés (technologie, IA) et la détérioration des conditions macro-financières et géopolitiques, augmentant le risque de correction brutale. Le rapport pointe aussi des vulnérabilités émergentes liées aux marchés crypto, au private credit, à la cybersécurité et à l'IA frontière. Bien qu'il s'agisse d'un document de monitoring sans nouvelle obligation réglementaire directe, il constitue un signal d'alerte pertinent pour la gestion des risques de marché et opérationnels des établissements suisses exposés aux marchés européens et internationaux.",
+        "domaines": [
+          "Marchés",
+          "Cyber / Résilience",
+          "Gestion d'actifs",
+          "FinTech / Crypto"
+        ],
+        "niveau_impact": "moyen",
+        "impacts_par_profil": {
+          "banque-universelle": "moyen",
+          "banque-privee": "moyen",
+          "gerant-fortune": "moyen",
+          "gestionnaire-placements": "moyen",
+          "direction-fonds": "moyen",
+          "maison-titres": "faible",
+          "fintech-crypto": "moyen",
+          "caisse-pension": "faible"
+        },
+        "etablissements_concernes": "Établissements suisses actifs sur les marchés européens ou exposés à des risques similaires : banques, gestionnaires de fortune et d'actifs, directions de fonds, acteurs crypto et caisses de pension avec expositions actions/obligations.",
+        "actions_risk_manager": [
+          "Intégrer les scénarios de correction de marché brutale liée au décalage valorisation/fondamentaux dans les stress-tests et la cartographie des risques",
+          "Renforcer la veille sur les expositions crypto-actifs et private credit, notamment leur interconnexion avec le bilan et les portefeuilles clients",
+          "Revoir les dispositifs de résilience cyber et de continuité d'activité face aux menaces émergentes liées à l'IA frontière",
+          "Informer le management et le comité des risques des tendances de marché identifiées (technologie, ESG, tokenisation) pour ajuster l'appétit au risque"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "19987 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 9 September, 2026",
+      "lien": "https://www.eba.europa.eu/node/19987",
+      "categorie": "",
+      "description": "EBA E-mail alert 9 September, 2026 Date 09/09/2026 Anonymous (not verified) Wed, 09/09/2026 - 17:00 News & Press The EBA responds to the European Commission’s non-adoption of draft amending technical standards on prior permission",
+      "date": "2026-09-09T15:00:02+00:00",
+      "analyse": {
+        "resume": "L'EBA communique sa réponse formelle au refus de la Commission européenne d'adopter un projet de normes techniques (RTS) modifiant le régime d'autorisation préalable pour la réduction d'instruments de fonds propres réglementaires. Il s'agit d'une communication institutionnelle et procédurale entre l'EBA et la Commission, sans nouvelle exigence directement applicable pour l'instant.",
+        "domaines": [
+          "Fonds propres",
+          "Gouvernance",
+          "Banques"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {
+          "banque-universelle": "informatif",
+          "maison-titres": "informatif"
+        },
+        "etablissements_concernes": "Principalement les établissements bancaires et maisons de titres actifs dans l'UE soumis au CRR, avec un effet indirect très limité pour les groupes suisses ayant des filiales ou succursales dans l'UE.",
+        "actions_risk_manager": [
+          "Prendre note de l'évolution procédurale sans action immédiate",
+          "Assurer une veille sur la publication éventuelle d'un nouveau projet de RTS révisé par l'EBA",
+          "Informer la fonction conformité groupe pour les entités ayant des filiales soumises au CRR dans l'UE"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-consults-disclosure-requirements-and-updates-guidelines-and-qas-under",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA consults on disclosure requirements and updates guidelines and Q&As under the Prospectus Regulation",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esma-consults-disclosure-requirements-and-updates-guidelines-and-qas-under",
+      "categorie": "",
+      "description": "ESMA consults on disclosure requirements and updates guidelines and Q&As under the Prospectus Regulation 09 September 2026 Guidelines and Technical standards Prospectus Simplification and Burden Reduction The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has published a package of materials under the Prospectus Regulation to reflect changes introduced by the Listing Act. The measures aim to promote supervisory convergence and contribute to ESMA’s simplification and burden-reduction efforts. The package includes: a Consultation Paper on the update of the Guidelines on disclosure requirements ; updated Q&As ; a Final Report on Guidelines for supplements that introduce new securities to a base prospectus (“product supplements”); and a Final Report on regulatory technical standards (RTS) on key financial information to be included in prospectus summaries . Consultation on disclosure Guidelines The Consultation Paper seeks stakeholder feedback on updates intended to help issuers and their advisers better understand expected disclosure under the revised Prospectus Regulation. They also simplify existing guidance by reducing the parts that are no longer necessary. Stakeholders are invited to respond to the consultation by 9 November 2026. ESMA expects to publish the Final Report and updated Guidelines in Q2 2027. Q&As The revised Q&As adjust legal references reflecting the amended Prospectus Regulation, introduce further clarifications where needed, and remove obsolete content. To help stakeholders navigate the changes, ESMA has prepared an overview explaining the key changes and the reasons behind them. Guidelines on product supplements The Guidelines establish a common approach for assessing whether a supplement introduces new securities to a base prospectus. They provide national competent authorities with a methodological and easy-to-apply framework and give market participants greater certainty when submitting supplements. The Guidelines will apply when the translations into all official EU languages become available. RTS on key financial information The RTS update the requirements for financial information in prospectus following Listing Act reforms. They align summary disclosure requirements with the revised disclosure framework and support more proportionate information requirements. ESMA has submitted the Final Report to the European Commission for a decision on whether to adopt the RTS updating Commission Delegated Regulation 2019/979. Further information: Iris Hude Communications Officer press@esma.europa.eu 09/09/2026 ESMA32-753890202-3085 Consultation Paper on the update to the Guidelines on disclosure requirements under the Prospectus Regulation 09/09/2026 ESMA32-753890202-3034 Final Report on the Guidelines on supplements which introduce new securities to a base prospectus 09/09/2026 ESMA32-753890202-3065 Final Report on the update to the RTS concerning key financial information in the summary of a prospectus 09/09/2026 Prospectus package Overview of changes made to the Prospectus Q&As Consultation on the update to the Guidelines on disclosure requirements under the Prospectus Regulation",
+      "date": "2026-09-09T10:15:22+00:00",
+      "analyse": {
+        "resume": "L'ESMA publie un paquet de mesures (consultation, Q&A révisées, lignes directrices finales et RTS) actualisant le régime de disclosure sous le Prospectus Regulation suite au Listing Act, visant à simplifier les exigences de prospectus dans l'UE. Ces changements concernent principalement les émetteurs, conseillers et autorités nationales de l'UE ; l'impact direct pour les établissements suisses est limité mais peut concerner ceux actifs dans l'émission ou le placement de titres/produits structurés sur le marché européen.",
+        "domaines": [
+          "Marchés",
+          "Gouvernance"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "banque-privee": "faible",
+          "maison-titres": "faible"
+        },
+        "etablissements_concernes": "Principalement les émetteurs et intermédiaires européens soumis au Prospectus Regulation ; concerne indirectement les banques suisses et maisons de titres qui émettent ou placent des titres/prospectus sur le marché UE.",
+        "actions_risk_manager": [
+          "Vérifier si l'établissement émet ou distribue des titres nécessitant un prospectus conforme au régime UE (Listing Act) et évaluer l'exposition",
+          "Suivre la consultation (échéance 9 novembre 2026) et les Q&A révisées pour anticiper les futurs changements de disclosure",
+          "Informer les équipes juridiques/marchés de capitaux des nouvelles lignes directrices sur les 'product supplements' et les RTS sur l'information financière clé",
+          "Mettre à jour la veille réglementaire externe (UE) sans action immédiate de mise en conformité en Suisse"
+        ],
+        "echeance": "Consultation ouverte jusqu'au 9 novembre 2026 ; publication du rapport final et lignes directrices actualisées attendue au T2 2027",
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.snb.ch/en/publications/research/working-papers/2026/working_paper_2026_11",
       "source": "BNS",
