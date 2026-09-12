@@ -1,6 +1,31 @@
 {
-  "updated_at": "2026-09-11T09:01:39.285577+00:00",
+  "updated_at": "2026-09-12T08:44:56.706068+00:00",
   "items": [
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260911_msl",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-11 - Martin Schlegel: Die Schweizer Wirtschaft im globalen Umfeld",
+      "lien": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260911_msl",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-11T09:15:00+00:00",
+      "analyse": {
+        "resume": "Il s'agit d'un discours du président de la BNS, Martin Schlegel, sur l'économie suisse dans le contexte mondial, prononcé lors d'un événement d'economiesuisse. Le contenu détaillé n'est pas disponible en français ni en anglais, mais il s'agit d'une communication institutionnelle sans portée normative directe. Aucune mesure réglementaire ou prudentielle n'est annoncée à ce stade.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Communication générale à destination de la place économique et financière suisse, sans public réglementaire spécifique identifié.",
+        "actions_risk_manager": [
+          "Prendre connaissance du discours pour contextualiser la politique monétaire suisse",
+          "Surveiller si des annonces ultérieures de la BNS précisent des orientations ayant un impact prudentiel ou macroéconomique"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.esma.europa.eu/press-news/esma-news/ongoing-geopolitical-and-economic-vulnerabilities-masked-strong-investor",
       "source": "ESMA",
