@@ -1,6 +1,79 @@
 {
-  "updated_at": "2026-09-13T09:39:45.352199+00:00",
+  "updated_at": "2026-09-14T10:03:10.566510+00:00",
   "items": [
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260914_gwd",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-14 - Data portal - Important monetary policy data, 14 September 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260914_gwd",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-14T08:00:00+00:00",
+      "analyse": {
+        "resume": "Publication purement statistique de la BNS mettant à disposition des données monétaires importantes (taux, agrégats) sur son portail de données, sans annonce de politique ou de changement réglementaire. Il s'agit d'une mise à jour de routine sans implication directe pour la gestion des risques.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun impact direct ; publication de données statistiques d'intérêt général pour les acteurs des marchés financiers.",
+        "actions_risk_manager": [
+          "Aucune action requise, simple veille informative"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260914_sddsplus",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-14 - Data portal - IMF SDDS Plus, 14 September 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260914_sddsplus",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-14T07:00:00+00:00",
+      "analyse": {
+        "resume": "La BNS publie une mise à jour statistique de routine dans le cadre de la norme spéciale de diffusion des données du FMI (SDDS Plus). Il s'agit d'une communication institutionnelle sans portée réglementaire ou prudentielle directe. Aucune action de gestion des risques n'est requise.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement financier n'est directement concerné ; publication de nature statistique institutionnelle.",
+        "actions_risk_manager": [
+          "Aucune action requise, prendre note à titre informatif"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/research/economic-notes/2026/economic_note_2026_06",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "ES - 2026-09-14 - Simone Auer: What is keeping inflation in Switzerland lower than in the euro area? A product group perspective",
+      "lien": "https://www.snb.ch/en/publications/research/economic-notes/2026/economic_note_2026_06",
+      "categorie": "",
+      "description": "Over the past 15 years, inflation in Switzerland has, on average, been almost 2 percentage points lower than in the euro area. This note shows that two-thirds of the Swiss inflation gap with the euro area was driven by goods, in particular food and energy, while the remaining third was driven by services. The note also shows that inflation was lower in Switzerland than in the euro area primarily because of smaller price increases rather than different consumption habits.",
+      "date": "2026-09-13T22:00:00+00:00",
+      "analyse": {
+        "resume": "Cette note économique de la BNS analyse les raisons pour lesquelles l'inflation en Suisse est structurellement plus basse que dans la zone euro, principalement en raison d'une moindre hausse des prix des biens (alimentation, énergie) plutôt que de différences de consommation. Il s'agit d'une publication purement analytique et informative, sans implication réglementaire ou prudentielle directe pour les établissements financiers.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement financier n'est directement concerné ; publication à caractère macroéconomique et informatif de la BNS.",
+        "actions_risk_manager": [
+          "Prendre connaissance de l'analyse pour la veille économique générale",
+          "Aucune action de conformité ou de gestion des risques requise"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260911_msl",
       "source": "BNS",
