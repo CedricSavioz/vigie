@@ -1,6 +1,117 @@
 {
-  "updated_at": "2026-09-14T10:03:10.566510+00:00",
+  "updated_at": "2026-09-15T09:33:01.449425+00:00",
   "items": [
+    {
+      "guid": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260915~7a1e0812d2.en.html",
+      "source": "BCE Supervision",
+      "source_id": "ecb-ssm",
+      "titre": "Claudia Buch: Banking regulators, supervisors and their watchers",
+      "lien": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260915~7a1e0812d2.en.html",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-15T08:15:00+00:00",
+      "analyse": {
+        "resume": "Discours de Claudia Buch (BCE) portant sur la nécessité de renforcer la redevabilité et l'évaluation des effets de la régulation et de la supervision bancaires, avec un focus sur la méthodologie des exigences de capital (Pilier 1/Pilier 2) et la simplification de la structure des coussins macroprudentiels. Il s'agit d'une réflexion institutionnelle sur la gouvernance de la supervision européenne, sans nouvelle exigence normative directe.",
+        "domaines": [
+          "Banques",
+          "Fonds propres",
+          "Gouvernance"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {
+          "banque-universelle": "informatif",
+          "banque-privee": "informatif"
+        },
+        "etablissements_concernes": "Principalement les grands groupes bancaires européens sous supervision MSU ; impact indirect et limité pour les banques suisses actives dans l'UE ou suivant les standards de Bâle.",
+        "actions_risk_manager": [
+          "Prendre connaissance de l'évolution du débat sur la simplification et la lisibilité du cadre de fonds propres (Pilier 2, coussins macroprudentiels) au niveau européen",
+          "Assurer une veille sur les futures évolutions méthodologiques du SREP susceptibles d'influencer les pratiques de référence utilisées par les filiales/succursales suisses en UE",
+          "Aucune action corrective immédiate requise, publication à caractère institutionnel et prospectif"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260915~7917ca1416.en.html",
+      "source": "BCE Supervision",
+      "source_id": "ecb-ssm",
+      "titre": "ECB publishes supervisory banking statistics on significant institutions for the second quarter of 2026",
+      "lien": "https://www.bankingsupervision.europa.eu//press/pr/date/2026/html/ssm.pr260915~7917ca1416.en.html",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-15T08:00:00+00:00",
+      "analyse": {
+        "resume": "La BCE publie ses statistiques bancaires prudentielles agrégées pour le T2 2026 concernant les établissements significatifs de la zone euro : CET1 à 16,00%, ROE à 10,73% (plus haut niveau depuis 2015), coefficient d'exploitation en baisse à 53,06%, ratio de créances douteuses stable à 2,17% et LCR à 154,91%. Il s'agit d'une publication statistique institutionnelle sans mesure réglementaire nouvelle ni exigence spécifique.",
+        "domaines": [
+          "Banques",
+          "Fonds propres",
+          "Liquidités"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {
+          "banque-universelle": "informatif"
+        },
+        "etablissements_concernes": "Publication statistique agrégée de la BCE concernant les banques significatives de la zone euro sous supervision directe du MSU ; pertinence indirecte limitée pour les groupes bancaires suisses actifs dans l'UE via benchmarking sectoriel.",
+        "actions_risk_manager": [
+          "Prendre connaissance des tendances sectorielles européennes (CET1, ROE, NPL, LCR) à titre de benchmark externe",
+          "Archiver la publication pour la veille réglementaire sans action corrective requise"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/press-releases/2026/pre_20260914",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-14 - Press release - 2026 Carl Menger Award",
+      "lien": "https://www.snb.ch/en/publications/communication/press-releases/2026/pre_20260914",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-14T16:30:00+00:00",
+      "analyse": {
+        "resume": "La BNS annonce, avec la Bundesbank et l'Oesterreichische Nationalbank, l'attribution du Carl Menger Award 2026 à l'économiste Benjamin Born pour ses travaux en macroéconomie monétaire. Il s'agit d'une communication institutionnelle sans portée réglementaire ou prudentielle.",
+        "domaines": [
+          "Politique monétaire"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement financier n'est concerné ; communication académique et institutionnelle.",
+        "actions_risk_manager": [
+          "Aucune action requise ; prendre note à titre informatif"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "19999 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 14 September, 2026",
+      "lien": "https://www.eba.europa.eu/node/19999",
+      "categorie": "",
+      "description": "EBA E-mail alert 14 September, 2026 Date 14/09/2026 Anonymous (not verified) Mon, 09/14/2026 - 17:00 News & Press The EBA publishes updated list of validation rules as part of its regular quarterly reporting frameworks update",
+      "date": "2026-09-14T15:00:03+00:00",
+      "analyse": {
+        "resume": "L'EBA publie une mise à jour trimestrielle de sa liste de règles de validation pour les frameworks de reporting réglementaire européen (COREP/FINREP). Il s'agit d'une mise à jour technique routinière sans portée normative nouvelle, destinée aux établissements soumis au reporting prudentiel européen.",
+        "domaines": [
+          "Banques",
+          "Gouvernance"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Établissements bancaires soumis au reporting prudentiel EBA (COREP/FINREP), principalement des groupes bancaires établis dans l'UE ; impact indirect très limité pour les groupes suisses ayant des filiales bancaires régulées dans l'UE.",
+        "actions_risk_manager": [
+          "Vérifier si des entités du groupe soumises au reporting EBA sont impactées par les nouvelles règles de validation",
+          "Transmettre l'information à l'équipe reporting réglementaire des filiales UE le cas échéant",
+          "Aucune action requise pour les entités suisses non soumises au reporting EBA"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260914_gwd",
       "source": "BNS",
