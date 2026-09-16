@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-09-15T09:33:01.449425+00:00",
+  "updated_at": "2026-09-16T09:25:41.380728+00:00",
   "items": [
+    {
+      "guid": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260916_1~446a02f036.en.html",
+      "source": "BCE Supervision",
+      "source_id": "ecb-ssm",
+      "titre": "Sharon Donnery: A simpler, more usable macroprudential framework for Europe",
+      "lien": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260916_1~446a02f036.en.html",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-16T08:00:00+00:00",
+      "analyse": {
+        "resume": "Un membre du Conseil de surveillance de la BCE propose de simplifier l'architecture des coussins de fonds propres macroprudentiels européens en les fusionnant en deux coussins (non-libérable et libérable), afin d'améliorer leur utilisabilité effective en période de stress. La réflexion porte aussi sur une meilleure coordination entre politique micro- et macroprudentielle via un Forum macroprudentiel renforcé, sans changement immédiat des exigences actuelles.",
+        "domaines": [
+          "Banques",
+          "Fonds propres",
+          "Gouvernance"
+        ],
+        "niveau_impact": "faible",
+        "impacts_par_profil": {
+          "banque-universelle": "faible",
+          "banque-privee": "faible",
+          "maison-titres": "faible"
+        },
+        "etablissements_concernes": "Principalement les banques actives dans la zone euro ou au sein de groupes bancaires soumis au cadre CRR/CRD, avec un intérêt indirect pour les groupes suisses ayant des filiales dans l'UE ou suivant les standards de Bâle.",
+        "actions_risk_manager": [
+          "Suivre l'évolution du débat sur la simplification des coussins macroprudentiels européens, notamment pour les filiales de groupes suisses actives dans l'UE",
+          "Évaluer les implications potentielles à moyen terme sur la calibration des exigences de fonds propres si la FINMA s'aligne sur ces évolutions via les standards de Bâle",
+          "Intégrer cette veille réglementaire dans le reporting périodique au comité des risques, sans action corrective immédiate"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
+    {
+      "guid": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260916~3467f1febf.en.html",
+      "source": "BCE Supervision",
+      "source_id": "ecb-ssm",
+      "titre": "Sharon Donnery: One market, one rulebook: integration is Europe’s best simplification strategy",
+      "lien": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260916~3467f1febf.en.html",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-16T08:00:00+00:00",
+      "analyse": {
+        "resume": "Dans ce discours adressé à Eurofi, Sharon Donnery (BCE) plaide pour une intégration bancaire européenne plus poussée (règlement unique réellement unique, union bancaire comme juridiction unique, reporting harmonisé) comme meilleure stratégie de simplification réglementaire, plutôt qu'un allègement des exigences. Il s'agit d'une prise de position stratégique sans mesure contraignante immédiate, mais qui dessine les orientations futures de la supervision bancaire dans la zone euro (délégation de décisions, reporting simplifié, revue des options nationales).",
+        "domaines": [
+          "Banques",
+          "Gouvernance",
+          "Fonds propres",
+          "Liquidités"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {
+          "banque-universelle": "informatif"
+        },
+        "etablissements_concernes": "Principalement les banques de l'Union bancaire européenne ; impact indirect limité pour les groupes bancaires suisses ayant des filiales ou succursales dans l'UE.",
+        "actions_risk_manager": [
+          "Assurer une veille sur l'évolution du cadre réglementaire européen (Bâle, CRR/CRD) susceptible d'influencer indirectement les standards repris par la FINMA",
+          "Pour les groupes ayant des entités dans l'UE, suivre les futures réformes sur la mobilité intra-groupe du capital et de la liquidité et leur impact potentiel sur les filiales suisses",
+          "Informer le management de cette orientation stratégique européenne à titre de contexte, sans action immédiate requise"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260915~7a1e0812d2.en.html",
       "source": "BCE Supervision",
