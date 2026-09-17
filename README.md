@@ -1,13 +1,13 @@
 # Vigie — Veille réglementaire assistée par IA
 
-Vigie collecte chaque jour les publications officielles de six régulateurs et banques
+Vigie collecte les publications officielles de six régulateurs et banques
 centrales (FINMA, BNS, BRI / Comité de Bâle, BCE Supervision, EBA, ESMA), les analyse avec
 l'API Claude selon une grille de lecture Risk Management, et publie un dashboard web où le
 flux se personnalise par profil d'établissement : niveau d'impact **par profil**, domaines
 concernés et actions recommandées pour la seconde ligne de défense.
 
 **Application en ligne : [vigie-veille.netlify.app](https://vigie-veille.netlify.app)**
-(mise à jour quotidienne automatique via GitHub Actions)
+(mise à jour automatique via GitHub Actions, une semaine ISO paire sur deux, le lundi)
 
 ---
 
@@ -25,8 +25,10 @@ concernés et actions recommandées pour la seconde ligne de défense.
    (zéro dépendance externe). Sélecteur de profil, baromètre d'impact filtrable, filtres par
    source et domaine, recherche. Une même publication peut être « impact élevé » pour une
    banque privée et absente du flux d'une caisse de pension.
-4. **Automatisation** (`.github/workflows/veille.yml`) : GitHub Actions exécute chaque matin
-   fetch → analyze → render, commite les données et redéploie le site sur Netlify.
+4. **Automatisation** (`.github/workflows/veille.yml`) : GitHub Actions exécute, un lundi sur
+   deux (cron hebdomadaire filtré par parité de semaine ISO, cron ne sachant pas exprimer
+   "toutes les 2 semaines" nativement), fetch → analyze → render, commite les données et
+   redéploie le site sur Netlify.
 
 ## Utilisation locale
 

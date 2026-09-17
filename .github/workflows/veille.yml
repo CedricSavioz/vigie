@@ -1,8 +1,8 @@
-name: Veille quotidienne
+name: Veille (1x / 2 semaines)
 
 on:
   schedule:
-    - cron: "30 4 * * *" # 06h30 en Suisse l'été, 05h30 l'hiver
+    - cron: "30 4 * * 1" # tous les lundis 06h30 en Suisse l'été, 05h30 l'hiver ; un lundi sur deux est ignoré (voir étape "Vérifier la cadence")
   workflow_dispatch:
 
 permissions:
@@ -18,30 +18,54 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Vérifier la cadence (1 semaine ISO sur 2)
+        id: cadence
+        run: |
+          # cron ne sait pas exprimer "toutes les 2 semaines" : on tourne chaque
+          # lundi et on ne laisse passer qu'une semaine ISO paire sur deux.
+          # Un déclenchement manuel (workflow_dispatch) passe toujours.
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "executer=true" >> "$GITHUB_OUTPUT"
+          else
+            SEMAINE=$(date -u +%V)
+            if [ $((10#$SEMAINE % 2)) -eq 0 ]; then
+              echo "executer=true" >> "$GITHUB_OUTPUT"
+            else
+              echo "executer=false" >> "$GITHUB_OUTPUT"
+              echo "Semaine ISO $SEMAINE impaire : on saute, prochaine veille dans 2 semaines."
+            fi
+          fi
+
       - uses: actions/setup-python@v5
+        if: steps.cadence.outputs.executer == 'true'
         with:
           python-version: "3.12"
 
       - name: Installer les dépendances
+        if: steps.cadence.outputs.executer == 'true'
         run: pip install -r requirements.txt
 
       - name: Collecte des publications
+        if: steps.cadence.outputs.executer == 'true'
         run: python run.py fetch
 
       - name: Analyse IA des publications en attente
+        if: steps.cadence.outputs.executer == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           if [ -z "$ANTHROPIC_API_KEY" ]; then
             echo "Pas de clé ANTHROPIC_API_KEY configurée : analyse sautée, les nouvelles publications resteront en attente."
           else
-            python run.py analyze --limit 20
+            python run.py analyze --limit 40
           fi
 
       - name: Génération du site
+        if: steps.cadence.outputs.executer == 'true'
         run: python run.py render
 
       - name: Commit des données mises à jour
+        if: steps.cadence.outputs.executer == 'true'
         run: |
           git config user.name "vigie-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -54,6 +78,7 @@ jobs:
           fi
 
       - name: Déploiement Netlify
+        if: steps.cadence.outputs.executer == 'true'
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
