@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-09-16T09:25:41.380728+00:00",
+  "updated_at": "2026-09-17T09:35:08.884161+00:00",
   "items": [
+    {
+      "guid": "20009 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 16 September, 2026",
+      "lien": "https://www.eba.europa.eu/node/20009",
+      "categorie": "",
+      "description": "EBA E-mail alert 16 September, 2026 Date 16/09/2026 Anonymous (not verified) Wed, 09/16/2026 - 17:30 News & Press ​European Parliament confirms Thomas Gstädtner as Executive Director of the EBA",
+      "date": "2026-09-16T15:30:03+00:00",
+      "analyse": {
+        "resume": "L'EBA annonce la confirmation par le Parlement européen de Thomas Gstädtner en tant que Directeur exécutif de l'EBA. Il s'agit d'une communication institutionnelle sans portée réglementaire ou opérationnelle directe.",
+        "domaines": [
+          "Gouvernance"
+        ],
+        "niveau_impact": "informatif",
+        "impacts_par_profil": {},
+        "etablissements_concernes": "Aucun établissement suisse n'est directement concerné, il s'agit d'une nomination interne à l'EBA.",
+        "actions_risk_manager": [
+          "Prendre note de l'information pour la veille institutionnelle, aucune action requise"
+        ],
+        "echeance": null,
+        "modele": "claude-sonnet-5"
+      }
+    },
     {
       "guid": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in260916_1~446a02f036.en.html",
       "source": "BCE Supervision",
