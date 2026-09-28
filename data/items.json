@@ -1,6 +1,292 @@
 {
-  "updated_at": "2026-09-17T09:35:08.884161+00:00",
+  "updated_at": "2026-09-28T11:08:39.073778+00:00",
   "items": [
+    {
+      "guid": "https://www.snb.ch/en/services-events/digital-services/webtv/webtv-2026-09-24",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-28 - Web-TV - Web TV: SNB events",
+      "lien": "https://www.snb.ch/en/services-events/digital-services/webtv/webtv-2026-09-24",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-28T11:04:02+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260928_gwd",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-28 - Data portal - Important monetary policy data, 28 September 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260928_gwd",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-28T08:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-2027-priorities-stronger-simpler-and-more-integrated-eu-capital",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA sets 2027 priorities for stronger, simpler and more integrated EU capital markets",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-2027-priorities-stronger-simpler-and-more-integrated-eu-capital",
+      "categorie": "",
+      "description": "ESMA sets 2027 priorities for stronger, simpler and more integrated EU capital markets 28 September 2026 About ESMA Press Releases Simplification and Burden Reduction The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has today published its annual Work Programme for 2027. Guided by ESMA’s multi-annual strategy for 2023–2028, the programme is marking a shift from preparation to the delivery of several major initiatives. Verena Ross, Chair of ESMA, said: “2027 marks an important milestone for the Savings and Investments Union (SIU) as many of ESMA's strategic initiatives move into the delivery phase. While co-legislators continue their work on the Market Integration and Supervision Package (MISP), ESMA is already advancing on key elements of the SIU agenda including initiatives to simplify the regulatory, reporting and supervisory framework. ESMA also continues to modernise the way it supervises markets through greater use of data and technology. This work programme reflects ESMA's commitment to strengthening the Single Market, protecting investors and safeguarding financial stability. It enables ESMA to remain agile in the face of volatile and risky market conditions, while responding effectively to rapidly changing needs and priorities. As financial markets continue to evolve, I know that ESMA and its staff will remain focused on ensuring that EU capital markets are efficient, resilient and attractive.” Growing supervisory mandates ESMA will advance its supervision of consolidated tape providers and external reviewers of European Green Bonds, as well as process the applications and begin supervision of ESG rating providers. It will also adapt to its expanded responsibilities for benchmark administrators. ESMA will carry out oversight activities for Critical ICT Third-Party Service Providers together with the other European Supervisory Authorities and continue monitoring and promoting compliance with the Digital Operational Resilience Act (DORA) across all of its supervisory mandates. In 2027, ESMA will review the impact of recent reforms (EMIR 3) aimed at making EU clearing markets more resilient. The work will help ensure that EU clearing houses remain robust and reduce the EU's dependence on certain systemically important clearing services located outside the EU. Alongside its direct supervisory responsibilities, ESMA will enhance supervisory convergence across the EU, continuing the strong cooperation with National Competent Authorities (NCAs), including on supervision of crypto-asset service providers (CASPs) under MiCA. Delivering more efficient financial markets Following the expected final agreement by the co-legislators on the MISP proposal in 2027, ESMA will prepare for the resulting changes to its mandates and responsibilities. In parallel, ESMA will be delivering other priorities supporting the SIU, including implementation of the European Single Access Point and the transition to T+1 settlement. ESMA will continue to enhance investor protection by supporting the implementation of the Retail Investment Strategy and promoting clear, accessible information for investors. ESMA’s four flagship simplification initiatives on transaction reporting, funds reporting, the retail investor journey and risk-based supervision will also enter a new phase in 2027. They are intended to reduce unnecessary administrative burdens, improve the usability of regulatory data and make supervision more effective. Further details are set out in the report also published today which outlines actions undertaken in 2026 and planned for 2027 to embed simplification and burden reduction across ESMA’s regulatory and supervisory activities. Finally, ESMA will support the implementation of key EU financial legislation by delivering technical standards and advice across its remit. Harnessing data and technological innovation ESMA will further enhance its data capabilities and promote innovation in the supervisory process, through the development of its Data Platform and the deployment of AI-based tools to support supervision. It will also strengthen cybersecurity capabilities and advance work on crypto-assets and the impact of artificial intelligence on financial markets. Tokenisation will remain as a priority for ESMA, further expanding the work on the opportunities it can bring to the EU capital markets. Further information: For the work programme: Tayfun Yilmaz Communications Officer press@esma.europa.eu For the SBR report: Cristina Bonillo Senior Communications Officer press@esma.europa.eu 28/09/2026 ESMA22-50751485-1673 2027 Annual Work Programme 28/09/2026 ESMA22-1669215091-6873 ESMA’s contribution to simplification and burden reduction 28/09/2026 SBR Simplification and burden reduction - factsheet 28/09/2026 ESMA71-545613100-3005 ESMA sets 2027 priorities for stronger, simpler and more integrated EU capital markets - Press release",
+      "date": "2026-09-28T07:58:05+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260928~6a48c49104.en.html",
+      "source": "BCE Supervision",
+      "source_id": "ecb-ssm",
+      "titre": "Pedro Machado: Competitiveness and simplification – a common agenda for European banks",
+      "lien": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260928~6a48c49104.en.html",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-28T07:40:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "20044 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 25 September, 2026",
+      "lien": "https://www.eba.europa.eu/node/20044",
+      "categorie": "",
+      "description": "EBA E-mail alert 25 September, 2026 Date 25/09/2026 Anonymous (not verified) Fri, 09/25/2026 - 17:00 News & Press The EBA consults on revised technical standards for joint decisions on institution-specific capital and liquidity requirements EU/EEA banks display strength amid a challenging risk environment Consultations Consultation on revised Implementing Technical Standards on joint decisions on institution-specific prudential requirements",
+      "date": "2026-09-25T15:00:01+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260925_msl",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-25 - Martin Schlegel: L'economia svizzera nel contesto globale",
+      "lien": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20260925_msl",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-25T09:30:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "{90ED0A4B-B85B-4E02-B4AD-76E20B24EB93}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Sanctions : Bélarus",
+      "lien": "https://www.finma.ch/fr/news/2026/09/20260925-sanktionen-belarus/",
+      "categorie": "Sanction internationale",
+      "description": "Le 18 septembre 2026, le Conseil fédéral a arrêté de nouvelles mesures à l’encontre du Bélarus, reprenant celles édictées par l’Union européenne le 23 avril 2026. Ces nouvelles mesures entrent en vigueur le 19 septembre 2026.",
+      "date": "2026-09-25T06:50:01+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/upcoming-changes-euribor-panel-0",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "Upcoming changes to the Euribor Panel",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/upcoming-changes-euribor-panel-0",
+      "categorie": "",
+      "description": "Upcoming changes to the Euribor Panel 24 September 2026 Benchmarks The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, is issuing a statement on the upcoming changes to the Euribor panel, in its capacity as supervisor of the European Money Market Institute (EMMI), administrator of Euribor. This statement concerns the announcement by EMMI that Cecabank, based in Spain, will withdraw from the Euribor panel. The withdrawal will take effect on 30 September 2026, which will be the bank’s final day contributing input data to the benchmark determination. ESMA and National Competent Authorities within the Euribor College of Supervisors have assessed the impact of the departure of Cecabank on Euribor representativeness of the Euro unsecured money market. ESMA and the College concluded that Cecabank’s departure does not pose a risk to the representativeness of Euribor. This departure follows a period of Euribor panel enlargement with the addition of four new panel banks since 2022, including KBC Bank’s recent joining of the panel in May 2026 . ESMA continues to encourage credit institutions active in the Euro unsecured money market to consider joining the Euribor panel, actively supporting the robustness and representativeness of this critical benchmark within the EU financial system. Further information: Tayfun Yilmaz Communications Officer press@esma.europa.eu",
+      "date": "2026-09-24T15:51:27+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "20032 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 24 September, 2026",
+      "lien": "https://www.eba.europa.eu/node/20032",
+      "categorie": "",
+      "description": "EBA E-mail alert 24 September, 2026 Date 24/09/2026 Anonymous (not verified) Thu, 09/24/2026 - 17:00 News & Press The EBA identifies priorities for the review of MiCA",
+      "date": "2026-09-24T15:00:03+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260924_bids",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-24 - Data portal - Annual banking statistics, revision of data for 2025",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260924_bids",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-24T08:30:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/speeches-restricted/ref_20260924_mslanmargpe",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-24 - Martin Schlegel / Antoine Martin / Petra Tschudin: Introductory remarks, news conference",
+      "lien": "https://www.snb.ch/en/publications/communication/speeches-restricted/ref_20260924_mslanmargpe",
+      "categorie": "",
+      "description": "Monetary policy decision We have decided to leave the SNB policy rate unchanged at 0%. Banks' sight deposits held at the SNB will be remunerated at the SNB policy rate up to a certain threshold. The discount for sight deposits above this threshold is unchanged at 0.25 percentage points. We are also willing to be active in the foreign exchange market as necessary to ensure appropriate monetary conditions. Inflation has risen further since June, primarily due to higher energy prices. Medium-term inflationary pressure has increased only slightly. Our monetary policy is appropriate to keep inflation within the range consistent with price stability and supports economic development.",
+      "date": "2026-09-24T08:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/press-releases-restricted/pre_20260924",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-24 - Press release - Monetary policy assessment of 24 September 2026",
+      "lien": "https://www.snb.ch/en/publications/communication/press-releases-restricted/pre_20260924",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-24T07:30:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "20027 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 23 September, 2026",
+      "lien": "https://www.eba.europa.eu/node/20027",
+      "categorie": "",
+      "description": "EBA E-mail alert 23 September, 2026 Date 23/09/2026 Anonymous (not verified) Wed, 09/23/2026 - 17:00 News & Press ESAs call for vigilance over external dependencies, cyber threats and private credit risks",
+      "date": "2026-09-23T15:00:03+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-new-supervisory-priority-digital-innovation-2027",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA sets new supervisory priority on digital innovation from 2027",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esma-sets-new-supervisory-priority-digital-innovation-2027",
+      "categorie": "",
+      "description": "ESMA sets new supervisory priority on digital innovation from 2027 23 September 2026 Digital Finance and Innovation Supervisory convergence The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, will launch a new Union Strategic Supervisory Priority (USSP) to help embrace innovation while protecting investors and maintaining strong safeguards. The digital innovation USSP aims to ensure supervisors have the expertise and capacity to oversee the use of new technologies. In collaboration with National Competent Authorities, our initial focus will be on how supervised entities use artificial intelligence and tokenisation. We will remain flexible to address future technological developments as they emerge. The new priority will run alongside the USSP on cyber and operational resilience, which has been in place since 2025. Going forward, we will continue our efforts and coordination to address the challenges ahead, including those emerging from advanced models such as frontier AI. This year, ESMA is also concluding the USSP on ESG disclosures, following its launch in 2023. Overall, we have made strong progress in improving ESG disclosures and helping investors better understand sustainability information and receive quality advice. While this marks a significant milestone, ESG remains a long-term journey. ▸ Factsheet presenting key information on ongoing and future USSPs Background USSPs are ESMA’s convergence tools that address high-risk areas of strategic importance across the EU. They help direct supervisory resources towards the risks that matter most for investor protection, financial stability and the orderly functioning of EU financial markets. Further information: Tayfun Yilmaz Communications Officer press@esma.europa.eu 23/09/2026 USSPs Union strategic supervisory priorities (USSPs) - factsheet",
+      "date": "2026-09-23T11:55:43+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esas-call-vigilance-over-external-dependencies-cyber-threats-and-private",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESAs call for vigilance over external dependencies, cyber threats and private credit risks",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esas-call-vigilance-over-external-dependencies-cyber-threats-and-private",
+      "categorie": "",
+      "description": "ESAs call for vigilance over external dependencies, cyber threats and private credit risks 23 September 2026 Joint Committee Risk monitoring The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) have identified external dependencies, emerging technologies and private credit as key vulnerabilities for the EU financial system in their Autumn 2026 risk update. The ESAs warn that the sector's reliance on non-EU providers and infrastructures could amplify the impact of geopolitical shocks and operational disruptions. Dependence on ICT service providers outside the European Economic Area remains a particular concern, alongside growing cyber risks linked to increasingly capable AI models. The findings also highlight vulnerabilities related to private credit. Although the sector remains relatively small in the EU, its rapid growth, limited transparency and increasing links with the wider financial system could create risks during periods of stress. Despite these challenges, the EU financial system has remained resilient. Investment funds, insurers and banks continue to show strong fundamentals, although geopolitical tensions, cyber threats, natural catastrophes and technological developments continue to shape the outlook. The ESAs call on supervisors and market participants to strengthen their preparedness and continue closely monitoring risks stemming from external dependencies, private credit and emerging technologies. Background The key findings of Autumn 2026 Joint Committee update on Risks and Vulnerabilities were presented at the meeting of the Financial Stability Table of the EU’s Economic and Financial Committee (FST-EFC) on 10 September 2026 as input from the ESAs. Findings in detail: The EU financial system remains resilient Financial markets have remained resilient despite a volatile environment marked by geopolitical tensions, fluctuations in energy prices and continued crypto-asset volatility. EU equities reached record highs even amid the geopolitical tensions in the Middle East. Bond yields rose but spread widening was limited. Resilience was also evident across the wider financial system. EU investment funds remained resilient throughout the period of volatility. Fundamentals in the insurance and pension sector stayed strong, and capital and funding positions strengthened, however, more frequent natural catastrophes could widen protection gaps, reinforcing the need for stronger action on adaptation. European banks continued to operate from a position of strength, with strong profitability and high capital ratios supported by organic capital creation. Bank asset quality is also resilient with low levels of Non-Performing Loans, but with expectations of asset quality deterioration in certain portfolios, particularly Commercial Real Estate and Small and Medium-sized Enterprises. Nevertheless, risks remain. Geopolitical developments, energy prices, and rapid technological advances including AI continue to shape the risk outlook, while operational risks are increasing with cyber and fraud risk remaining the main sources of concern. Role of non-EU exposures and infrastructure dependencies The ESAs highlight the EU financial sector’s dependencies on non-EU countries across the financial system. Investment funds have substantial exposures to the US, particularly equity UCITS and alternative investment funds, while bond funds are more geographically diversified. In the insurance sector, global interconnectedness is contained overall and is primarily asset- and reinsurance-driven. While these links bring diversification benefits, they also increase market, counterparty, and concentration risks for the sector. In the banking sector, heightened geopolitical tensions are increasing uncertainties. Although direct exposures to the regions affected by geopolitical tensions remain limited, indirect exposure and second-round effects could have wider implications for borrowers and funding conditions. Adverse developments from geopolitical tensions could lead to deteriorating asset quality and subdued credit demand, which are not least reflected in banks’ impairment overlays. Banks also face funding gaps in some non-EU currencies, mainly because of household and non-financial corporation deposits and mostly in USD, GBP and CHF. There is ongoing strong reliance on non-EU ICT service providers and payment systems. Dependence on non-EU service providers also remains visible in financial infrastructures, with clearing, repo and credit ratings markets largely intermediated by non-EU entities. External dependencies present risks, particularly linked to cyber and AI This reliance on non-EU counterparties increases dependencies on other regulatory regimes and can increase vulnerabilities to geopolitical events outside the EU. It heightens cyber risks, particularly given the concentration of dependence on non-EEA ICT providers. In the insurance sector, exposure also arises through cyber-insurance underwriting. In a context of severe geopolitical instability, added frequency and severity of orchestrated AI-enabled cyberattacks could increase claims and accumulation risks for insurers, though exclusion clauses could limit the impacts on the sector. The rapid development of advanced AI systems could make cyberattacks more powerful and harder to contain, allowing malicious actors to identify and exploit vulnerabilities at unprecedented speed. Quantum computing, another rapidly developing technological area, could soon transform the financial sector in key areas by optimising financial processes, fraud and compliance monitoring, as well as pricing. While it promises significant benefits, it could also create major risks, through undermining cryptography systems widely used to secure communications, transactions, databases, and blockchains. Risks posed could also materialise faster than any commercially viable application. Private credit exposures have grown and present risks Private credit markets continue to expand rapidly as a source of financing globally, although the EU market remains relatively small, with limited aggregate exposures among banks and insurers. Nonetheless, the sector presents vulnerabilities linked to increasing complexity, limited transparency, and interlinkages across the financial system. These include infrequent and potentially inaccurate loan valuations, high credit risk, uncertainty about leverage across the value chain, and data gaps affecting both market participants and regulators. Risks may also arise from EU entity exposures to the larger US private credit market. Liquidity mismatches in private credit funds could amplify redemption pressures and generate spillovers to banks through funding and common exposures. Banks could also face credit risks through shared borrowers and financing commitments to private credit vehicles. Supervisors and market participants should stay ready and responsive Given the ongoing geopolitical risks, the Joint Committee of the ESAs calls on supervisors and market participants to strengthen resilience through crisis preparedness, resolution coordination, and more effective and adaptable regulation. It also calls for proactive monitoring and management of risks related to external dependencies, private credit, and AI. This includes managing exposures to non-EEA entities, particularly those linked to private credit, monitoring dependencies on non-EU/EEA service providers, and strengthening preparedness for risks arising from the rapid development of AI and quantum computing. Further information: Tayfun Yilmaz Communications Officer press@esma.europa.eu 23/09/2026 JC 2026 29 Joint Committee update on risks and vulnerabilities in the EU financial system – autumn 2026",
+      "date": "2026-09-23T09:50:54+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.bis.org/media-releases/20260923-basel-iii-risk-based-capital-and-leverage-ratios-are-stable-while-liquidity-indicators-show",
+      "source": "BRI / Bâle",
+      "source_id": "bis-press",
+      "titre": "Basel III risk-based capital and leverage ratios are stable while liquidity indicators show limited movements for large internationally active banks, latest Basel III monitoring exercise shows",
+      "lien": "https://www.bis.org/media-releases/20260923-basel-iii-risk-based-capital-and-leverage-ratios-are-stable-while-liquidity-indicators-show",
+      "categorie": "",
+      "description": "As of the end of 2025, Basel III risk-based capital and leverage ratios remained stable for large internationally active banks compared with June 2025. The average Liquidity Coverage Ratio (LCR) of Group 1 banks improved slightly, while the Net Stable Funding Ratio (NSFR) decreased slightly. The average impact of the Basel III framework on Tier 1 minimum required capital (MRC) for Group 1 banks is +2.2%.",
+      "date": "2026-09-23T00:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260922_1~fb8d813281.en.html",
+      "source": "BCE Supervision",
+      "source_id": "ecb-ssm",
+      "titre": "Pedro Machado: From going concern to gone concern: The supervision-resolution continuum after a decade of the Single Resolution Mechanism",
+      "lien": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260922_1~fb8d813281.en.html",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-22T14:15:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260922~6d21ed7918.en.html",
+      "source": "BCE Supervision",
+      "source_id": "ecb-ssm",
+      "titre": "Claudia Buch: Digital innovation: hindrance or booster for banks’ business models?",
+      "lien": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260922~6d21ed7918.en.html",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-22T14:15:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/press-releases/2026/pre_20260922",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-22 - Press release - Swiss balance of payments and international investment position",
+      "lien": "https://www.snb.ch/en/publications/communication/press-releases/2026/pre_20260922",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-22T07:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260922_bopiip",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-22 - Data portal - Swiss balance of payments and international investment position, Q2 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260922_bopiip",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-22T07:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "{FC78C1FF-2A74-4534-928C-9C9406E1ADDB}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Commission des offres publiques d’acquisition: Joris Gröflin nommé nouveau membre",
+      "lien": "https://www.finma.ch/fr/news/2026/09/20260921-mm-uebernahmekommission/",
+      "categorie": "Communiqué de presse",
+      "description": "Le conseil d’administration de l’Autorité fédérale de surveillance des marchés financiers FINMA a nommé Joris Gröflin à la Commission des offres publiques d’acquisition à partir du 1er janvier 2027.",
+      "date": "2026-09-21T08:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260921_gwd",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-21 - Data portal - Important monetary policy data, 21 September 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260921_gwd",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-21T08:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260921_b",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-21 - Data portal - Economic data, September 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260921_b",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-21T07:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260921_bstaq",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-21 - Data portal - Quarterly banking statistics, Q3 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260921_bstaq",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-21T07:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260921_bsta",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-09-21 - Data portal - Monthly banking statistics, September 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260921_bsta",
+      "categorie": "",
+      "description": "",
+      "date": "2026-09-21T07:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "20016 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 18 September, 2026",
+      "lien": "https://www.eba.europa.eu/node/20016",
+      "categorie": "",
+      "description": "EBA E-mail alert 18 September, 2026 Date 18/09/2026 Anonymous (not verified) Fri, 09/18/2026 - 17:00 News & Press The EBA publishes its final Guidelines on the management of third-party risk, delivering a more proportionate and consistent framework aligned with DORA Final Q&As 2026_7795 Clarification on the reporting of negative fair value changes of hedged items in the Annual Resolution reporting 2026_7895 RESOL1 - how balance of cash collateral received as variation margin for intra group Repurchase Agreements should be reported in Z11.00 and Z02.00 2026_7926 Template Z08.02: Reporting of applications owned and operated by affiliated service providers 2026_7927 Completion of the Z08.02 Template",
+      "date": "2026-09-18T15:00:02+00:00",
+      "analyse": null
+    },
     {
       "guid": "20009 at https://www.eba.europa.eu",
       "source": "EBA",
@@ -87,6 +373,17 @@
         "echeance": null,
         "modele": "claude-sonnet-5"
       }
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/research/working-papers/2026/working_paper_2026_12",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "WP - 2026-09-16 - Aurel Ruben Mäder, Christoph Meyer, Yves Nacht and Daniel Gatica-Perez: Cash saves the day: How cash infrastructure enhances resilience during a card payment system outage",
+      "lien": "https://www.snb.ch/en/publications/research/working-papers/2026/working_paper_2026_12",
+      "categorie": "",
+      "description": "Can cash infrastructure mitigate the adverse effects of a card payment system outage? As cashless payment systems become increasingly prevalent, societies are becoming more vulnerable to technical disruptions such as card payment system outages. This paper investigates a one-day nationwide card payment system outage at a major retailer in Switzerland. To quantify the loss in card sales at the retailer's stores and the increase in cash withdrawals at ATMs, we generate granular counterfactuals by forecasting card payments and cash withdrawals at the store and ATM level. We then use residual-on-residual regressions to control for high-dimensional confounders and estimate the causal effect of outage-induced card payment losses on ATM withdrawals in an event-study framework. Our district-level results suggest that for every 100 lost card payments, there were 11 additional ATM withdrawals. In value terms, for every CHF 100 loss in card payments, ATM withdrawals increased by approximately CHF 68. We also find only limited evidence of increased card payments at competing stores during the outage or at outage-affected stores on the day after the outage. Our findings suggest that cash infrastructure can serve as a resilience buffer during card payment system outages and that consumers rely on cash as their primary fallback payment instrument.",
+      "date": "2026-09-15T22:00:00+00:00",
+      "analyse": null
     },
     {
       "guid": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp260915~7a1e0812d2.en.html",
