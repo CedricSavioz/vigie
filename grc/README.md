@@ -11,6 +11,7 @@ cd grc
 npm install
 npm run dev        # http://localhost:5173
 npm run build      # vérification TypeScript + build de production (dist/)
+npm run build:fichier  # toute l’app dans un seul fichier dist-fichier/index.html, à ouvrir par double-clic
 ```
 
 Node 20+ recommandé. Aucune API ni base de données : tout est stocké dans le navigateur (`localStorage`).

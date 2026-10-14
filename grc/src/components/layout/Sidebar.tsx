@@ -12,6 +12,7 @@ import {
 } from 'lucide-react'
 import { NavLink } from 'react-router-dom'
 import { criticalityOf, effectiveActionStatus, kriStatus } from '../../lib/risk'
+import logoUrl from '../../assets/logo.svg'
 import { useGrc } from '../../store/GrcStore'
 import { useUi } from '../../store/UiStore'
 
@@ -46,7 +47,7 @@ export function Sidebar() {
   return (
     <aside className="fixed inset-y-0 left-0 z-30 flex w-64 flex-col bg-brand-950 text-slate-300">
       <div className="flex items-center gap-3 px-5 py-5">
-        <img src={`${import.meta.env.BASE_URL}favicon.svg`} alt="" className="size-9" />
+        <img src={logoUrl} alt="" className="size-9" />
         <div>
           <p className="text-[15px] leading-tight font-semibold text-white">Vigie GRC</p>
           <p className="text-[11px] text-slate-400">Gouvernance · Risques · Conformité</p>
