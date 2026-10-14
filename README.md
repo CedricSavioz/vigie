@@ -9,6 +9,9 @@ concernés et actions recommandées pour la seconde ligne de défense.
 **Application en ligne : [vigie-veille.netlify.app](https://vigie-veille.netlify.app)**
 (mise à jour automatique via GitHub Actions, une semaine ISO paire sur deux, le lundi)
 
+> **Nouveau — [Vigie GRC](grc/README.md)** : outil web de démonstration Gouvernance, Risques & Conformité
+> (React + TypeScript), dans le dossier `grc/`. Lancement : `cd grc && npm install && npm run dev`.
+
 ---
 
 ## Ce que fait l'application
