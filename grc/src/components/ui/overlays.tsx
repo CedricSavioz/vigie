@@ -62,6 +62,7 @@ const KIND_COLLECTION: Record<Exclude<EntityKind, 'activity'>, CollectionKey> = 
   action: 'actions',
   audit: 'audits',
   loss: 'losses',
+  execution: 'executions',
 }
 
 const CASCADE_HINT: Partial<Record<EntityKind, string>> = {

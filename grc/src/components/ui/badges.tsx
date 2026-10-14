@@ -5,9 +5,11 @@ import {
   AUDIT_SEVERITY_LABEL,
   AUDIT_STATUS_LABEL,
   CATEGORY_LABEL,
+  CONCLUSION_LABEL,
   CONTROL_TYPE_LABEL,
   CRITICALITY_LABEL,
   EFFECTIVENESS_LABEL,
+  EXECUTION_STATUS_LABEL,
   KRI_STATUS_LABEL,
   PRIORITY_LABEL,
   PROCESS_STATUS_LABEL,
@@ -21,6 +23,8 @@ import type {
   ControlEffectiveness,
   ControlType,
   Criticality,
+  ExecutionConclusion,
+  ExecutionStatus,
   KriStatus,
   Priority,
   ProcessStatus,
@@ -143,4 +147,22 @@ export function JiraBadge({ jiraKey }: { jiraKey?: string }) {
       {jiraKey}
     </span>
   )
+}
+
+const EXEC_TONE: Record<ExecutionStatus, BadgeTone> = {
+  a_realiser: 'slate',
+  en_cours: 'brand',
+  soumis: 'violet',
+  a_reprendre: 'amber',
+  valide: 'green',
+}
+export function ExecutionStatusBadge({ value, overdue }: { value: ExecutionStatus; overdue?: boolean }) {
+  if (overdue) return <Badge tone="red">En retard · {EXECUTION_STATUS_LABEL[value].toLowerCase()}</Badge>
+  return <Badge tone={EXEC_TONE[value]}>{EXECUTION_STATUS_LABEL[value]}</Badge>
+}
+
+const CONCLUSION_TONE: Record<ExecutionConclusion, BadgeTone> = { conforme: 'green', anomalie_mineure: 'amber', anomalie_majeure: 'red' }
+export function ConclusionBadge({ value }: { value: '' | ExecutionConclusion }) {
+  if (!value) return <span className="text-xs text-slate-400">—</span>
+  return <Badge tone={CONCLUSION_TONE[value]}>{CONCLUSION_LABEL[value]}</Badge>
 }

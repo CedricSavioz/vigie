@@ -91,6 +91,54 @@ export interface Control {
   riskId: string
   testResult: string
   lastTestDate: string
+  /** Mode opératoire, repris dans chaque fiche de réalisation */
+  objective?: string
+  procedure?: string
+  criterion?: string
+  expectedEvidence?: string
+}
+
+// ─── Réalisation des contrôles (1re ligne) ─────────────────
+
+export type ExecutionStatus = 'a_realiser' | 'en_cours' | 'soumis' | 'a_reprendre' | 'valide'
+export type ExecutionConclusion = 'conforme' | 'anomalie_mineure' | 'anomalie_majeure'
+export type SampleResult = '' | 'conforme' | 'anomalie'
+
+export interface SampleItem {
+  ref: string
+  label: string
+  result: SampleResult
+  comment: string
+}
+
+export interface ExecutionEvent {
+  date: string
+  who: string
+  action: string
+}
+
+/** Une occurrence d'un contrôle : la « fiche de réalisation » reçue par le métier. */
+export interface ControlExecution {
+  id: string
+  jiraKey?: string
+  controlId: string
+  period: string
+  dueDate: string
+  executor: string
+  reviewer: string
+  status: ExecutionStatus
+  performedDate: string
+  population: number
+  sample: SampleItem[]
+  conclusion: '' | ExecutionConclusion
+  rootCause: string
+  correctiveAction: string
+  /** Noms des pièces justificatives (démo : seul le nom est conservé) */
+  evidence: string[]
+  reviewComment: string
+  /** Plan d'action créé automatiquement en cas d'anomalie majeure */
+  actionId?: string
+  history: ExecutionEvent[]
 }
 
 export interface Kri {
@@ -158,6 +206,7 @@ export interface GrcData {
   actions: ActionPlan[]
   audits: AuditRecommendation[]
   losses: Loss[]
+  executions: ControlExecution[]
 }
 
 export type CollectionKey = keyof GrcData
@@ -173,6 +222,7 @@ export type EntityKind =
   | 'action'
   | 'audit'
   | 'loss'
+  | 'execution'
 
 export interface Filters {
   domain: string

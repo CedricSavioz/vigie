@@ -14,6 +14,7 @@ const CREATE_MENU: { kind: EntityKind; label: string }[] = [
   { kind: 'risk', label: 'Risque' },
   { kind: 'control', label: 'Contrôle' },
   { kind: 'kri', label: 'KRI' },
+  { kind: 'execution', label: 'Exécution de contrôle' },
   { kind: 'action', label: "Plan d'action" },
   { kind: 'audit', label: "Recommandation d'audit" },
   { kind: 'loss', label: 'Perte' },

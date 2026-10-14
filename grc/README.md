@@ -24,6 +24,7 @@ Node 20+ recommandé. Aucune API ni base de données : tout est stocké dans le 
 | **B. Cartographie des processus** | React Flow : chaque processus et le tracé de ses activités, colorées par criticité. Clic processus/activité → fiche processus ; clic `R-xx` → fiche risque. |
 | **C. Registre des risques** | Tableau triable et filtrable (porteur, traitement + filtres globaux), export CSV. Clic ligne → fiche risque. |
 | **D. Contrôles & KRI** | Couverture et efficacité des contrôles ; tableau de bord KRI (feu tricolore, jauge vs seuils, tendance 12 mesures). |
+| **Fiches de contrôle** | Fiches de réalisation reçues par le métier à chaque échéance d'un contrôle : mode opératoire, échantillon à évaluer, conclusion, preuves, puis validation (rôle simulé exécutant / valideur). La validation met à jour l'efficacité du contrôle et crée un plan d'action en cas d'anomalie majeure. |
 | **E. Plans d'action** | Kanban glisser-déposer (à faire / en cours / en retard / terminé) ou planning type Gantt. |
 | **F. Audit & pertes** | Recommandations d'audit (sévérité, statut, échéance) et registre des pertes avec graphiques. |
 | **G. Graphe des relations** | Processus → risques → contrôles / KRI / plans / audit / pertes, filtrable par type d'élément. |

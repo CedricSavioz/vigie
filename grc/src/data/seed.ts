@@ -1,4 +1,5 @@
 import { daysFromToday } from '../lib/format'
+import { buildExecutions, CONTROL_PROCEDURES } from './seedExecutions'
 import type {
   ActionPlan,
   ActionStatus,
@@ -256,6 +257,7 @@ const controls: Control[] = ctrlSeeds.map(([riskId, name, type, frequency, owner
   id: `C-${String(idx + 1).padStart(2, '0')}`,
   name, type, frequency, owner, effectiveness, riskId, testResult,
   lastTestDate: daysFromToday(-ago),
+  ...CONTROL_PROCEDURES[`C-${String(idx + 1).padStart(2, '0')}`],
 }))
 
 // ─── KRI ────────────────────────────────────────────────────
@@ -394,5 +396,5 @@ const losses: Loss[] = lossSeeds.map(([riskId, description, amount, ago], idx) =
 
 export function buildSeed(): GrcData {
   // Copie profonde : la donnée de démo n'est jamais mutée.
-  return structuredClone({ processes, risks, controls, kris, actions, audits, losses })
+  return structuredClone({ processes, risks, controls, kris, actions, audits, losses, executions: buildExecutions() })
 }

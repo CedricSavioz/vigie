@@ -27,7 +27,16 @@ const STORAGE_KEY = 'vigie-grc:data:v1'
 function load(): GrcData {
   try {
     const raw = localStorage.getItem(STORAGE_KEY)
-    if (raw) return withJiraKeys(JSON.parse(raw) as GrcData)
+    if (raw) {
+      const saved = JSON.parse(raw) as GrcData
+      // Données enregistrées avant l'ajout des fiches de réalisation : on complète avec la démo.
+      if (!saved.executions) {
+        const seed = buildSeed()
+        saved.executions = seed.executions
+        saved.controls = saved.controls.map((c) => ({ ...seed.controls.find((s) => s.id === c.id), ...c }))
+      }
+      return withJiraKeys(saved)
+    }
   } catch {
     /* stockage indisponible ou corrompu : on repart des données de démo */
   }
@@ -117,6 +126,8 @@ export function GrcProvider({ children }: { children: ReactNode }) {
         return cascadeRisks({ ...d, processes: d.processes.filter((p) => p.id !== id) }, riskIds)
       }
       if (key === 'risks') return cascadeRisks(d, new Set([id]))
+      if (key === 'controls')
+        return { ...d, controls: d.controls.filter((c) => c.id !== id), executions: d.executions.filter((e) => e.controlId !== id) }
       return { ...d, [key]: (d[key] as { id: string }[]).filter((e) => e.id !== id) }
     })
   }, [setData])
@@ -162,10 +173,12 @@ function cascadeRisks(d: GrcData, riskIds: Set<string>): GrcData {
   // Les recommandations d'audit et les pertes sont des faits historiques : on les conserve, détachées.
   const detach = <T extends { riskId: string }>(list: T[]) =>
     list.map((e) => (riskIds.has(e.riskId) ? { ...e, riskId: '' } : e))
+  const removedControls = new Set(d.controls.filter((c) => riskIds.has(c.riskId)).map((c) => c.id))
   return {
     ...d,
     risks: d.risks.filter((r) => !riskIds.has(r.id)),
     controls: keep(d.controls),
+    executions: d.executions.filter((e) => !removedControls.has(e.controlId)),
     kris: keep(d.kris),
     actions: keep(d.actions),
     audits: detach(d.audits),

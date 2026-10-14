@@ -2,6 +2,7 @@ import clsx from 'clsx'
 import {
   AlertTriangle,
   ClipboardCheck,
+  ClipboardList,
   LayoutDashboard,
   ListChecks,
   Network,
@@ -13,6 +14,7 @@ import {
 import { NavLink } from 'react-router-dom'
 import { criticalityOf, effectiveActionStatus, kriStatus } from '../../lib/risk'
 import logoUrl from '../../assets/logo.svg'
+import { isOverdue } from '../../lib/execution'
 import { useGrc } from '../../store/GrcStore'
 import { useUi } from '../../store/UiStore'
 
@@ -28,6 +30,7 @@ const NAV: NavItem[] = [
   { to: '/cartographie', label: 'Cartographie des processus', icon: Workflow, letter: 'B' },
   { to: '/risques', label: 'Registre des risques', icon: AlertTriangle, letter: 'C' },
   { to: '/controles', label: 'Contrôles & KRI', icon: ShieldCheck, letter: 'D' },
+  { to: '/realisation', label: 'Fiches de contrôle', icon: ClipboardList, letter: '' },
   { to: '/plans', label: "Plans d'action", icon: ListChecks, letter: 'E' },
   { to: '/audit', label: 'Audit & pertes', icon: ClipboardCheck, letter: 'F' },
   { to: '/relations', label: 'Graphe des relations', icon: Network, letter: 'G' },
@@ -42,6 +45,7 @@ export function Sidebar() {
     '/risques': data.risks.filter((r) => criticalityOf(r) === 'H').length,
     '/controles': data.kris.filter((k) => kriStatus(k) === 'rouge').length,
     '/plans': data.actions.filter((a) => effectiveActionStatus(a) === 'en_retard').length,
+    '/realisation': data.executions.filter(isOverdue).length,
   }
 
   return (

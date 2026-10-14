@@ -3,7 +3,7 @@ import { useMemo, useState, type FormEvent } from 'react'
 import { nextId } from '../../lib/format'
 import { useGrc } from '../../store/GrcStore'
 import { useUi, type FormRequest } from '../../store/UiStore'
-import type { Activity, CollectionKey, EntityOf, GrcData, Kri, RiskCategory } from '../../types'
+import type { Activity, CollectionKey, ControlExecution, EntityOf, GrcData, Kri, RiskCategory } from '../../types'
 import { Button, Modal } from '../ui/primitives'
 import { ENTITY_CONFIG, NUMERIC_TYPES, type FieldDef, type FormValues } from './entityConfig'
 
@@ -108,6 +108,11 @@ function FormBody({ req, onClose }: { req: FormRequest; onClose: () => void }) {
       entity.activities = (existing as unknown as { activities?: Activity[] })?.activities ?? []
     }
     if (req.kind === 'kri') entity = withHistory(entity, existing as unknown as Kri | null)
+    if (req.kind === 'execution') {
+      const size = Math.max(1, Math.min(30, Number(clean.sampleSize) || 1))
+      delete entity.sampleSize
+      if (!existing) entity = { ...newExecution(size), ...entity }
+    }
     if (req.kind === 'loss' && entity.riskId) {
       const r = data.risks.find((x) => x.id === entity.riskId)
       if (r) entity.category = r.category as RiskCategory
@@ -263,6 +268,22 @@ function Field({
       )}
     </div>
   )
+}
+
+/** Valeurs initiales d'une fiche de réalisation planifiée manuellement. */
+function newExecution(size: number): Omit<ControlExecution, 'id' | 'controlId' | 'period' | 'dueDate' | 'executor' | 'reviewer'> {
+  return {
+    status: 'a_realiser',
+    performedDate: '',
+    population: 0,
+    sample: Array.from({ length: size }, (_, i) => ({ ref: `ELT-${i + 1}`, label: `Élément n° ${i + 1} (à identifier)`, result: '' as const, comment: '' })),
+    conclusion: '',
+    rootCause: '',
+    correctiveAction: '',
+    evidence: [],
+    reviewComment: '',
+    history: [{ date: new Date().toISOString().slice(0, 10), who: 'Direction du Contrôle Interne', action: 'Exécution planifiée manuellement' }],
+  }
 }
 
 /** Une nouvelle valeur de KRI est ajoutée en fin de série (fenêtre glissante de 12 mesures). */

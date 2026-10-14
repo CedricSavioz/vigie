@@ -15,6 +15,7 @@ const ControlsKriPage = lazy(() => import('./pages/ControlsKriPage').then((m) =>
 const DashboardPage = lazy(() => import('./pages/DashboardPage').then((m) => ({ default: m.DashboardPage })))
 const ProcessMapPage = lazy(() => import('./pages/ProcessMapPage').then((m) => ({ default: m.ProcessMapPage })))
 const RelationsGraphPage = lazy(() => import('./pages/RelationsGraphPage').then((m) => ({ default: m.RelationsGraphPage })))
+const ExecutionsPage = lazy(() => import('./pages/ExecutionsPage').then((m) => ({ default: m.ExecutionsPage })))
 const RiskRegisterPage = lazy(() => import('./pages/RiskRegisterPage').then((m) => ({ default: m.RiskRegisterPage })))
 
 export default function App() {
@@ -32,6 +33,7 @@ export default function App() {
                   <Route path="/cartographie" element={<ProcessMapPage />} />
                   <Route path="/risques" element={<RiskRegisterPage />} />
                   <Route path="/controles" element={<ControlsKriPage />} />
+                  <Route path="/realisation" element={<ExecutionsPage />} />
                   <Route path="/plans" element={<ActionPlansPage />} />
                   <Route path="/audit" element={<AuditLossesPage />} />
                   <Route path="/relations" element={<RelationsGraphPage />} />

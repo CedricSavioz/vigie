@@ -4,6 +4,8 @@ import type {
   AuditStatus,
   ControlEffectiveness,
   ControlType,
+  ExecutionConclusion,
+  ExecutionStatus,
   Criticality,
   Frequency,
   KriDirection,
@@ -102,6 +104,20 @@ export const AUDIT_STATUS_LABEL: Record<AuditStatus, string> = {
   ouverte: 'Ouverte',
   en_cours: 'En cours',
   cloturee: 'Clôturée',
+}
+
+export const EXECUTION_STATUS_LABEL: Record<ExecutionStatus, string> = {
+  a_realiser: 'À réaliser',
+  en_cours: 'En cours',
+  soumis: 'Soumis à validation',
+  a_reprendre: 'À reprendre',
+  valide: 'Validé',
+}
+
+export const CONCLUSION_LABEL: Record<ExecutionConclusion, string> = {
+  conforme: 'Conforme',
+  anomalie_mineure: 'Anomalie mineure',
+  anomalie_majeure: 'Anomalie majeure',
 }
 
 export const PROBABILITY_SCALE: Record<number, string> = {
