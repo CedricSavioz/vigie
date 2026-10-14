@@ -1,7 +1,7 @@
 import clsx from 'clsx'
 import { CalendarDays, Columns3, GanttChart, GripVertical, Pencil, Plus } from 'lucide-react'
 import { useState, type DragEvent } from 'react'
-import { PriorityBadge } from '../components/ui/badges'
+import { JiraBadge, PriorityBadge } from '../components/ui/badges'
 import { Button, Card, IconButton, PageHeader, Segmented } from '../components/ui/primitives'
 import { daysUntil, formatDate, formatEurCompact, formatMonth } from '../lib/format'
 import { ACTION_STATUS_LABEL, CRITICALITY_LABEL } from '../lib/labels'
@@ -165,7 +165,10 @@ function ActionCard({ action: a }: { action: ActionPlan }) {
         <GripVertical className="mt-0.5 size-3.5 shrink-0 text-slate-300" />
         <div className="min-w-0 flex-1">
           <div className="flex items-center justify-between gap-1">
-            <span className="font-mono text-[10px] text-slate-400">{a.id}</span>
+            <span className="flex items-center gap-1.5">
+              <span className="font-mono text-[10px] text-slate-400">{a.id}</span>
+              <JiraBadge jiraKey={a.jiraKey} />
+            </span>
             <IconButton label={`Modifier ${a.id}`} className="size-6 opacity-0 group-hover:opacity-100" onClick={() => openForm({ kind: 'action', id: a.id })}>
               <Pencil className="size-3" />
             </IconButton>

@@ -4,7 +4,7 @@ import { useMemo, useState } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { KriGauge, Sparkline } from '../components/charts/KriVisuals'
 import { MiniSelect, SortableTable, type Column } from '../components/ui/SortableTable'
-import { ControlTypeBadge, EffectivenessBadge, KriLight } from '../components/ui/badges'
+import { ControlTypeBadge, EffectivenessBadge, JiraBadge, KriLight } from '../components/ui/badges'
 import { RowActions } from '../components/ui/overlays'
 import { Button, Card, IconButton, PageHeader, ProgressBar, Segmented } from '../components/ui/primitives'
 import { daysFromToday, formatDate, formatNumber } from '../lib/format'
@@ -74,6 +74,7 @@ function ControlsView() {
 
   const columns: Column<Control>[] = [
     { key: 'id', header: 'Réf.', sort: (c) => c.id, render: (c) => <span className="font-mono text-xs whitespace-nowrap text-slate-500">{c.id}</span> },
+    { key: 'jira', header: 'Jira', sort: (c) => Number(c.jiraKey?.split('-')[1] ?? 0), render: (c) => <JiraBadge jiraKey={c.jiraKey} /> },
     {
       key: 'name',
       header: 'Contrôle',
@@ -246,6 +247,7 @@ function KriCard({ kri }: { kri: Kri }) {
         <div className="min-w-0">
           <div className="flex items-center gap-2">
             <span className="font-mono text-[11px] text-slate-400">{kri.id}</span>
+            <JiraBadge jiraKey={kri.jiraKey} />
             <KriLight status={st} withLabel />
           </div>
           <h3 className="mt-1 text-sm leading-snug font-semibold text-slate-900">{kri.name}</h3>

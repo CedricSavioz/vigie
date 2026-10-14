@@ -3,7 +3,7 @@ import { ClipboardCheck, Plus, Wallet } from 'lucide-react'
 import { useState } from 'react'
 import { Bar, BarChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts'
 import { MiniSelect, SortableTable, type Column } from '../components/ui/SortableTable'
-import { AuditStatusBadge, CategoryBadge, SeverityBadge } from '../components/ui/badges'
+import { AuditStatusBadge, CategoryBadge, JiraBadge, SeverityBadge } from '../components/ui/badges'
 import { RowActions } from '../components/ui/overlays'
 import { Button, Card, CardHeader, PageHeader } from '../components/ui/primitives'
 import { lossesLast12Months, monthlyLosses } from '../lib/analytics'
@@ -54,6 +54,7 @@ function AuditSection() {
 
   const columns: Column<AuditRecommendation>[] = [
     { key: 'id', header: 'Réf.', sort: (a) => a.id, render: (a) => <span className="font-mono text-xs whitespace-nowrap text-slate-500">{a.id}</span> },
+    { key: 'jira', header: 'Jira', sort: (a) => Number(a.jiraKey?.split('-')[1] ?? 0), render: (a) => <JiraBadge jiraKey={a.jiraKey} /> },
     {
       key: 'title',
       header: 'Recommandation',

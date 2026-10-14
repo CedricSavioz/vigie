@@ -1,5 +1,6 @@
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from 'react'
 import { buildSeed } from '../data/seed'
+import { withJiraKeys } from '../lib/jira'
 import type {
   Activity,
   ActionPlan,
@@ -26,11 +27,11 @@ const STORAGE_KEY = 'vigie-grc:data:v1'
 function load(): GrcData {
   try {
     const raw = localStorage.getItem(STORAGE_KEY)
-    if (raw) return JSON.parse(raw) as GrcData
+    if (raw) return withJiraKeys(JSON.parse(raw) as GrcData)
   } catch {
     /* stockage indisponible ou corrompu : on repart des données de démo */
   }
-  return buildSeed()
+  return withJiraKeys(buildSeed())
 }
 
 export interface Relations {
@@ -87,7 +88,9 @@ interface GrcStore {
 const Ctx = createContext<GrcStore | null>(null)
 
 export function GrcProvider({ children }: { children: ReactNode }) {
-  const [data, setData] = useState<GrcData>(load)
+  const [data, setDataRaw] = useState<GrcData>(load)
+  // Toute nouvelle entité reçoit sa clé de ticket Jira.
+  const setData = useCallback((fn: (d: GrcData) => GrcData) => setDataRaw((d) => withJiraKeys(fn(d))), [])
 
   useEffect(() => {
     try {
@@ -104,7 +107,7 @@ export function GrcProvider({ children }: { children: ReactNode }) {
       const next = exists ? list.map((e) => (e.id === item.id ? item : e)) : [...list, item]
       return { ...d, [key]: next }
     })
-  }, [])
+  }, [setData])
 
   /** Suppression avec cascade : un processus emporte ses risques, un risque ses contrôles, KRI et plans. */
   const remove = useCallback((key: CollectionKey, id: string) => {
@@ -116,7 +119,7 @@ export function GrcProvider({ children }: { children: ReactNode }) {
       if (key === 'risks') return cascadeRisks(d, new Set([id]))
       return { ...d, [key]: (d[key] as { id: string }[]).filter((e) => e.id !== id) }
     })
-  }, [])
+  }, [setData])
 
   const upsertActivity = useCallback((processId: string, activity: Activity) => {
     setData((d) => ({
@@ -130,7 +133,7 @@ export function GrcProvider({ children }: { children: ReactNode }) {
         }
       }),
     }))
-  }, [])
+  }, [setData])
 
   const removeActivity = useCallback((processId: string, activityId: string) => {
     setData((d) => ({
@@ -141,9 +144,9 @@ export function GrcProvider({ children }: { children: ReactNode }) {
       // Les risques rattachés restent liés au processus, sans activité.
       risks: d.risks.map((r) => (r.activityId === activityId ? { ...r, activityId: '' } : r)),
     }))
-  }, [])
+  }, [setData])
 
-  const reset = useCallback(() => setData(buildSeed()), [])
+  const reset = useCallback(() => setDataRaw(withJiraKeys(buildSeed())), [])
 
   const rel = useMemo(() => buildRelations(data), [data])
 

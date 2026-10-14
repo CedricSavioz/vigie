@@ -14,6 +14,7 @@ import {
   ControlTypeBadge,
   CriticalityBadge,
   EffectivenessBadge,
+  JiraBadge,
   KriLight,
   PriorityBadge,
   ScorePill,
@@ -48,6 +49,7 @@ export function RiskPanel({ id }: { id: string }) {
           <div className="min-w-0">
             <div className="mb-1.5 flex flex-wrap items-center gap-1.5">
               <span className="font-mono text-xs font-semibold text-slate-500">{risk.id}</span>
+              <JiraBadge jiraKey={risk.jiraKey} />
               <CriticalityBadge value={crit} />
               <CategoryBadge value={risk.category} />
               <TreatmentBadge value={risk.treatment} />
@@ -135,6 +137,7 @@ export function RiskPanel({ id }: { id: string }) {
                 <div className="mt-1.5 flex flex-wrap items-center gap-1.5 text-[11px] text-slate-500">
                   <ControlTypeBadge value={c.type} />
                   <EffectivenessBadge value={c.effectiveness} />
+                  <JiraBadge jiraKey={c.jiraKey} />
                   <span>· {FREQUENCY_LABEL[c.frequency]}</span>
                   <span>· {c.owner}</span>
                 </div>
@@ -158,7 +161,8 @@ export function RiskPanel({ id }: { id: string }) {
               <KriLight status={kriStatus(k)} />
               <div className="min-w-0 flex-1">
                 <p className="truncate text-sm font-medium text-slate-800">{k.name}</p>
-                <p className="text-[11px] text-slate-500">
+                <p className="flex items-center gap-1.5 text-[11px] text-slate-500">
+                  <JiraBadge jiraKey={k.jiraKey} />
                   Seuils : {formatNumber(k.thresholdOrange)} / {formatNumber(k.thresholdRed)} {k.unit}
                 </p>
               </div>
@@ -184,6 +188,7 @@ export function RiskPanel({ id }: { id: string }) {
                 <div className="mt-1.5 flex flex-wrap items-center gap-1.5 text-[11px] text-slate-500">
                   <ActionStatusBadge value={effectiveActionStatus(a)} />
                   <PriorityBadge value={a.priority} />
+                  <JiraBadge jiraKey={a.jiraKey} />
                   <span>· Échéance {formatDate(a.deadline)}</span>
                   <span>· {a.owner}</span>
                 </div>
@@ -204,6 +209,7 @@ export function RiskPanel({ id }: { id: string }) {
                 <div className="mt-1.5 flex flex-wrap items-center gap-1.5 text-[11px] text-slate-500">
                   <SeverityBadge value={a.severity} />
                   <AuditStatusBadge value={a.status} />
+                  <JiraBadge jiraKey={a.jiraKey} />
                   <span>· {a.auditor}</span>
                   <span>· Échéance {formatDate(a.deadline)}</span>
                 </div>

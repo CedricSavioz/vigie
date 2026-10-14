@@ -1,6 +1,7 @@
 import clsx from 'clsx'
-import { ChevronDown, Filter, Plus, Search, X } from 'lucide-react'
+import { ChevronDown, Filter, Plus, RefreshCw, Search, Ticket, X } from 'lucide-react'
 import { useEffect, useMemo, useRef, useState } from 'react'
+import { JIRA_PROJECT } from '../../lib/jira'
 import { CATEGORY_LABEL, CRITICALITY_LABEL, options } from '../../lib/labels'
 import { useGrc } from '../../store/GrcStore'
 import { useUi } from '../../store/UiStore'
@@ -44,7 +45,7 @@ export function Header() {
   return (
     <header className="sticky top-0 z-20 border-b border-slate-200/80 bg-white/85 backdrop-blur-md">
       <div className="flex h-16 items-center gap-3 px-8">
-        <div className="relative w-full max-w-xs">
+        <div className="relative w-full max-w-xs min-w-40">
           <Search className="pointer-events-none absolute top-1/2 left-3 size-4 -translate-y-1/2 text-slate-400" />
           <label htmlFor="global-search" className="sr-only">
             Rechercher
@@ -118,7 +119,8 @@ export function Header() {
           )}
         </div>
 
-        <div className="ml-auto">
+        <div className="ml-auto flex items-center gap-3">
+          <JiraStatus />
           <CreateMenu onPick={(kind) => openForm({ kind })} />
         </div>
       </div>
@@ -166,6 +168,48 @@ function CreateMenu({ onPick }: { onPick: (k: EntityKind) => void }) {
           ))}
         </div>
       )}
+    </div>
+  )
+}
+
+/**
+ * Indicateur de source Jira. DÉMO : la synchronisation est simulée,
+ * aucune donnée n'est échangée avec Jira.
+ */
+function JiraStatus() {
+  const { data } = useGrc()
+  const { notify } = useUi()
+  const [syncing, setSyncing] = useState(false)
+  const [lastSync, setLastSync] = useState(() => new Date())
+  const tickets = [data.risks, data.controls, data.kris, data.actions, data.audits].reduce((n, l) => n + l.length, 0)
+  const time = lastSync.toLocaleTimeString('fr-FR', { hour: '2-digit', minute: '2-digit' })
+
+  return (
+    <div
+      className="hidden shrink-0 items-center gap-2 rounded-lg border border-sky-200 bg-sky-50/70 py-1 pr-1 pl-2.5 text-xs whitespace-nowrap text-sky-900 xl:flex"
+      title={`Jira · projet ${JIRA_PROJECT} · ${tickets} tickets · synchronisé à ${time}\nDémo : connexion simulée, aucune donnée n'est échangée`}
+    >
+      <Ticket className="size-3.5 text-sky-600" aria-hidden />
+      <span>
+        <span className="font-semibold">Jira · {JIRA_PROJECT}</span>
+        <span className="hidden text-sky-700/80 min-[1700px]:inline"> · {tickets} tickets · synchronisé à {time}</span>
+      </span>
+      <button
+        type="button"
+        disabled={syncing}
+        onClick={() => {
+          setSyncing(true)
+          setTimeout(() => {
+            setSyncing(false)
+            setLastSync(new Date())
+            notify(`Synchronisation Jira simulée : ${tickets} tickets à jour (démo)`, 'info')
+          }, 900)
+        }}
+        aria-label="Synchroniser avec Jira (simulation)"
+        className="inline-flex size-7 cursor-pointer items-center justify-center rounded-md text-sky-700 transition hover:bg-sky-100 disabled:cursor-wait"
+      >
+        <RefreshCw className={clsx('size-3.5', syncing && 'animate-spin')} />
+      </button>
     </div>
   )
 }

@@ -1,7 +1,7 @@
 import { Download, Plus } from 'lucide-react'
 import { useMemo, useState } from 'react'
 import { MiniSelect, SortableTable, type Column } from '../components/ui/SortableTable'
-import { CategoryBadge, CriticalityBadge, ScorePill, TreatmentBadge } from '../components/ui/badges'
+import { CategoryBadge, CriticalityBadge, JiraBadge, ScorePill, TreatmentBadge } from '../components/ui/badges'
 import { RowActions } from '../components/ui/overlays'
 import { Button, Card, PageHeader } from '../components/ui/primitives'
 import { CATEGORY_LABEL, CRITICALITY_LABEL, options, TREATMENT_LABEL } from '../lib/labels'
@@ -22,6 +22,7 @@ export function RiskRegisterPage() {
 
   const columns: Column<Risk>[] = [
     { key: 'id', header: 'Réf.', render: (r) => <span className="font-mono text-xs whitespace-nowrap text-slate-500">{r.id}</span>, sort: (r) => r.id },
+    { key: 'jira', header: 'Jira', sort: (r) => Number(r.jiraKey?.split('-')[1] ?? 0), render: (r) => <JiraBadge jiraKey={r.jiraKey} /> },
     {
       key: 'name',
       header: 'Risque',

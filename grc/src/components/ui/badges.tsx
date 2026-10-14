@@ -1,3 +1,4 @@
+import { Ticket } from 'lucide-react'
 import clsx from 'clsx'
 import {
   ACTION_STATUS_LABEL,
@@ -126,6 +127,20 @@ export function MaturityDots({ value }: { value: number }) {
       {[1, 2, 3, 4, 5].map((i) => (
         <span key={i} className={clsx('h-1.5 w-3 rounded-full', i <= value ? 'bg-brand-600' : 'bg-slate-200')} />
       ))}
+    </span>
+  )
+}
+
+/** Clé du ticket Jira lié (intégration simulée dans la démo). */
+export function JiraBadge({ jiraKey }: { jiraKey?: string }) {
+  if (!jiraKey) return null
+  return (
+    <span
+      title={`Ticket Jira ${jiraKey} (démo : connexion simulée)`}
+      className="inline-flex items-center gap-1 rounded-md bg-sky-50 px-1.5 py-0.5 font-mono text-[10px] font-semibold whitespace-nowrap text-sky-700 ring-1 ring-sky-200 ring-inset"
+    >
+      <Ticket className="size-3" aria-hidden />
+      {jiraKey}
     </span>
   )
 }

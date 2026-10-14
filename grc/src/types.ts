@@ -61,6 +61,8 @@ export interface Process {
 
 export interface Risk {
   id: string
+  /** Clé du ticket Jira correspondant (ex. GRC-142) */
+  jiraKey?: string
   name: string
   description: string
   category: RiskCategory
@@ -79,6 +81,8 @@ export interface Risk {
 
 export interface Control {
   id: string
+  /** Clé du ticket Jira correspondant (ex. GRC-142) */
+  jiraKey?: string
   name: string
   type: ControlType
   frequency: Frequency
@@ -91,6 +95,8 @@ export interface Control {
 
 export interface Kri {
   id: string
+  /** Clé du ticket Jira correspondant (ex. GRC-142) */
+  jiraKey?: string
   name: string
   definition: string
   riskId: string
@@ -108,6 +114,8 @@ export interface Kri {
 
 export interface ActionPlan {
   id: string
+  /** Clé du ticket Jira correspondant (ex. GRC-142) */
+  jiraKey?: string
   title: string
   description: string
   riskId: string
@@ -122,6 +130,8 @@ export interface ActionPlan {
 
 export interface AuditRecommendation {
   id: string
+  /** Clé du ticket Jira correspondant (ex. GRC-142) */
+  jiraKey?: string
   title: string
   description: string
   auditor: string

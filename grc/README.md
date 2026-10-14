@@ -32,6 +32,14 @@ Node 20+ recommandé. Aucune API ni base de données : tout est stocké dans le 
 - **Fiches latérales** : processus ↔ risque, navigables avec « Retour » ; chaque section a un bouton **Ajouter** pré-rempli.
 - **Réinitialiser les données de démo** : en bas de la barre latérale.
 
+## Intégration Jira (simulée)
+
+Pour illustrer la cible « Jira pour la saisie, Vigie GRC pour le pilotage », chaque risque, contrôle, KRI,
+plan d'action et recommandation d'audit porte la clé du ticket Jira qui le représenterait (`GRC-142`…).
+Les nouvelles entités reçoivent automatiquement la clé suivante. L'indicateur « Jira · GRC » de l'en-tête
+et son bouton de synchronisation sont **simulés** : aucune donnée n'est échangée avec Jira.
+Toute la logique est isolée dans `src/lib/jira.ts`, à remplacer par l'API Jira ou une application Forge.
+
 ## Architecture
 
 ```
