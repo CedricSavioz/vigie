@@ -1,6 +1,358 @@
 {
-  "updated_at": "2026-10-26T10:23:35.232079+00:00",
+  "updated_at": "2026-11-09T13:13:35.302820+00:00",
   "items": [
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/11/statpub_news_20261109_gwd",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-11-09 - Data portal - Important monetary policy data, 9 November 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/11/statpub_news_20261109_gwd",
+      "categorie": "",
+      "description": "",
+      "date": "2026-11-09T09:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "EU seeks nominations for stakeholder group on tokenisation standards in finance",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/eu-seeks-nominations-stakeholder-group-tokenisation-standards-finance",
+      "categorie": "",
+      "description": "EU seeks nominations for stakeholder group on tokenisation standards in finance 09 November 2026 Digital Finance and Innovation The European Central Bank (ECB), together with the European Commission and the European Securities and Markets Authority (ESMA), is calling upon wholesale financial industry stakeholders to express their interest in joining the European Tokenisation Standards Group (ETSG). The group will bring together industry stakeholders to develop common standards for an interconnected tokenised financial ecosystem. The group aims to establish a framework for monitoring compliance with the agreed standards and may formulate recommendations for EU authorities on how to incentivise compliance with those standards. Its work will be market-driven and shaped by the contributions and consensus of industry stakeholders. To this end, the ETSG will be chaired by participants from the industry, with the ECB, the Commission and ESMA acting as observers. Participation in the ETSG is open to a wide range of stakeholders, including EU associations, private entities, global institutions, fintech companies and technical providers working on tokenisation or DLT-based financial services, in accordance with its mandate . Industry stakeholders and public bodies interested in joining the ETSG are invited to review the further background information and respond to the call for nominations . The deadline for submitting applications is 27 November 2026. Further information: Cristina Bonillo Olivares Senior Communications Officer press@esma.europa.eu 09/11/2026 European Tokenisation Standards Group Call for nominations for the European Tokenisation Standards Group 09/11/2026 European Tokenisation Standards Group Mandate of the European Tokenisation Standards Group",
+      "date": "2026-11-09T08:54:42+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "20167 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 6 November, 2026",
+      "lien": "https://www.eba.europa.eu/node/20167",
+      "categorie": "",
+      "description": "EBA E-mail alert 6 November, 2026 Date 06/11/2026 Anonymous (not verified) Fri, 11/06/2026 - 17:00 News & Press The EBA outlines next steps on supervisory reporting simplification and extends implementation timelines following consultation feedback on the ITS Final Q&As 2026_7830 Geographical allocation of exposures arising from synthetic securitisations for the purposes of the Countercyclical Capital Buffer (CCB) 2026_7945 Consolidated application and intragroup transferability of the permanent exemption from deduction of equity holdings in an insurance company from CET1",
+      "date": "2026-11-06T16:00:03+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "{625FC8B5-1973-468F-B5A6-B13925F81D11}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Sanctions : Russie et Bélarus",
+      "lien": "https://www.finma.ch/fr/news/2026/11/20261106-sanktionen-russland-belarus/",
+      "categorie": "Sanction internationale",
+      "description": "Le 4 novembre 2026, le Conseil fédéral a décidé de s’associer aux mesures du 21 e paquet de sanctions édicté par l’Union européenne (UE) à l’encontre de la Russie ainsi qu’aux nouvelles sanctions européennes à l’encontre du Bélarus.",
+      "date": "2026-11-06T15:38:57+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/interviews/int_20261105_msl",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-11-06 - Interview - Interview with Martin Schlegel - Handelszeitung",
+      "lien": "https://www.snb.ch/en/publications/communication/interviews/int_20261105_msl",
+      "categorie": "",
+      "description": "",
+      "date": "2026-11-06T11:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/11/statpub_news_20261106_wki",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-11-06 - Data portal - Exchange rate indices, November 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/11/statpub_news_20261106_wki",
+      "categorie": "",
+      "description": "",
+      "date": "2026-11-06T08:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/11/statpub_news_20261106_sddsplus",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-11-06 - Data portal - IMF SDDS Plus, 6 November 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/11/statpub_news_20261106_sddsplus",
+      "categorie": "",
+      "description": "",
+      "date": "2026-11-06T08:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261106~be7a42d6e7.en.html",
+      "source": "BCE Supervision",
+      "source_id": "ecb-ssm",
+      "titre": "Sharon Donnery: If time stood still: regulatory modernisation and financial stability",
+      "lien": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261106~be7a42d6e7.en.html",
+      "categorie": "",
+      "description": "",
+      "date": "2026-11-06T00:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "20162 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 5 November, 2026",
+      "lien": "https://www.eba.europa.eu/node/20162",
+      "categorie": "",
+      "description": "EBA E-mail alert 5 November, 2026 Date 05/11/2026 Anonymous (not verified) Thu, 11/05/2026 - 17:00 News & Press The EBA publishes revised Guidelines on internal governance, delivering greater proportionality and simplification for banks",
+      "date": "2026-11-05T16:00:02+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20261105_msl",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-11-05 - Martin Schlegel: Transmission and conduct of monetary policy in Switzerland",
+      "lien": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20261105_msl",
+      "categorie": "",
+      "description": "To achieve its mandate, a central bank needs to understand how its actions affect the financial system and the economy. Switzerland is a small open economy with a stable political and institutional environment. This creates a special setting for monetary policy. Our main tool is the SNB policy rate. If necessary, the SNB also uses other measures. Understanding the transmission of our monetary policy to the Swiss economy is important for the SNB in achieving its mandate. Changes in the policy rate affect monetary and financial conditions. Short- and long-term rates change, and asset prices and the exchange rate move. This affects consumption and investment, as well as imports and exports. According to our estimates for Switzerland, both the 10-year interest rate and the exchange rate go up after a policy rate increase. One year after the increase, both inflation and output are lower. How have we applied our monetary policy strategy? In the years after the global financial crisis, policy rates reached very low levels, both in Switzerland and abroad. Safe-haven flows posed a threat to price stability. In such an environment, it was important to supplement interest rate policy with foreign exchange interventions to safeguard price stability. In 2021, after years of low inflation, inflation started to rise globally. Around the world, supply was constrained, demand was strong and monetary policy was loose. The SNB addressed the resulting inflationary pressure by using a combination of policy rate hikes and foreign-currency sales. This prevented a broadening of inflation and limited second-round effects on domestic prices. Over the past few decades, the SNB has faced many crises that threatened price stability. Despite these repeated challenges, the SNB has fulfilled its mandate - price stability in the medium term.",
+      "date": "2026-11-05T12:40:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261105~717ce34d36.en.html",
+      "source": "BCE Supervision",
+      "source_id": "ecb-ssm",
+      "titre": "Anneli Tuominen: Anti-money laundering: how are supervisors tackling the current challenges?",
+      "lien": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261105~717ce34d36.en.html",
+      "categorie": "",
+      "description": "",
+      "date": "2026-11-05T08:25:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "{0DADBBAE-C294-43F4-AE13-8297C0FA08C7}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "La FINMA ouvre une audition sur la révision partielle de la circulaire 2019/2 «Risques de taux – banques»",
+      "lien": "https://www.finma.ch/fr/news/2026/11/20261104-mm-rs-19-02/",
+      "categorie": "Communiqué de presse",
+      "description": "L’Autorité fédérale de surveillance des marchés financiers FINMA a ouvert le 4 novembre 2026 l’audition relative à la révision partielle de la circulaire 2019/2 «Risques de taux – banques». L’audition s’achèvera le 15 janvier 2027.",
+      "date": "2026-11-04T09:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/research/working-papers/2026/working_paper_2026_14",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "WP - 2026-11-04 - Simon Beyeler: Forecasting the post-COVID inflation surge in Switzerland",
+      "lien": "https://www.snb.ch/en/publications/research/working-papers/2026/working_paper_2026_14",
+      "categorie": "",
+      "description": "The surge in inflation after the COVID-19 pandemic caught forecasters and policy makers by surprise: shocks treated as transitory turned out to be persistent, producing large forecast errors. Watson (2026) asks whether the U.S. surge could instead have been recognised as persistent in real time using Unobserved-Components Stochastic Volatility (UC-SV) models. This paper replicates and extends that exercise for Switzerland, using (i) total Swiss CPI inflation and (ii) sectoral inflation for 22 expenditure groups - both extended with an explicit seasonal component since the Swiss CPI is not seasonally adjusted. Both models attribute the bulk of the 2021-2023 Swiss surge to the permanent trend rather than to transitory noise and reach that reading from data available in real time. In the sectoral model, the sector-specific trends account for most of the variance, whereas the common inflation trend plays only a minor role.",
+      "date": "2026-11-03T23:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "{F144914C-65FB-40E6-8D70-0F48C0EC9189}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce de sanctions actualisées : Nicaragua",
+      "lien": "https://www.finma.ch/fr/news/2026/11/20261103-sr-946-231-158-5/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a publié une modification de l'annexe de l'ordonnance du 24 juin 2020 instituant des mesures à l'encontre de Nicaragua (RS 946.231.158.5).",
+      "date": "2026-11-03T16:17:19+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "{C6329990-C9D2-421D-B126-6127B9F416E5}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce de sanctions actualisées : Soudan",
+      "lien": "https://www.finma.ch/fr/news/2026/11/20261103-sr-946-231-18/",
+      "categorie": "Sanction internationale",
+      "description": "Le Département fédéral de l'économie, de la formation et de la recherche DEFR a modifié l'annexe 2 de l'ordonnance du 25 mai 2005 instituant des mesures à l’encontre du Soudan (RS 946.231.18).",
+      "date": "2026-11-03T16:00:13+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "{1553708B-4D48-4D62-AF71-3A768E568200}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "AI & Digital Transformation – New Opportunities for Private and Public Organisations",
+      "lien": "https://www.finma.ch/fr/documentation/publications-finma/exposes-et-articles/referate-folder/20261103-rede-marlene-amstadt-sba/",
+      "categorie": "Exposés et articles",
+      "description": "",
+      "date": "2026-11-03T11:57:28+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20261103_msl",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-11-03 - Martin Schlegel: Die Schweizer Wirtschaft im globalen Umfeld",
+      "lien": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20261103_msl",
+      "categorie": "",
+      "description": "",
+      "date": "2026-11-03T10:30:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261103~dff42acdd1.en.html",
+      "source": "BCE Supervision",
+      "source_id": "ecb-ssm",
+      "titre": "Pedro Machado: Simplification and complexity in the banking union: separating the wheat from the chaff",
+      "lien": "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/html/ssm.sp261103~dff42acdd1.en.html",
+      "categorie": "",
+      "description": "",
+      "date": "2026-11-03T08:45:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "{6C196E1E-AF16-4BFB-A18E-C5B3B84711E1}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce des sanctions actualisée : Taliban",
+      "lien": "https://www.finma.ch/fr/news/2026/10/20261102-sr-946-231-07/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux Taliban (SR 946.231.07).",
+      "date": "2026-11-02T13:38:28+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/11/statpub_news_20261102_a",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-11-02 - Data portal - Interest rates and exchange rates, November 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/11/statpub_news_20261102_a",
+      "categorie": "",
+      "description": "",
+      "date": "2026-11-02T13:30:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/11/statpub_news_20261102_gwd",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-11-02 - Data portal - Important monetary policy data, 2 November 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/11/statpub_news_20261102_gwd",
+      "categorie": "",
+      "description": "",
+      "date": "2026-11-02T09:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in261030~21a824d8f2.en.html",
+      "source": "BCE Supervision",
+      "source_id": "ecb-ssm",
+      "titre": "Pedro Machado: Interview with Bloomberg",
+      "lien": "https://www.bankingsupervision.europa.eu//press/interviews/date/2026/html/ssm.in261030~21a824d8f2.en.html",
+      "categorie": "",
+      "description": "",
+      "date": "2026-10-30T10:10:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/10/statpub_news_20261030_c",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-10-30 - Data portal - SNB balance sheet items end of September 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/10/statpub_news_20261030_c",
+      "categorie": "",
+      "description": "",
+      "date": "2026-10-30T08:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/10/statpub_news_20261030_sddsplus",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-10-30 - Data portal - IMF SDDS Plus, 30 October 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/10/statpub_news_20261030_sddsplus",
+      "categorie": "",
+      "description": "",
+      "date": "2026-10-30T08:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/press-releases/2026/pre_20261030",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-10-30 - Press release - Interim results of the Swiss National Bank as at 30 September 2026",
+      "lien": "https://www.snb.ch/en/publications/communication/press-releases/2026/pre_20261030",
+      "categorie": "",
+      "description": "",
+      "date": "2026-10-30T06:15:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20261029_gpetmo",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-10-29 - Petra Tschudin / Thomas Moser: Liquidity against collateral: the SNB's approach",
+      "lien": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20261029_gpetmo",
+      "categorie": "",
+      "description": "In order to perform its statutory tasks, the SNB provides the financial system with central bank liquidity against sufficient collateral. The SNB's collateral policy protects its balance sheet and ensures that liquidity is provided in an effective, efficient and transparent manner. The SNB GC Basket plays a key role in the implementation of monetary policy and in supporting payments. It combines high quality requirements with a broad, international focus, and has also become established as the collateral standard in the Swiss interbank repo market. This common standard and the integrated market infrastructure facilitate the mobilisation of collateral, thereby supporting the effective implementation of monetary policy and the smooth functioning of payments. The SNB reviews its collateral policy on an ongoing basis and adjusts it as necessary to take account of changed market conditions and technological developments.",
+      "date": "2026-10-29T17:30:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "20143 at https://www.eba.europa.eu",
+      "source": "EBA",
+      "source_id": "eba-news",
+      "titre": "EBA E-mail alert 29 October, 2026",
+      "lien": "https://www.eba.europa.eu/node/20143",
+      "categorie": "",
+      "description": "EBA E-mail alert 29 October, 2026 Date 29/10/2026 Anonymous (not verified) Thu, 10/29/2026 - 17:00 News & Press The EBA advises on targeted simplifications to Taxonomy disclosures",
+      "date": "2026-10-29T16:00:03+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-45",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA publishes latest edition of its newsletter",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esma-publishes-latest-edition-its-newsletter-45",
+      "categorie": "",
+      "description": "ESMA publishes latest edition of its newsletter 29 October 2026 ESMA newsletter The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has published today the latest edition of its Spotlight on Markets newsletter , covering key activities and publications from September and October 2026. This edition opens with the appointment of Carlo Comporti as ESMA’s next Chair . His appointment was confirmed by the Council of the European Union, and he will take up his position on 1 November 2026. Top news highlights include ESMA’s 2027 Annual Work Programme , setting out priorities for stronger, simpler and more integrated EU capital markets; the new Union Strategic Supervisory Priority on digital innovation; and the European Supervisory Authorities’ priorities for 2027 . Other key publications featured in this edition include: the preparations for the transition to T+1 settlement , the ESAs’ call for vigilance over external dependencies, cyber threats and private markets , ESMA’s proposals to make MiCA clearer, safer and ready for emerging services , and its second Trends, Risks and Vulnerabilities Report of 2026 . Other updates include a Memorandum of Understanding with the Securities and Exchange Board of India , ESMA’s analysis of the continued growth in cross-border investment services , as well as the latest supervisory, regulatory and enforcement developments. The Spotlight on Markets newsletter is published regularly and is available on ESMA’s website. For regular updates, follow ESMA on LinkedIn , X and Instagram . 29/10/2026 ESMA newsletter Newsletter September and October 2026",
+      "date": "2026-10-29T13:26:16+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-proposes-simpler-eu-taxonomy-reporting",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA proposes simpler EU Taxonomy reporting",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esma-proposes-simpler-eu-taxonomy-reporting",
+      "categorie": "",
+      "description": "ESMA proposes simpler EU Taxonomy reporting 29 October 2026 Issuer disclosure Sustainable finance The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has published its Final Report providing technical advice to the European Commission on simplifying key performance indicators under the Taxonomy Disclosures Delegated Act. ESMA recommends narrowing the mandatory operating expenditure (OpEx) KPI to non-capitalised research and development expenditure. It also proposes simpler group Taxonomy reporting, including removing the weighted-average KPI, and targeted measures to make disclosures more proportionate, clearer and easier to use. The Technical Advice was coordinated with the other European Supervisory Authorities, in particular on the voluntary use of counterparties’ OpEx information and group-level Taxonomy reporting. The proposals support ESMA’s simplification and burden reduction objectives, while focussing reporting on information that is useful for decision-making, and preserving the relevance, comparability and reliability of Taxonomy disclosures. Next steps ESMA has submitted the Final Report and its technical advice to the European Commission for consideration in its review of the Taxonomy Disclosures Delegated Act. Further information: Ana Dilaverakis Communications Officer press@esma.europa.eu 29/10/2026 ESMA32-846262651-5927 Final report on Technical Advice on selected KPIs under the Taxonomy Disclosures Delegated Act",
+      "date": "2026-10-29T09:05:50+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/10/statpub_news_20261029_fin",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "2026-10-29 - Data portal - Swiss Financial Accounts, Q2 2026",
+      "lien": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/10/statpub_news_20261029_fin",
+      "categorie": "",
+      "description": "",
+      "date": "2026-10-29T08:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.snb.ch/en/publications/research/economic-notes/2026/economic_note_2026_08",
+      "source": "BNS",
+      "source_id": "snb-news",
+      "titre": "ES - 2026-10-29 - Damien Klossner, Igor Mlikota and Sabrina Stadelmann: What collateral is used in the Swiss interbank repo market?",
+      "lien": "https://www.snb.ch/en/publications/research/economic-notes/2026/economic_note_2026_08",
+      "categorie": "",
+      "description": "Collateral is a key component of repurchase agreement transactions. We document collateral usage in the Swiss interbank repo market using an extensive transaction-level dataset. We find that a substantial share of securities eligible for the SNB General Collateral Basket is actively used, particularly securities denominated in Swiss francs. Collateral usage is concentrated in a small number of issuers and highly rated securities denominated in Swiss francs. At the same time, it displays a broad and balanced maturity profile, and cross-currency repos account for a meaningful share of trading volume.",
+      "date": "2026-10-28T23:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "{BA4F55C2-63B3-4BFE-A3FB-92501AF86A17}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Annonce des sanctions actualisée : EIIL (Daech) et Al-Qaïda",
+      "lien": "https://www.finma.ch/fr/news/2026/10/20261028-sr-946-231-08/",
+      "categorie": "Sanction financière",
+      "description": "Le Secrétariat d'État à l'économie (SECO) a publié une modification de la liste des personnes physiques, entreprises et organisations sanctionnées figurant dans l'ordonnance du 21 mars 2025 instituant des mesures à l’encontre de personnes, groupes, entreprises et entités liés aux organisations EIIL (Daech) et Al-Qaïda (RS 946.231.08).",
+      "date": "2026-10-28T14:54:15+00:00",
+      "analyse": null
+    },
     {
       "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/10/statpub_news_20261026_gwd",
       "source": "BNS",
@@ -68,6 +420,17 @@
       "analyse": null
     },
     {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-streamlines-several-qas-part-simplification-efforts",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA streamlines several Q&As as part of simplification efforts",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esma-streamlines-several-qas-part-simplification-efforts",
+      "categorie": "",
+      "description": "ESMA streamlines several Q&As as part of simplification efforts 22 October 2026 Market Abuse MiFID - Secondary Markets Short Selling Simplification and Burden Reduction The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, has updated its Questions and Answers (Q&As) on market structure under MiFID II , the Market Abuse Regulation (MAR) and the Short Selling Regulation (SSR) , removing outdated, duplicative and no longer relevant guidance as part of its Simplification and Burden Reduction (SBR) initiative . The exercise focused on identifying Q&As that are no longer relevant due to legislative amendments that are reflected in established market practices, or that are covered by other ESMA guidance. As a result, several Q&As have been withdrawn or amended, including instances where the same issues are addressed in other ESMA publications such as supervisory briefings and opinions. The goal of the initiative is to reduce unnecessary complexity, remove obsolete guidance and ensure that ESMA's Q&As remain relevant, proportionate and consistent with the current legislative framework. Stakeholders are encouraged to refer to the updated set of Q&As together with any other ESMA guidance for the most comprehensive interpretation of the applicable rules. Further information: Cristina Bonillo Olivares Senior Communications Officer press@esma.europa.eu Tayfun Yilmaz Communications Officer press@esma.europa.eu",
+      "date": "2026-10-22T14:51:53+00:00",
+      "analyse": null
+    },
+    {
       "guid": "https://www.snb.ch/en/publications/communication/summaries/zus_20261022",
       "source": "BNS",
       "source_id": "snb-news",
@@ -109,6 +472,17 @@
       "categorie": "",
       "description": "",
       "date": "2026-10-21T07:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-specifies-requirements-facilitate-safe-use-post-trade-risk-reduction",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA specifies requirements to facilitate safe use of post-trade risk reduction services",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esma-specifies-requirements-facilitate-safe-use-post-trade-risk-reduction",
+      "categorie": "",
+      "description": "ESMA specifies requirements to facilitate safe use of post-trade risk reduction services 20 October 2026 Guidelines and Technical standards Post Trading The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has outlined the conditions that providers and users of post-trade risk reduction (PTRR) services need to meet for certain OTC derivative transactions to be exempt from the clearing obligation under EMIR 3. The new rules, published in its latest final report, also establish safeguards for the provision of these services and the monitoring of the use of the exemption. With these new rules in place, the goal is to facilitate the use of PTRR services and ensure that the exemption is used under the conditions laid down in EMIR 3 and does not lead to the misuse of the clearing obligation. The final report specifies the elements and requirements of PTRR services, including the information to be provided to participants, how exercises are carried out, the controls that providers should have in place, record-keeping and how the exemption will be monitored. PTRR services help market participants manage their derivatives portfolios and reduce risks, thereby contributing to safer and more resilient derivatives markets. The final rules build on existing market practices and aim to avoid introducing additional requirements where existing rules already meet the relevant objectives, in line with ESMA’s simplification and burden reduction objectives. Next steps The draft Regulatory Technical Standards will now be submitted to the European Commission for endorsement, in line with the standard review process. Further information: Cristina Bonillo Olivares Senior Communications Officer press@esma.europa.eu Tayfun Yilmaz Communications Officer press@esma.europa.eu 20/10/2026 ESMA74-1049116226-981 Final report on the Regulatory Standards on the requirements for Post-Trade Risk Reduction services for the purpose of the clearing obligation exemption under EMIR",
+      "date": "2026-10-20T12:34:51+00:00",
       "analyse": null
     },
     {
@@ -178,6 +552,39 @@
       "analyse": null
     },
     {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/new-qas-available-27",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "New Q&As available",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/new-qas-available-27",
+      "categorie": "",
+      "description": "New Q&As available 16 October 2026 CCP Digital Finance and Innovation The European Securities and Markets Authority (ESMA), the EU's securities markets regulator, has published the following question and answer: European crowdfunding service providers for business Crowdfunding service providers that charge registration, membership, or other access fees (\"investment club\" crowdfunding platforms) (2950) Markets in Crypto-Assets Regulation (MiCA) Use by CASPs of payment accounts provided by non-bank payment service providers for holding clients’ funds (2949) OTC derivatives, central counterparties and trade repositories (EMIR) - CCPs AAR 85% exemption (2936) AAR thresholds calculation (2937) AAR representativeness obligation (2938) Questions and Answers section",
+      "date": "2026-10-16T14:14:51+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-finalises-review-guidelines-delay-disclosure-inside-information",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA finalises the review of guidelines on the delay in disclosure of inside information",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esma-finalises-review-guidelines-delay-disclosure-inside-information",
+      "categorie": "",
+      "description": "ESMA finalises the review of guidelines on the delay in disclosure of inside information 16 October 2026 Guidelines and Technical standards Market Abuse Market Integrity Simplification and Burden Reduction The European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, has updated and streamlined its Market Abuse Regulation (MAR) guidelines on the delay in the disclosure of inside information , completing the revised regulatory framework. Under MAR, issuers are required to disclose as soon as possible the inside information concerning them, to ensure that investors are informed and to prevent insider dealing. In specific circumstances, issuers may delay public disclosure to avoid prejudicing their legitimate interests. These guidelines help issuers in their decision to delay disclosure by providing a non-exhaustive list of legitimate interests that could justify such delay. Following a public consultation, ESMA has identified five additional legitimate interests for delaying disclosures, covering the following situations: where the issuer is requested not to disclose information by a public authority; where the issuer needs to collect additional information to enable a correct assessment of inside information by market participants; where the issuer may risk the loss of a business opportunity following the disclosure of sensitive commercial information; where the appointment of a member of the issuer’s governing body or a manager holding a key position could be jeopardised; where the disclosure of inside information concerning companies within the same group could cause a direct prejudice to the issuer and undermine the effectiveness of the delay applied by other company. Since June 2026, issuers are no longer required to immediately disclose inside information related to protracted processes before their completion. As a result, and in line with its simplification and burden reduction objectives, ESMA has removed from the current guidelines the legitimate interests for delayed disclosure connected to these processes. Next steps The revised guidelines will become applicable from the date of their publication on ESMA’s website in the 24 official languages of the European Union. Further information: Cristina Bonillo Olivares Senior Communications Officer press@esma.europa.eu 16/10/2026 ESMA74-268544963-1718 Final report on the MAR Guidelines on delay in the disclosure of inside information",
+      "date": "2026-10-16T10:21:13+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/one-year-go-t1-settlement-regulatory-framework-complete-now-lets-make-it",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "One year to go for T+1 settlement: the regulatory framework is complete, now let’s make it happen",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/one-year-go-t1-settlement-regulatory-framework-complete-now-lets-make-it",
+      "categorie": "",
+      "description": "One year to go for T+1 settlement: the regulatory framework is complete, now let’s make it happen 16 October 2026 Guidelines and Technical standards Post Trading Press Releases The European Union (EU) will switch to T+1 settlement on 11 October 2027. Ahead of the transition, the European Securities and Markets Authority (ESMA), the EU’s financial markets regulator and supervisor, calls on market participants to finalise technical preparations, assess readiness across their entire ecosystems and begin testing as soon as possible throughout the trading and settlement chain. With the publication of the RTS and ESMA Guidelines on standardised procedures and messaging protocols , the regulatory framework is now ready. The first deadline is for investment firms and their clients to comply with the new requirements on allocations and confirmations from 7 December 2026. Verena Ross, ESMA’s chair, said: “The transition to T+1 is one of the most impactful recent market structure initiatives. It will fundamentally improve the efficiency and international competitiveness of the EU markets. The date is known, the roadmap is clear, and, with the final piece of regulatory guidance published today, the framework is now in place for all players in the trading and settlement chain to prepare for 11 October 2027. A successful transition is a shared effort by the industry and the public authorities. The focus now shifts to market participants to comply with the regulatory requirements, ready their systems and processes, and test their preparedness for the change, considering the recommendations of the EU T+1 Industry Committee.” Delivering the final piece of regulatory work ESMA’s revised guidelines on standardised procedures and messaging protocols clarify how market participants should meet the new requirements on allocations and confirmations introduced by the amended RTS on Settlement Discipline, in particular, as of 7 December 2026, the mandatory use of: electronic, standardised communication channels and international messaging standards; and machine-readable communication methods, except in cases of temporary technical disruptions. Further information: Cristina Bonillo Olivares Senior Communications Officer press@esma.europa.eu 16/10/2026 ESMA74-2119945926-3749 Final report on the revised CSDR Guidelines on standardised procedures and messaging protocols used between investment firms and their professional clients 16/10/2026 ESMA71-545613100-2889 One year to go for T+1 settlement: the regulatory framework is complete, now let’s make it happen - Press release",
+      "date": "2026-10-16T07:49:31+00:00",
+      "analyse": null
+    },
+    {
       "guid": "{55A5CC66-47F5-4ACA-A424-2B05B81C2813}",
       "source": "FINMA",
       "source_id": "finma-news",
@@ -200,6 +607,17 @@
       "analyse": null
     },
     {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esma-updates-its-manual-transparency-new-guidance-otc-derivatives-and-tick",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA updates its manual on transparency with new guidance for OTC derivatives and tick-size regime",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esma-updates-its-manual-transparency-new-guidance-otc-derivatives-and-tick",
+      "categorie": "",
+      "description": "ESMA updates its manual on transparency with new guidance for OTC derivatives and tick-size regime 15 October 2026 Trading The European Securities and Markets Authority (ESMA), the EU regulator and supervisor, has updated its manual on transparency to provide further guidance on the identification of over-the-counter (OTC) derivatives subject to transparency requirements and to enhance supervisory convergence on the application of the tick-size regime. The update also clarifies how the identifying reference data for OTC derivatives should be provided for transparency purposes, supporting greater consistency in the data reported to and published through the consolidated tape. The manual finally includes several published Q&As on the tick size regime, as well as the addition of recommendations on the application of the tick-size regime, comprising when trading venues and national competent authorities may intervene in specific circumstances. Next steps With regard to the guidance on OTC identifying reference data, the updated manual should be considered a draft until the entry into force of the related technical standards (RTS 2 and RTS on CTP input/output data). Further information: Cristina Bonillo Olivares Senior Communications Officer press@esma.europa.eu 15/10/2026 ESMA74-2134169708-6870 Manual on post-trade transparency under MiFID II/ MiFIR",
+      "date": "2026-10-15T13:17:15+00:00",
+      "analyse": null
+    },
+    {
       "guid": "https://www.snb.ch/en/publications/communication/speeches/2026/ref_20261015_gpe",
       "source": "BNS",
       "source_id": "snb-news",
@@ -219,6 +637,17 @@
       "categorie": "",
       "description": "",
       "date": "2026-10-15T08:00:00+00:00",
+      "analyse": null
+    },
+    {
+      "guid": "https://www.esma.europa.eu/press-news/esma-news/esmas-third-sanctions-report-highlights-need-greater-convergence-enforcement",
+      "source": "ESMA",
+      "source_id": "esma-news",
+      "titre": "ESMA's third Sanctions Report highlights the need for greater convergence in enforcement",
+      "lien": "https://www.esma.europa.eu/press-news/esma-news/esmas-third-sanctions-report-highlights-need-greater-convergence-enforcement",
+      "categorie": "",
+      "description": "ESMA's third Sanctions Report highlights the need for greater convergence in enforcement 15 October 2026 Market Abuse Supervisory convergence Transparency The European Securities and Markets Authority (ESMA), the EU's financial markets regulator and supervisor, published today its consolidated report on sanctions and measures imposed across the European Economic Area (EEA) in 2025, enhancing the transparency of sanctions data reported under EU financial acts within its remit. In 2025, national authorities across the EEA imposed more than 950 administrative sanctions and measures, a stable number compared with the past two years. The aggregated value of administrative fines amounted to almost €82 million. The report also highlights an increased use of settlements. As in previous years, activity remained focused mainly on breaches of the Market Abuse Regulation and the Markets in Financial Instruments Directive and Regulation. Enforcement activity remained concentrated in a small number of jurisdictions, with Germany, France and Spain accounting for two thirds of the total value of administrative fines across the EEA. Need for stronger convergence The report highlights significant differences in enforcement, including in the number and type of sanctions imposed, the level of fines and the use of settlement procedures. The findings point to a need for stronger convergence in enforcement, particularly where limited enforcement activity cannot be explained by market size. Supervisory effectiveness ultimately depends on market participants’ compliance with the rules, and should not be measured solely by the number or value of the sanctions imposed in a Member State. Nevertheless, enforcement actions are an important component of the supervisory toolkit. Next steps Building on the findings of this report, ESMA will further continue to foster exchanges among national securities and markets authorities on the effective and consistent implementation of capital markets rules, including through case discussions. The objective is to ensure that similar breaches result in similar enforcement outcomes across the EU, irrespective of where they have been committed. The underlying data are available in excel format . In addition, a snapshot of the report’s key findings is published here . Further information: Ana Dilaverakis Communications Officer press@esma.europa.eu 15/10/2026 ESMA43-502934634-2902 Report on Sanctions and measures imposed in Member States in 2025 15/10/2026 ESMA43-502934634-2993 Consolidated sanctions report - Table of sanctions reported for 2025 15/10/2026 ESMA43-502934634-2953 Enforcement snapshot: Sanctions and measures under EU Acts in 2025",
+      "date": "2026-10-15T07:41:07+00:00",
       "analyse": null
     },
     {
@@ -1254,6 +1683,17 @@
         "echeance": null,
         "modele": "claude-sonnet-5"
       }
+    },
+    {
+      "guid": "{76F2E7D7-009E-4408-80FB-919899745E88}",
+      "source": "FINMA",
+      "source_id": "finma-news",
+      "titre": "Plus de trente ans de gestion de crises financières: enseignements tirés et priorités de surveillance",
+      "lien": "https://www.finma.ch/fr/documentation/publications-finma/exposes-et-articles/referate-folder/20240612-rede-stefan-walter-buba/",
+      "categorie": "Exposés et articles",
+      "description": "",
+      "date": "2026-09-14T11:48:44+00:00",
+      "analyse": null
     },
     {
       "guid": "https://www.snb.ch/en/publications/statistical-publications/data-portal/2026/09/statpub_news_20260914_gwd",
